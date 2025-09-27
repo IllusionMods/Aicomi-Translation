@@ -1,0 +1,13 @@
+制服=制服
+リップ=唇彩
+アイシャドウ=眼影
+チーク=腮紅
+コーデコピー (Face makeup)=穿搭複製 (Face makeup)
+コーデコピー=穿搭複製
+私服=便服
+足のネイル=腳部美甲
+手のネイル=手部美甲
+コーデコピー (Body makeup)=穿搭複製 (Body makeup)
+コーデコピー (Hairstyle)=穿搭複製 (Hairstyle)
+コーデコピー (Costume)=穿搭複製 (Costume)
+コーデコピー (Accessory)=穿搭複製 (Accessory)
