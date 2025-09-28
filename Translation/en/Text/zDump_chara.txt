@@ -1,0 +1,37 @@
+// Warning: This is a raw string dump - many of those may not actually appear in the game and be comments or debug strings
+
+アウトラインの幅(ゲーム設定)=Outline Width (Game Settings)
+インナーカラー(R半以下)=Inner Color (R 1/2 or less)
+ハイライトスペース=Highlight Space
+ハイライト移動範囲=Highlight Movement Range
+マットキャップ陰影カラー=Matte Cap Shading Color
+メッシュカラー=Mesh Color
+モザイクサイズ=Mosaic Size
+モザイク白塗り=Mosaic White Fill
+上着衣マスク=Top Mask
+下着衣マスク=Underwear Mask
+乳首の色１=Nipple Color 1
+乳首の色２=Nipple Color 2
+乳首テクスチャ=Nipple Texture
+右耳かけぱっつん=Right Ear Bang
+尻赤の色=Butt Red Color
+尻赤強度=Butt Red Intensity
+左耳かけぱっつん=Left Ear Bang
+毛の色=Hair Color
+汁タイリング=Squirt Tiling
+汁テクスチャ=Squirt Texture
+汁マスク=Squirt Mask
+汗強度=Sweat Intensity
+濡れ強度=Wet Intensity
+特殊表現カラー=Special Expression Color
+特殊表現強度=Special Expression Intensity
+肉感強度=Flesh Intensity
+肌の部分色=Skin Color
+陰毛テクスチャ=Pubic Hair Texture
+頬赤強度=Cheek Blush Intensity
+食い込み強度=Indentation Intensity
+髪ツヤ表示境界=Hair Shine Display Boundary
+髪ツヤ表示範囲=Hair Shine Display Range
+髪ハイライト基本位置(上下)=Hair Highlight Base Position (Up/Down)
+髪ハイライト移動量(上下)=Hair Highlight Movement Amount (Up/Down)
+髪ハイライト移動量(左右)=Hair Highlight Movement Amount (Left/Right)
