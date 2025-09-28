@@ -1,3 +1,10 @@
+// TODO: the wide spaces are duping up the translations, both names below are already translated but with normal space and so they get translated again
+花守　夏芽=Natsume Hanamori
+川澄　結衣=Yui Kawasumi
+
+// TODO need to split up the character names
+吉沢=Yoshizawa
+
 // Unsorted (some might be from custom cards)
 アルフェール ヴェルタ=Alfere Verta
 バステト サルヴィーナ=Bastet Salvina
@@ -32,7 +39,6 @@
 西沢 真央=Mao Nishizawa
 錦ノ宮 月乃=Nishikinomiya Tsukino
 長倉 汐里=Shiori Nagakura
-川澄 結衣=Yui Kawasumi
 
 
 // Default character cards (SVS)

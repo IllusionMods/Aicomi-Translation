@@ -77,10 +77,8 @@
 眉の色を髪と陰毛に反映する=Copy Eyebrow Color To Hair And Pubic Hair
 眉の色を髪の色に合わせる=Copy Hair Color To Eyebrows
 眉の色を陰毛の色に合わせる=Copy Pubic Hair Color To Eyebrows
-カラー02=Color 02
-カラー01=Color 01
-眉カラー01=Eyebrow Color 01
-眉カラー02=Eyebrow Color 02
+眉=Eyebrow
+
 眉の上下=Eyebrow Vertical Position
 眉の横位置=Eyebrow Spacing
 眉の角度=Eyebrow Angle
@@ -102,9 +100,9 @@
 上まつ毛の種類=Upper Eyelashes
 目元の設定=Eyelash Settings
 カラー03=Color 03
-アイラインカラー01=Eyeline Color 01
-アイラインカラー02=Eyeline Color 02
-アイラインカラー03=Eyeline Color 03
+
+
+
 まぶたの詳細=Eyelid Details
 上まぶたの形状１=Upper Eyelid Shape 1
 上まぶたの形状２=Upper Eyelid Shape 2
@@ -117,8 +115,7 @@
 まぶたの縦の位置=Eyelid Vertical Position
 まぶたの横の位置=Eyelid Horizontal Position
 白目の詳細=Sclera Details
-白目カラー01=Sclera Color 01
-白目カラー02=Sclera Color 02
+白目=Sclera
 プリセット=Presets
 瞳の設定方法=Eye to Edit
 両目=Both
@@ -139,9 +136,9 @@
 瞳孔カラーを自動設定=Automatic Eye Color
 瞳カラーを自動設定=Automatic Pupil Color
 設定時に色も含める=Use Color from Preset
-瞳のプリセット=Hitomi's preset
-瞳孔カラー01=Pupil Color 01
-瞳カラー01=Hitomi Color 01
+瞳のプリセット=Pupil's preset
+瞳孔=Pupil
+瞳=Pupil
 瞳の左右位置=Iris Spacing
 瞳の上下位置=Iris Vertical Position
 瞳の幅=Iris Width
@@ -152,12 +149,12 @@
 左瞳グラデ=Left Eye Gradient
 左瞳孔の種類=Left Pupil Type
 左瞳の種類=Left Eye Type
-瞳カラー02=Hitomi Color 02
-瞳カラー03=Hitomi Color 03
+
+
 瞳孔の詳細=Pupil Details
 アイドル=Idol
-瞳孔カラー02=Pupil Color 02
-瞳孔カラー03=Pupil Color 03
+瞳孔=Pupil
+ハイライト=Highlight
 瞳グラデの詳細=Eye Gradient Details
 瞳グラデカラー=Eye Gradient Color
 目のグラデサイズ=Eye Gradient Size
@@ -168,16 +165,11 @@
 花=Flower
 星=Star
 ハート=Heart
-ハイライト01 カラー=Highlight 1 Color
 ハイライトの傾き=Highlight Rotation
 ハイライトの縦幅=Highlight Thickness
 ハイライトの横幅=Highlight Width
 ハイライトの左右位置=Highlight Horizontal Position
 ハイライトの上下位置=Highlights Vertical Position
-ハイライト02の詳細=Highlight 2 Details
-ハイライト02 カラー=Highlight 2 Color
-ハイライト03の詳細=Highlight 3 Details
-ハイライト03 カラー=Highlight 3 Color
 鼻の種類=Nose Type
 鼻の詳細=Nose Details
 口の種類=Mouth Type
@@ -280,9 +272,7 @@
 校章=Koshou
 キャンディー=Candy
 オバケ(左)=Ghost (Left)
-ペイント01 カラー=Paint 01 Color
-ペイント02 カラー=Paint 02, color.
-ペイント03 カラー=Paint 03 Color
+ペイント=Paint
 右頬=Right Side of Face
 おでこ=Forehead
 顎=Jaw

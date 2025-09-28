@@ -23,4 +23,4 @@ H好み=Loves Sex
 浴衣020=020 yukata
 ※実行すると未保存のデータは失われます。=※ All unsaved data will be lost.
 キャラクターをデフォルトの状態に戻しますか？=Do you want to reset the character\nto the default values?
-現在のコーデ情報を全てのコーデタイプに\n反映しますか？=Would you like to reflect current co-op information on all co-ord types?
+現在のコーデ情報を全てのコーデタイプに\n反映しますか？=Would you like to apply the current outfit\ninformation to all outfit types?

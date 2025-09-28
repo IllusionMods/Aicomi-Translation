@@ -1,3 +1,14 @@
+
+sr:"^コーデコピー \(([\w ]+)\)$"=Outfit copy ($1)
+
+// This regex handles title bar text of the color picker in maker (catches most of them)
+sr:"^(?<a>\w+)( ?(?<p>柄))?(?<b>[０-９0-9]*) カラー(?<c>[０-９0-9]*)$"=${a} {p}${b} Color ${c}
+
+r:"^カラー([０-９0-9]+)$"=Color $1
+sr:"^(\w+)カラー([０-９0-9]+)$"=$1 Color $2
+
+スロット=Slot
+r:"^スロット([０-９0-9]+)$"=Slot $1
 r:"^スロット([０-９0-9]+)の設定$"=Slot $1 settings
 
 以下を開放することで選択可能になります。<br>=You can select it by unlocking the following:<br>

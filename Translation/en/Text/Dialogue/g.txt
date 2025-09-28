@@ -45,8 +45,8 @@
 「そうですね、そうしようと思います」=「That's right. I think I'll do that.」
 「それじゃあ、あまり硬く考えず思う通りにやってみてね。困ったことが合ったらいつでも相談してくれていいから」=「Okay then, don't think too hard about it and just do what you want. If you run into any problems, you can always talk to me.」
 オープニングを見ますか？=Would you like to see the opening?
-見る=Look at it
-見ない=I'm not looking.
+見る=Watch it
+見ない=Don't watch it
 ランダム登録する場合チェックボックスを操作することで呼びだしたい種類のキャラクターを絞ることができます。=When registering at random, you can select the type of character you want to call by tapping the check box.
 今はそのままの設定で決定ボタンを押してください=Right now, please press the decision button with the same settings.
 以上でチュートリアルを終了します。=End of tutorial.

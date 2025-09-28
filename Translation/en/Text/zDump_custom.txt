@@ -25,7 +25,6 @@
 キス=Kiss
 キャラのカード化=Character Cards
 ショーツの種類=Panties Type
-スロット01=Slot 01
 デフォルト=Default
 デフォルトに戻す=Return to Default
 デフォルメニコ=Deformed Nico

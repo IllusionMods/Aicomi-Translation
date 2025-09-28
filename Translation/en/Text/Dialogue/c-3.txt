@@ -338,7 +338,7 @@
 「心配しなくても大丈夫よ。私は本のおかげで楽しく生活できてるわ」=「There's no need to worry. I'm enjoying my life thanks to books.」
 「図書館に何か望んでいるものってある？」=「Is there anything you want from the library?」
 あります=Yes, I do.
-特にないです=Nothing in particular.
+特にないです=Nothing much
 「なら詳しく聞かせてちょうだい。可能なものなら検討するから」=「Then tell me the details. I'll consider it if it's possible.」
 「若い子はもう、紙の本は読まないのかしら？」=「I wonder if young people don't read paper anymore?」
 読みますよ=I'll read it.

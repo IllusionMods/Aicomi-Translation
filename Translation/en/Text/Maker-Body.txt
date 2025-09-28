@@ -106,7 +106,6 @@
 手のネイルの詳細=Fingernail Details
 ネイルの種類=Nail Type
 ネイルの設定を初期化=Reset Nail Settings
-ネイルカラー01=Nail Color 01
 ネイルのツヤの強さ=Nail Polish Strength
 足のネイルの詳細=Toenail Details
 胸=Chest
