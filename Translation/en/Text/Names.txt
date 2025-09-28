@@ -1,4 +1,41 @@
-// Default character cards
+// Unsorted (some might be from custom cards)
+アルフェール ヴェルタ=Alfere Verta
+バステト サルヴィーナ=Bastet Salvina
+フィアラド ナオ=Fiarad Nao
+フォーム ミュラン=Form Mullan
+中村 瑛里奈=Erina Nakamura
+中森 杏南=Anna Nakamori
+保坂 ひより=Hiyori Hosaka
+剣乃 リルカ=Kenno Riruka
+北山 優=Yu Kitayama
+吉沢 優里=Yuri Yoshizawa
+園田 梨香=Rika Sonoda
+土蜘蛛 志乃武=Tsuchigumo Shinobu
+塚本 晶=Akira Tsukamoto
+宮崎 真名=Mana Miyazaki
+小山 瑞絵=Mizue Koyama
+小川 奈々穂=Nanaho Ogawa
+成嶋 クーコ=Kuko Narushima
+朧月 天狐=Oborozuki Tenko
+柴田 翔子=Shoko Shibata
+梶原 可那子=Kanako Kajiwara
+榎本 由里花=Yurika Enomoto
+涼水 桃香=Momoka Suzumi
+瀬野 キュアス=Seno Cures
+相原 結里=Yuri Aihara
+相良 優花=Yuka Sagara
+真田 礼奈=Reina Sanada
+花守 夏芽=Natsume Hanamori
+草薙 菜ツ鬼=Kusanagi Natsuki
+草間 悠=Yu Kusama
+西沢 千夏=Chinatsu Nishizawa
+西沢 真央=Mao Nishizawa
+錦ノ宮 月乃=Nishikinomiya Tsukino
+長倉 汐里=Shiori Nagakura
+川澄 結衣=Yui Kawasumi
+
+
+// Default character cards (SVS)
 小牧 瑞穗=Komaki Mizuho
 小牧=Komaki
 瑞穗=Mizuho
@@ -43,7 +80,7 @@
 青山=Aoyama
 祐樹=Yuki
 
-// Default coordinate names
+// Default coordinate names (SVS)
 マミーウルフセット=Mummy Wolf Set
 ディアンドルセット=Doll set
 ゴスロリセット=Goth-loli set

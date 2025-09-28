@@ -4,8 +4,9 @@
 次はこの机を選択して「ランダムアイコン」ボタンを押してください=Next, select this desk and press the Random Icon button.
 準備が出来たら「戻るアイコン」を押してください。=When you're ready, press the Return icon.
 「よし、準備完了。　今日は疲れたしさっさと寝よう」=「Okay, preparations are complete. I'm tired today, so let's get to sleep.」
-二人目=The second.
-三人目=The third.
+一人目=1st
+二人目=2nd
+三人目=3rd
 「ここが通う学園か、木造校舎なんて今どき珍しいな」=「So this is the school you go to, huh? It's rare to see a wooden school building these days.」
 「えっと、まずは職員室で挨拶と転入手続きしないと」=「Umm, first we need to go to the staff room to say hello and transfer paperwork.」
 「あ、転入生君かな？　ようこそ木目込学園へ！　私は担任の花守 夏芽です。これからよろしくね」=「Oh, are you the transfer student? Welcome to Kimegome Academy! I'm your homeroom teacher, Hanamori Natsume. Nice to meet you.」

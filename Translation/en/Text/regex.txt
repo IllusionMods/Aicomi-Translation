@@ -1,3 +1,22 @@
+r:"^スロット([０-９0-9]+)の設定$"=Slot $1 settings
+
+以下を開放することで選択可能になります。<br>=You can select it by unlocking the following:<br>
+sr:"^以下を開放することで選択可能になります。\n(.+)$"=You can select it by unlocking the following:\n$1
+sr:"^(◯\w+)　(◯\w+)$"=$1　$2
+sr:"^(◯\w+)　(◯\w+)　(◯\w+)$"=$1　$2　$3
+sr:"^(◯\w+)　(◯\w+)　(◯\w+)　(◯\w+)$"=$1　$2　$3　$4
+
+r:"^([０-９0-9]+) ?席$"=$1 seats
+
+r:"^水着([０-９0-9]+)$"=Swimsuit $1
+r:"^制服([０-９0-9]+)$"=Uniform $1
+r:"^浴衣([０-９0-9]+)$"=Yukata $1
+
+女性キャラ=Female Character
+sr:"^女性キャラ (.人目)$"=$1 Female Character
+
+// Copied from SVS below
+
 r:"^女性([０-９0-9]+)人[／/]男性([０-９0-9]+)人$"=$1 Female / $2 Male
 //sr:"^ちょっと(.+)$"=A little $1.
 sr:"^(.+)ファ$"=$1 F
