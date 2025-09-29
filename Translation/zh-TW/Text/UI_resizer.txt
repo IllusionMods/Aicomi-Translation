@@ -1,0 +1,28 @@
+ExploreScene/UICamera/Canvas/HeroineListUI/Panel/CharaView/ScrollView/Viewport/Content/Row(Clone)/Grid (00)/Info/Activity/imgSticky/txtActivity=ChangeFontSize(16)
+ExploreScene/UICamera/Canvas/HeroineListUI/Panel/CharaView/ScrollView/Viewport/Content/Row(Clone)/Grid (01)/Info/Activity/imgSticky/txtActivity=ChangeFontSize(16)
+ExploreScene/UICamera/Canvas/HeroineListUI/Panel/CharaView/ScrollView/Viewport/Content/Row(Clone)/Grid (02)/Info/Activity/imgSticky/txtActivity=ChangeFontSize(16)
+ExploreScene/UICamera/Canvas/HeroineListUI/Panel/CharaView/ScrollView/Viewport/Content/Row(Clone)/Grid (03)/Info/Activity/imgSticky/txtActivity=ChangeFontSize(16)
+
+ExploreScene/UICamera/Canvas/MessengerUI/Contacts/Screen/List/txtTitle=ChangeFontSize(23)
+
+New Game Object/Config(Clone)/Background/MainWindow/Settings/Scroll View/Viewport/Content/GraphicSetting/Content/Effects/tglDOF/ACT-01-18=ChangeFontSize(16)
+
+HomeScene/UI/RegistrationUI/CharaList/HumanSelectWindow/Panel/Layout/ListView/Human Scroll View (Female)/Viewport/Content/Row(Clone)/Toggle (00)/rimgThumbnail/ObjFemaleInfo/labelActivity/txtActivity=ChangeFontSize(12)
+HomeScene/UI/RegistrationUI/CharaList/HumanSelectWindow/Panel/Layout/ListView/Human Scroll View (Female)/Viewport/Content/Row(Clone)/Toggle (01)/rimgThumbnail/ObjFemaleInfo/labelActivity/txtActivity=ChangeFontSize(12)
+HomeScene/UI/RegistrationUI/CharaList/HumanSelectWindow/Panel/Layout/ListView/Human Scroll View (Female)/Viewport/Content/Row(Clone)/Toggle (02)/rimgThumbnail/ObjFemaleInfo/labelActivity/txtActivity=ChangeFontSize(12)
+HomeScene/UI/RegistrationUI/CharaList/HumanSelectWindow/Panel/Layout/ListView/Human Scroll View (Female)/Viewport/Content/Row(Clone)/Toggle (03)/rimgThumbnail/ObjFemaleInfo/labelActivity/txtActivity=ChangeFontSize(12)
+HomeScene/UI/RegistrationUI/CharaList/HumanSelectWindow/Panel/Layout/ListView/Human Scroll View (Female)/Viewport/Content/Row(Clone)/Toggle (04)/rimgThumbnail/ObjFemaleInfo/labelActivity/txtActivity=ChangeFontSize(12)
+HomeScene/UI/RegistrationUI/CharaList/HumanSelectWindow/Panel/Layout/ListView/Human Scroll View (Female)/Viewport/Content/Row(Clone)/Toggle (05)/rimgThumbnail/ObjFemaleInfo/labelActivity/txtActivity=ChangeFontSize(12)
+
+FreeHScene/Canvas/HumanSelectWindows/ReceiveSelectWindow/Panel/Layout/ListView/Human Scroll View (Female)/Viewport/Content/Row(Clone)/Toggle (00)/rimgThumbnail/ObjFemaleInfo/labelActivity/txtActivity=ChangeFontSize(12)
+FreeHScene/Canvas/HumanSelectWindows/ReceiveSelectWindow/Panel/Layout/ListView/Human Scroll View (Female)/Viewport/Content/Row(Clone)/Toggle (01)/rimgThumbnail/ObjFemaleInfo/labelActivity/txtActivity=ChangeFontSize(12)
+FreeHScene/Canvas/HumanSelectWindows/ReceiveSelectWindow/Panel/Layout/ListView/Human Scroll View (Female)/Viewport/Content/Row(Clone)/Toggle (02)/rimgThumbnail/ObjFemaleInfo/labelActivity/txtActivity=ChangeFontSize(12)
+FreeHScene/Canvas/HumanSelectWindows/ReceiveSelectWindow/Panel/Layout/ListView/Human Scroll View (Female)/Viewport/Content/Row(Clone)/Toggle (03)/rimgThumbnail/ObjFemaleInfo/labelActivity/txtActivity=ChangeFontSize(12)
+FreeHScene/Canvas/HumanSelectWindows/ReceiveSelectWindow/Panel/Layout/ListView/Human Scroll View (Female)/Viewport/Content/Row(Clone)/Toggle (04)/rimgThumbnail/ObjFemaleInfo/labelActivity/txtActivity=ChangeFontSize(12)
+FreeHScene/Canvas/HumanSelectWindows/ReceiveSelectWindow/Panel/Layout/ListView/Human Scroll View (Female)/Viewport/Content/Row(Clone)/Toggle (05)/rimgThumbnail/ObjFemaleInfo/labelActivity/txtActivity=ChangeFontSize(12)
+
+HomeScene/UI/RegistrationUI/CharaList/SeatEdit/PreviewWindow/Profiles/Activity/Background/txtActivity=ChangeFontSize(16)
+
+HomeScene/UI/RegistrationUI/CharaList/UniqueNPCEdit/Background/Passports/passport_unique_npc (00)/imgBase/Info/=ChangeFontSize(15)
+HomeScene/UI/RegistrationUI/CharaList/UniqueNPCEdit/Background/Passports/passport_unique_npc (01)/imgBase/Info/=ChangeFontSize(15)
+HomeScene/UI/RegistrationUI/CharaList/UniqueNPCEdit/Background/Passports/passport_unique_npc (02)/imgBase/Info/=ChangeFontSize(15)
