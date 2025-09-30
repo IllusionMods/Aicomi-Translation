@@ -1,11 +1,9 @@
-
-// Split character names
-// !! do not use, has side effects of messing with other translations, probably needs a plugin to hook whatever combines the names
-// sr:"^(\w+) (\w+)$"=$1 $2
-
-r:"^パターン([０-９0-9]+)$"=圖案 $1
+sr:"^「(\w+)」編集中$"=剪輯中 「$1」
+sr:"^(\w+)の詳細$"=$1 詳細
+sr:"^(\w+)の設定$"=$1 設定
 
 sr:"^コーデコピー \(([\w ]+)\)$"=穿搭複製 ($1)
+r:"^パターン([０-９0-9]+)$"=圖案 $1
 
 // This regex handles title bar text of the color picker in maker (catches most of them)
 sr:"^(?<a>\w+)( ?(?<p>柄))?(?<b>[０-９0-9]*) カラー(?<c>[０-９0-9]*)$"=${a} {p}${b} 顏色 ${c}
@@ -33,7 +31,11 @@ r:"^浴衣([０-９0-9]+)$"=浴衣 $1
 女性キャラ=女性角色
 sr:"^女性キャラ (.人目)$"=$1 女性角色
 
-// Copied from SVS below
+// Split character names
+// !! do not use, has side effects of messing with other translations
+// sr:"^(\w+) (\w+)$"=$1 $2
+
+// Copied from SVS below ------------------------------------------------------
 
 r:"^女性([０-９0-9]+)人[／/]男性([０-９0-9]+)人$"=$1 女性 / $2 男性
 //sr:"^ちょっと(.+)$"=稍微 $1.
