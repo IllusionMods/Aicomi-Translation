@@ -1314,7 +1314,7 @@
 「そうだね。すっかり慣れたかな」=「Yeah. I think I've gotten used to it.」
 「それはよかったですぞ。あなたにもっと好きになってもらいたいものですな」=「I'm glad to hear that. I want you to like me even more.」
 「お菓子は好きですかな？」=「Do you like sweets?」
-「好きだよ」=「I love you.」
+「好きだよ」=「I love them.」
 「それはよかったです。今度おすすめのお菓子をプレゼントしますぞ」=「I'm glad to hear that. Next time, I'll give you a snack I recommend.」
 「深夜アニメってなんだかワクワクしませんか？」=「Aren't late-night anime kind of exciting?」
 「たしかに」=「You're right.」

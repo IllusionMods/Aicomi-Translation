@@ -1649,7 +1649,7 @@
 「小さい頃に好きだった遊びとかってある？」=「Is there any game you liked when you were little?」
 鬼ごっこかな=Maybe it's a game of tag.
 かくれんぼだね=Hide-and-seek.
-積み木をしてたよ=He was building blocks.
+積み木をしてたよ=I was playing with building blocks
 「私もよくやったな～。田舎だから走り回れるところはいっぱいあったし」=「I did a good job too. There were a lot of places I could run around in the countryside.」
 「服を買う時って悩む方？」=「Are you worried about when you buy clothes?」
 「そこまで悩まないかな～。これがいいって直感で決めちゃうかも……君は？」=「You don't have to worry about it that much~. I might decide on a hunch that this is good... What about you?」
@@ -1919,8 +1919,8 @@
 「わぁ、なんかロマンチックでいいねぇ♪ 私がもらったら絶対嬉しいよ」=「Wow, it's kinda romantic♪ I'd definitely be happy if I got it.」
 「家にいる時って、どんな格好してる？」=「What do you wear when you're at home?」
 ジャージだよ=It's a jersey.
-おふるのジャージかな=I wonder if it's your jersey.
-実は作務衣なんだよね=It's actually a samue.
+おふるのジャージかな=An old jersey I guess.
+実は作務衣なんだよね=A yukata, actually.
 「いいよねジャージ。動きやすいしリラックスできて、私も好きだよ♪」=「It's nice, isn't it? Your jersey is easy to move in and relaxing. I love it too♪」
 「ひゃっ、もうなにぃ……おどかさないでよぅ」=「Hyah, geez... Don't scare me like that.」
 「やっぱりお祭りの賑わいはすごいね」=「It really is amazing how lively the festival is.」

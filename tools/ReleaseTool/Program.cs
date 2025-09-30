@@ -347,6 +347,9 @@ internal static class ReleaseTool
                         tl = tl.Replace(uniqueTags[j], $"${{t{j}}}");
                     }
 
+                    // Deal with some spaces being fullwidth and AT randomly not handling them properly even though it should substitute them
+                    orig = orig.Replace(" ", "[ 　]");
+
                     var newline = $"sr:\"^{orig}$\"={tl}";
                     taggedLines.Add(newline);
                     lines[i] = "";

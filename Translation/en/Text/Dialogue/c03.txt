@@ -1873,7 +1873,7 @@
 「ビックリしたあ！ 君かー、どうしたの？」=「You scared me! It's you, huh? What's wrong?」
 「服を選ぶ基準って難しいよね」=「It's hard to choose clothes.」
 「そうなんだよね。君は服を選ぶ時にこだわりとかあるの？」=「That's right. Do you have any particular preferences when choosing clothes?」
-これといってないね=That's not what I'm saying.
+これといってないね=Nothing in particular.
 「強いこだわりはないかな」=「I don't think there's anything special about it.」
 「一応、自分の中でこれっていうのはあるよ」=「There's something like this inside of me.」
 「やっぱり、普通はそういうものだよね」=「I guess that's normal.」

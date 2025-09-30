@@ -1674,8 +1674,8 @@
 「雪が積もっているところで、いろいろ作ってみたいですよね」=「I'd like to try making a lot of things while it's snowing.」
 「ぽかぽかのところでゆっくりするのも……いいですね」=「It'd be nice... to take it easy in a warm place.」
 「肉まんとあんまんだと……どちらがお好きですか？」=「Meat buns or red bean buns... Which do you like better?」
-肉まんが好きかな=I wonder if he likes meat buns.
-あんまんが好きだね=You like buns, don't you?
+肉まんが好きかな=I like meat buns, I suppose.
+あんまんが好きだね=I like bean buns.
 「いいですよね……寒い日に食べる肉まん……温まります」=「It's nice, isn't it...? Meat buns that you eat on cold days... warm up.」
 「皮とあんこの食感……私も好きなんです」=「The skin and the texture of the red bean paste... I like them too.」
 「あ……貴方は、そっち派でしたか……」=「Ah... So that's what you're into...」

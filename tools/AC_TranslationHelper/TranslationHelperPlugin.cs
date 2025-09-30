@@ -8,7 +8,9 @@ using BepInEx.Unity.IL2CPP;
 using Character;
 using HarmonyLib;
 using System.Reflection;
+using AC.Scene.Explore.UI;
 using TMPro;
+using UnityEngine.UI;
 using XUnity.AutoTranslator.Plugin.Core;
 
 [assembly: AssemblyTitle(TranslationHelperPlugin.DisplayName)]
@@ -82,9 +84,7 @@ namespace AC_TranslationHelper
             public static void Postfix_fullname_get(HumanDataParameter __instance, ref string __result)
             {
                 var newName = TryTranslateName(__instance.firstname, __instance.lastname, ' ');
-
-                Logger.LogDebug($"Fullname translated: {__result} -> {newName}");
-
+                System.Diagnostics.Debug.Write($"Fullname translated: {__result} -> {newName}");
                 __result = newName;
             }
 
@@ -101,7 +101,6 @@ namespace AC_TranslationHelper
             public static void Postfix_BaseStateSelect_Set(BaseStateSelect __instance, HumanData? data)
             {
                 System.Diagnostics.Debug.Write("Postfix_BaseStateSelect_Set");
-
                 if (data == null) return;
 
                 var tmp = __instance._txtName.GetTmpText();
@@ -124,6 +123,28 @@ namespace AC_TranslationHelper
             {
                 System.Diagnostics.Debug.Write("Postfix_HumanParameterUI_Refresh");
                 Touch(__instance._txtActivity, __instance._txtBirthday, __instance._txtBloodType, __instance._txtCallsign, __instance._txtErogenousZone, __instance._txtPersonality);
+            }
+
+            [HarmonyPostfix]
+            [HarmonyPatch(typeof(PlayerStatsUI), nameof(PlayerStatsUI.Open))]
+            public static void Postfix_PlayerStatsUI_Open(PlayerStatsUI __instance)
+            {
+                System.Diagnostics.Debug.Write("Postfix_PlayerStatsUI_Open");
+                Touch(__instance._txtName, __instance._txtBirthday, __instance._txtBlood, __instance._txtLocation,
+                      __instance._txtHeroineName, __instance._txtHeroineBirthday, __instance._txtHeroineBlood, __instance._txtHeroineActivity);
+            }
+
+            /// <summary>
+            /// Workaround for images not getting translated
+            /// Fix found by @ekibun
+            /// </summary>
+            [HarmonyPostfix]
+            [HarmonyPatch(typeof(Image), nameof(Image.OnEnable))]
+            public static void Postfix_Image_OnEnable(Image __instance)
+            {
+                // texture access triggers AT hooks
+                if (__instance.sprite != null)
+                    _ = __instance.sprite.texture;
             }
         }
     }

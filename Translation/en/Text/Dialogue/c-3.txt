@@ -264,7 +264,7 @@
 「ちょっ、メモを取るのでもう一回……天文学辺りから説明してもらえると」=「Hey, I'm going to take notes... Could you explain it to me from the perspective of astronomy?」
 「メモを取る姿勢はいいと思うけれど、すぐに全部覚えようとしなくてもいいわ」=「I think you're good at taking notes, but you don't have to try to memorize everything right away.」
 「私達司書はそのためにいるのだから。何か分からないことや探している本があったら、いつでも頼ってちょうだい」=「That's why we librarians are here. If there's anything you don't understand, or if you're looking for a book, feel free to ask.」
-「ありがとうございます！ [H姓]さんみたいな、仕事ができて優しい人が司書でよかったです！」=「Thank you! I'm glad someone as kind and good at their job as a librarian is a good choice. Yes!」
+「ありがとうございます！ [H姓]さんみたいな、仕事ができて優しい人が司書でよかったです！」=「Thank you! It's wonderful that someone as capable and kind as [H姓]-san is our librarian!」
 「こら……また声が大きくなってる」=「Hey... You're getting louder again.」
 「うっ、ほんとすみません……まさかもう出禁になったりとか、しませんよね？」=「Ugh, I'm really sorry... You're not going to ban me, are you?」
 「私もそこまで鬼ではないわ。それに、せっかく案内したことが無駄になってしまうもの」=「I'm not that much of a demon myself. Besides, it would be a waste of time to show you around.」

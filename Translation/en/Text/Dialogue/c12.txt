@@ -1435,7 +1435,7 @@
 なんか珍しいお菓子かな=I wonder if it's some kind of rare treat.
 ペナントかな=Pennant, I guess.
 「たくさん配れるし、消えもののお菓子はやっぱり鉄板よね」=「We can hand out a lot of them, and the ones that disappear really are iron plates.」
-「キミって、フォローしてるインフルエンサーとかいるの？」=「Do you have an Influencer to back you up?」
+「キミって、フォローしてるインフルエンサーとかいるの？」=「Do you follow any influencers?」
 沢山いるよ=There's a lot of them.
 一応何人かは=Just in case, a few of them
 いないかな=I don't think he's here.
@@ -1908,7 +1908,7 @@
 「快感を増幅させてみたいと思う？」=「Do you want to amplify the pleasure?」
 「敏感なところが今以上に気持ち良くなったら大変なことになりそうだし……遠慮しておくわ」=「If your sensitive spots feel even better than they are now, it'll be a big deal... so I'll pass.」
 「キミの快感を増幅させてみたいとは思うわね。耳に息を吹きかけるだけで、面白い事になりそうだし」=「I think I'd like to amplify your pleasure. Just blowing on your ear sounds like something interesting.」
-「エッチとセックス、どっちが好き？」=「Which do you like better, sex or sex?」
+「エッチとセックス、どっちが好き？」=「Which do you like better, lewd stuff or sex?」
 「……キミの中でその二つは何が違うのかしら？」=「...What's the difference between those two?」
 「どう呼ぶかってこと？ ケースバイケースね」=「What do you want me to call you? It's a case-by-case scenario.」
 「大きい方と小さい方、どっちが好き？」=「Which do you like better, big or small?」
@@ -1991,10 +1991,10 @@
 「マラソンって、ただ走るだけでつまらないと思うんだけど……」=「I think just running a marathon is boring...」
 「わかってくれる？ この自然の中を黙々と走るとスッキリするのよね」=「Do you understand? Running silently through nature is refreshing.」
 「スポーツの習い事とかしてたことある？」=「Have you ever been taught sports?」
-「小さい頃に習ってみたいものはあったけど、この辺だと何もなかったのよねぇ」=「There was something I wanted to learn when I was little, but nothing happened around here.」
-習いたい事あったんだね=There's something you want to learn.
+「小さい頃に習ってみたいものはあったけど、この辺だと何もなかったのよねぇ」=「There was something I wanted to learn when I was little, but there were no trainers around here.」
+習いたい事あったんだね=What did you want to learn?
 それは残念だったね=That's too bad.
-俺は習い事が嫌だったな=I didn't like learning.
+俺は習い事が嫌だったな=I never liked taking lessons.
 「それは残念だね……ちなみに何を習おうとしてたの？」=「That's too bad... By the way, what were you trying to learn?」
 「嫌々習い事をさせられそうになってた俺とは大違いだね」=「You're completely different from me, who was about to be forced to learn from you.」
 「フィギュアスケートよ。テレビで見て憧れていたの」=「It's figure skating. I watched it on TV and admired it.」
