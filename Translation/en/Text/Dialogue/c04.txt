@@ -1037,7 +1037,7 @@
 「ん～！ 今日も楽しかった～！ めっちゃ遊べた気がするね！」=「Mm~! Today was fun too~! I feel like I was able to play a lot!」
 「だね。なんだか一か月分くらいは遊んだ気がするよ」=「Yeah. I feel like I've played about a month's worth of games.」
 「あはは、それは盛り過ぎっしょ～」=「Ahaha, that's too much!」
-（デート、楽しんでくれたみたいだし……何処かに誘ってみようかな）=(He seems to be enjoying his date... Maybe I should ask him out somewhere.)
+（デート、楽しんでくれたみたいだし……何処かに誘ってみようかな）=(He seems to be enjoying his date... Maybe I should ask her out somewhere.)
 「わあ～！！ すっごいオシャレ！ これがラブホテルなんだ～」=「Wow~!! It's so stylish! So this is a love hotel~」
 「気に入った？」=「Do you like it?」
 「うん！ 初ラブホがこの部屋で良かったかな……えへへ」=「Yeah! I wonder if it's okay for my first love hotel to be in this room... Ehehe.」
@@ -1474,7 +1474,7 @@ P俰pb=P-pb
 「[Pあだ名]、何か話そうよ～♪」=「Let's talk about something, [Pあだ名]♪」
 「そんじゃ、手取り足取りぜ～んぶ教えてちょーだいっ」=「Okay then, tell me everything you need to know!」
 「しょうがないなぁ、わかったよ」=「Guess I have no choice. All right.」
-「ふふっ。あーしの彼氏は二つ返事で面倒見てくれるから大好き」=「Hehe. My boyfriend takes care of me in two ways, so I love him.」
+「ふふっ。あーしの彼氏は二つ返事で面倒見てくれるから大好き」=「Hehe. I love my boyfriend because he takes care of me without hesitation.」
 嶺=Mine
 「いっぱいい～っぱい甘えちゃうかんね。覚悟してよ？」=「I'm going to spoil you a lot. Prepare yourself, okay?」
 「……甘えるのはいいけど、自分でもちゃんと考えてね」=「...I don't mind being spoiled, but think about it yourself.」

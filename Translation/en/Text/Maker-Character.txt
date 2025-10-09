@@ -12,7 +12,7 @@
 月=Mon
 プロフィールの詳細=Profile Details
 性格=Personality
-愛称=A nickname
+愛称=Nickname
 名=First
 姓=Last
 キャラのプロフィール=Character Profile

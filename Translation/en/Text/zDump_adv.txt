@@ -218,5 +218,5 @@ OKする=Give the okay
 通常汎用=Standard General-purpose
 違うと思う=I don't think so.
 違うと思うよ=I don't think so.
-（いや……俺の我儘で引き留めちゃ悪いかな）=(No... Maybe I shouldn't keep him here because of my selfishness.)
+（いや……俺の我儘で引き留めちゃ悪いかな）=(No... Maybe I shouldn't keep her here because of my selfishness.)
 ＯＫする=I'll give you the okay.

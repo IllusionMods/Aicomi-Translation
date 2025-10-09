@@ -456,7 +456,7 @@
 「ね……[Pあだ名]」=「Hey... [Pあだ名].」
 「どうしたの？ [Hあだ名]」=「What's wrong? [Hあだ名].」
 「うんうん、やっぱりかなりいいね！ けど、ちょっとまだ恥ずかしいところもあるかな……」=「Yeah, yeah, it's pretty good! But there's still a bit of embarrassment...」
-「そうだね……しばらくは今まで通り呼んで、たまにあだ名を使おうか」=「Yeah... Let's keep calling him by his nickname for a while, and then use it every once in a while.」
+「そうだね……しばらくは今まで通り呼んで、たまにあだ名を使おうか」=「Yeah... Let's keep calling her by his nickname for a while, and then use it every once in a while.」
 「賛成！ たまに使うからこそ、特別感が出ていい感じになりそう！」=「Agreed! It's because I use it every once in a while that I feel like it's special!」
 「この前お母さんにね、将来は料理人になったらいいんじゃないかって勧められたの」=「My mom recommended that I become a cook in the future.」
 「努力が認められたんだろうね。いい夢だと思うよ」=「Your efforts must have been recognized. I think it's a good dream.」
@@ -756,7 +756,7 @@
 「ありがとう……ほんとに本当に、私のこと……すっごく真面目に考えてくれてたんだね」=「Thank you... You really, really took me seriously... didn't you?」
 「その、お返事の前に……私もね、ちゃんと君の気持ちに応えたいから、ちょっとお話させて……」=「Umm, before you answer... I want to respond to your feelings, so let me talk to you for a bit...」
 「最初はね、学園に一人だけの男の子が珍しくて……君のこと色々知りたいなって思ってたの」=「At first, it was rare for a boy to be alone at school... I wanted to know a lot about you.」
-「でも何回かお話してるうちに……男の子だからじゃなくて、君だからこんなに惹かれてるんだって気付いたんだ……」=「But after talking to him a few times... I realized that he's attracted to me not because I'm a boy, but because of you...」
+「でも何回かお話してるうちに……男の子だからじゃなくて、君だからこんなに惹かれてるんだって気付いたんだ……」=「But after talking to her a few times... I realized that he's attracted to me not because I'm a boy, but because of you...」
 「じゃ、じゃあ……それってつまり……」=「Th-Then... that means...」
 「うん、私も君が好き！ だから私からもお願い……私を、君の彼女にしてっ！」=「Yeah, I love you too! So please... make me your girlfriend!」
 「やっ、やった！ 俺達っ、彼氏と彼女に……恋人同士になったんだね！」=「Y-Yay! We're boyfriend and girlfriend... now we're lovers!」
@@ -1675,7 +1675,7 @@
 「たぶん読む方かな。トレンドはチェックしてるし」=「I think it's better to read it. I'm checking the trends.」
 「あはっ、仲間がいてちょっと安心したかも♪ たまに読むくらいで丁度いいよね」=「Ahah, I'm a little relieved to have friends♪ It's just perfect to read from time to time.」
 「芸能人とかに詳しい？」=「Do you know a lot about celebrities?」
-「顔だけ知ってたり、名前だけ知ってたりで、一致する人は少ないかも。君は詳しい？」=「There might not be many people who only know his face or his name. Do you know anything about him?」
+「顔だけ知ってたり、名前だけ知ってたりで、一致する人は少ないかも。君は詳しい？」=「There might not be many people who only know her face or her name. Do you know anything about her?」
 詳しくはないかな=I don't know the details.
 演じた役なら言えるよ=I can say it if it's the role I played.
 人並程度には知ってるよ=I know as much as anyone.

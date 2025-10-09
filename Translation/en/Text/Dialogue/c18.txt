@@ -1121,7 +1121,7 @@
 「あははっ、今度のテストが楽しみねー？」=「Ahaha, I'm looking forward to the next test, aren't I?」
 「はー楽しかった！」=「Haaah, that was fun!」
 「で……この後はどうするわけ？」=「So... what are you going to do after this?」
-（せっかくならもっと一緒にいたいけど……どうしようかな）=(I'd like to spend more time with him, but... what should I do?)
+（せっかくならもっと一緒にいたいけど……どうしようかな）=(I'd like to spend more time with her, but... what should I do?)
 「あんたこんなとこで何やってんの？」=「What are you doing here?」
 「えっと……サボタージュ、かな」=「Umm... Sabotage, I guess.」
 「賢く言おうとしてもやってる事は最低じゃなーい」=「Even if you try to be smart, what you're doing isn't the worst.」
@@ -1237,7 +1237,7 @@
 「楽しい時間ってあっという間ねー」=「Time flies when you're having fun.」
 「本当にね。さっきまで朝だったのに、もうこんな時間」=「Really. It was just morning, but it's already this late.」
 「あははっ♡ おおげさすぎー。でもまあ、その気持ちもわからなくもないけどねー」=「Ahaha♡ You're exaggerating too much. But, well, I can understand how you feel.」
-（できれば、まだ一緒にいたいな……どこかに誘ってみようかな？）=(If possible, I'd still like to be with him... Maybe I should invite him somewhere?)
+（できれば、まだ一緒にいたいな……どこかに誘ってみようかな？）=(If possible, I'd still like to be with her... Maybe I should invite her somewhere?)
 「いやー、行きたいアトラクションが多すぎて悩むわー」=「Man, there's so many attractions I want to go to that I'm worried.」
 「混み具合的に全部は無理そうだしね」=「It doesn't look like we'll be able to do all of it, considering how crowded it is.」
 「なんかいい案ないかしら？」=「Do you have any good ideas?」

@@ -464,7 +464,7 @@
 「なにしてたの？」=「What were you doing?」
 「あそこ見てぇ？ 大きい魚、いるっぽくなーい？」=「Look over there? Doesn't it look like there's a big fish in there?」
 「んー……居るような……？」=「Hmm... I feel like she's here...?」
-「あ、もしかして、捕まえようと思ってたとか？」=「Oh, were you trying to catch him?」
+「あ、もしかして、捕まえようと思ってたとか？」=「Oh, were you trying to catch her?」
 「そんな面倒なことしないってぇ。あの魚、どっちに泳いでくのかなぁ、って観察してたんだよー。きみもしよ？」=「I wouldn't do something that annoying. I was just observing to see which way that fish would swim. You too, you know?」
 「なるほど。『らしい』過ごし方だね。……じゃあ、ちょっと隣失礼して」=「I see. So that's how you spend your time. ...Well then, excuse me for a moment.」
 「贅沢な時間の使い方……でしょ？ 楽しもうよぉ」=「It's an extravagant way to spend time... right? Let's have fun.」
@@ -555,7 +555,7 @@
 「でも光ったね。明滅気味だけど」=「But it's glowing. It's flickering, though.」
 「……寿命が近いのかな？ ああいう、ちょっと弱めの光り方しているのは」=「...I wonder if it's close to its life span? That kind of weak light is...」
 「どうだろうねー。でも……」=「I don't know. But...」
-「もし恋人探したりしてるなら、見つかるといいねぇ？ ひとりぼっちは寂しいだろうしー」=「If you're looking for a boyfriend or something, I hope you find him. I'm sure he'll be lonely if he's alone.」
+「もし恋人探したりしてるなら、見つかるといいねぇ？ ひとりぼっちは寂しいだろうしー」=「If you're looking for a boyfriend or something, I hope you find her. I'm sure he'll be lonely if he's alone.」
 「そうだね……頑張れ～。一生懸命もっと光らせて、目立て～」=「Yeah... Good luck. Do your best to make it shine more, and stand out more.」
 「あ、ちょっと明るくなったかなぁ？ んふふ、きみの応援、きいたかな？」=「Ah, maybe it's gotten a little brighter? Ehehe, did I hear your support?」
 「わっ……たしと、さぁ？ つきあって、くれない？ ……こ、恋人として」=「Wah... Who knows? Will you go out with me? ...A-As a lover.」
@@ -840,7 +840,7 @@
 「今日は楽しかったねぇ～。終わるのが寂しいくらいだよぉ」=「Today was fun, wasn't it? It's almost sad that it's over.」
 「デートがすごく楽しかったからこそ、どうしてもそう思っちゃうよね」=「The date was really fun, so I can't help but feel that way.」
 「だねー……はぁ、帰るのも面倒だし、さっきの時間がずっと続けばよかったのにぃ……」=「Yeah... *sigh* It'd be a pain to go home, so I wish the time we spent together would've lasted forever...」
-（まだ一緒にいたいと思ってくれてるのかな……どうしよう、どこかに誘ってみようかな？）=(I wonder if he still wants to be with me... What should I do? Should I invite him somewhere?)
+（まだ一緒にいたいと思ってくれてるのかな……どうしよう、どこかに誘ってみようかな？）=(I wonder if she still wants to be with me... What should I do? Should I invite her somewhere?)
 （ぅあ……なんだ……？ 気持ちいい……ぬめぬめで……熱くて……夢……？）=(Uwah... What...? It feels good... It's so slimy... and hot... Is it a dream...?)
 「ぅ、ううん……？ え……っ！」=「N-No...? Eh...!」
 「あ、起きたー？ 意外と早かったねぇ」=「Ah, you're awake? You're up surprisingly early.」
@@ -1133,7 +1133,7 @@
 「なんだかんだ、これだけ遊ぶと少し疲れるねぇ～」=「For some reason, having this much fun is a little tiring~」
 「はは、そうだね。でも心地のいい疲労感じゃない？」=「Haha, you're right. But isn't it a comfortable exhaustion?」
 「……ん。今夜はぐっすり眠れそうだよー」=「...Mm. I think I'll be able to sleep soundly tonight.」
-（俺としてはもう少し一緒にいたいんだけど……どこかに誘ってみようかな？）=(I'd like to stay with him a little longer... Maybe I should invite him somewhere?)
+（俺としてはもう少し一緒にいたいんだけど……どこかに誘ってみようかな？）=(I'd like to stay with her a little longer... Maybe I should invite her somewhere?)
 「あっ。新しい展示やってるって～」=「Ah. They're doing a new display.」
 「今日はこの展示、中心に見てみようよ♪」=「Let's focus on this display today♪」
 「常時やってるような展示は大体みちゃったからね。定期的に展示が変わるのはありがたいよ」=「I've seen most of the exhibits like they're always on display. I'm grateful that the displays change regularly.」
@@ -1608,7 +1608,7 @@
 「そもそも一人で真面目に勉強することあるの？」=「Do you ever study seriously by yourself in the first place?」
 「えー？ あー……うーんー……まぁ……」=「Huh? Ah... Hmm... Well...」
 「あるんじゃあ……ない？ きっと。多分」=「I don't... think so? Probably. Probably.」
-「絶対ないやつだ……」=「There's definitely no one like him...」
+「絶対ないやつだ……」=「There's definitely no chance you do...」
 「まぁまぁ、今日はそこそこ真面目にやるってぇ」=「Now, now, I'm taking today pretty seriously.」
 「あんまり捗らなかったねぇ」=「We didn't make much progress.」
 「いい感じだったかもね～。またしよっか」=「Maybe it was a good feeling. Let's do it again.」

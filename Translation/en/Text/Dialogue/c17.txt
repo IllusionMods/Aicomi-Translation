@@ -35,7 +35,7 @@
 「そんなところ。何もしないを目的にぶらぶらしてくるよ」=「Something like that. I'll wander around for the purpose of doing nothing.」
 「ええ、お気をつけて」=「Yes, be careful.」
 「あれ？ どうしたの？ なんだかいつもと様子が違うけど……」=「Huh? What's wrong? You seem a little different from usual...」
-「ふ、ふふ……笑ってやってくださいまし……」=「Heh, heheh... Please smile for him...」
+「ふ、ふふ……笑ってやってくださいまし……」=「Heh, heheh... Please laugh at me...」
 「笑う？ 一体、何があったの？」=「Laugh? What in the world happened?」
 「前にここでお会いした時、貴方に長風呂で湯あたりしないよう注意したのに……私が湯あたり……のぼせてしまいましたわ……」=「The last time I saw you here, I warned you not to bathe in the long bath... but I... fell asleep...」
 「笑ってなんかいられないよ。大変じゃないか。冷たい飲み物を……」=「I can't just laugh. It's hard, isn't it? A cold drink...」
@@ -889,7 +889,7 @@
 「ああ、今回のデートも素敵なエスコートでしたわ。私、とても満足しましてよ」=「Ah, this date was a wonderful escort too. I'm very satisfied.」
 「俺もすごく楽しかった。君が満足できたのも良かった。嬉しい」=「I had a lot of fun too. I'm glad you were satisfied. I am happy.」
 「ふふ。デート中、ずっとそんな顔をしてらしたわね。名残惜しいですが……そろそろ切り上げましょうか」=「Hehe. You looked like that the whole time we were on a date. It's a shame, but... let's call it a day.」
-（切り上げる……もう少し一緒にいたい。まだどこかへ誘ってもいいかな……）=(I'll call it a day... I want to be with him a little longer. I wonder if I can still invite him somewhere...)
+（切り上げる……もう少し一緒にいたい。まだどこかへ誘ってもいいかな……）=(I'll call it a day... I want to be with her a little longer. I wonder if I can still invite her somewhere...)
 「ごきげんよう」=「Good day.」
 「ん？ どこ行くの？ 教室、あっちなのに」=「Hm? Where are you going? The classroom's over there.」
 「サボタージュですわ」=「It's sabotage.」
@@ -1195,7 +1195,7 @@
 「日が暮れてしまいそうですわ。そろそろデートは終わりですわね」=「The sun is about to set. The date is almost over.」
 「……うん。また、デートしてくれる？」=「...Yeah. Will you go on another date?」
 「もちろんですわ。ああ、でも本当に、デートの終わりはいつも寂しいですわね。この寂しさを次の楽しみに変えますわよ」=「Of course. Ah, but really, it's always lonely at the end of a date. I'll turn this loneliness into something to look forward to next time.」
-（このまま帰るのは、俺も寂しいな。もう少し一緒にいたい。どうしよう……）=(It would be sad for me to go home like this. I want to be with him a little longer. What should I do......?)
+（このまま帰るのは、俺も寂しいな。もう少し一緒にいたい。どうしよう……）=(It would be sad for me to go home like this. I want to be with her a little longer. What should I do..?)
 「もうこんな時間……そろそろお開きですわね」=「It's getting late... It's almost over.」
 「そうだね。あまり遅くなってもいけないし」=「Yeah. We shouldn't be too late.」
 「貴方のエスコートのおかげで、とても楽しかったですわ」=「Thanks to your escort, I had a lot of fun.」
@@ -1380,7 +1380,7 @@
 「ありますわよ。映画ですとか」=「I do. Like in a movie.」
 「笑える要素のある明るい恋愛ものを好みますわ」=「I prefer bright romances with a laughable quality to them.」
 「恋愛してみたいって思う？」=「Do you want to try falling in love?」
-「恋い焦がれる殿方が現れたらしてみたいと思いますわ」=「I'd like to see a man who yearns for him appear.」
+「恋い焦がれる殿方が現れたらしてみたいと思いますわ」=「I would like to try it if a man I long for appears.」
 「まあ、いずれは。してもいいと思ってますわ」=「Well, eventually. I think it's fine.」
 「恋人と腕を組んで歩きたい？」=「Do you want to walk arm in arm with your lover?」
 「肌寒い季節ならよさそうですわね」=「It would be nice if it was the chilly season.」

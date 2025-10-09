@@ -56,7 +56,7 @@
 「どうも、こんばんは。皆さんお揃いで俺になにか用ですか？」=「Hello, good evening. Did you all need something from me?」
 「包み隠さず正直に言うと……私達、ムラムラしてるの。だから、あなたとエッチしたいなーって思ってて……」=「To be honest... we're horny. That's why I wanted to have sex with you...」
 「三人同時にってことですか。それはまぁ、喜んでお相手させていただきますけど……」=「The three of us are together at the same time, huh? Well, I'd be happy to take you on, but...」
-「……人数が一人増えたみたいね。私達、今から彼とエッチするの。あなたも参加する？」=「...Looks like we've got one more person. We're going to have sex with him now. Would you like to join us?」
+「……人数が一人増えたみたいね。私達、今から彼とエッチするの。あなたも参加する？」=「...Looks like we've got one more person. We're going to have sex with her now. Would you like to join us?」
 「それじゃあ決まりね！ ちゃんと全員楽しませてちょうだいね？」=「Then it's decided! Make sure everyone has fun, okay?」
 告白する=Confess
 告白しない=I won't confess.
@@ -129,8 +129,8 @@
 帰り際=On the way home
 デート二回目以降恋人=Lovers after the second date
 デート初回恋人=Date First Lover
-ラブホに誘う=Invite him to a love hotel
-自宅に誘う=Invite him to your house
+ラブホに誘う=Invite her to a love hotel
+自宅に誘う=Invite her to your house
 帰宅=Go home
 ラブホテル=Love hotel
 自宅連れ=Take her home

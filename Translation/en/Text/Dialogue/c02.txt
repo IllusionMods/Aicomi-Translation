@@ -243,7 +243,7 @@
 「うん、まあね。男同士のバカ話がなんだか懐かしいよ」=「Yeah, pretty much. It's kind of nostalgic to talk about stupid stuff between guys.」
 「ふーん……バカ話ぐらい、女子相手にしてもいいと思うけどね」=「Hmm... I don't think it's a bad idea to talk about stupid stuff with girls.」
 「射的屋さんね。男の子ってこういうの好きなんじゃない？」=「A shooting gallery, huh? Boys like this kind of thing, don't they?」
-「まあ好きな方かな。興味はあるよ」=「Well, I guess I like him. I'm interested.」
+「まあ好きな方かな。興味はあるよ」=「Well, I guess I like it. I'm interested.」
 「だったらぜひとも挑戦して欲しいわ……キミなら景品をいっぱい取れそう」=「In that case, I'd like you to give it a try... I think you'll win a lot of prizes.」
 「屋台の店主を一撃で仕留めて、総取りにしてもらいたいところね」=「I'd like you to finish off the stall owner in a single blow and take all of them.」
 「こんなところで何してるの？ 泳ぐの？」=「What are you doing here? Are you going to swim?」
@@ -550,7 +550,7 @@
 「どうかしら？ 子供の頃、買ってもらえなかった大人が買うのかもしれないわね」=「I don't know. Maybe the adults who didn't buy it when I was a kid buy it.」
 「ふふ、いい花火だったわ……それじゃ帰りましょ」=「Hehe, those were good fireworks... Let's go home, then.」
 「うん、そうだね」=「Yeah, you're right.」
-（うーん……もうちょっと一緒にいたいな……）=(Hmm... I want to be with him a little longer...)
+（うーん……もうちょっと一緒にいたいな……）=(Hmm... I want to be with her a little longer...)
 「どうかしたの？ 考え事してるみたいだけど……」=「What's wrong? You seem to be thinking about something...」
 「……ふふふ、こうして二人で歩いているだけでウキウキしちゃう」=「...Hehehe, just walking together like this makes me excited.」
 「ねえ、このままどこにもいかず、ここでずーっと一緒にいるっていうのはどうかしら」=「Hey, why don't we just stay here and not go anywhere?」

@@ -2,8 +2,8 @@
 詳細融合=Detailed Fusion
 簡易融合=Simple Fusion
 簡易作成=Fusion Creation
-他作=Others Work
-自作=My Work
+他作=DL'd
+自作=Mine
 キャラカードB=Character B
 キャラカードA=Character A
 融合終了=Return

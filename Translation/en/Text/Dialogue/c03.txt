@@ -1889,7 +1889,7 @@
 そこまで興味ないかな=I'm somewhat interested.
 気にする方だよ=I'm the type that worries about it.
 「俺もあんまり。自分が好きな服を着るのが一番だと思うから」=「Me too. I think it's best to wear the clothes you like.」
-「実は結構気になる方だったりするんだよね」=「Actually, I'm pretty curious about him.」
+「実は結構気になる方だったりするんだよね」=「Actually, I'm pretty curious about it.」
 「うんうん。世間の流行りより、自分の意思だよねー」=「Yeah, yeah. It's more about your own will than what's popular in the world.」
 「スキンケアってどういうことからやればいいか知ってる？」=「Do you know what skincare is supposed to do?」
 「あんまり知らないかも。君は詳しいの？」=「I don't think I know much about it. Are you familiar with it?」
