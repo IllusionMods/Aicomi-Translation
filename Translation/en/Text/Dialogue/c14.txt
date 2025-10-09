@@ -876,7 +876,7 @@
 「なるほど、でもお前、欲しいもんないって言ったよな？」=「I see. But you said you didn't want anything, right?」
 「うん、確かに言ったね」=「Yeah, you did say that.」
 「実はアタシも特にないんだよな」=「Actually, I don't have anything in particular either.」
-「じゃあ、どうしようか？ とりあえず冷やかしとく？」=「Then what should we do? Should we just tease him?」
+「じゃあ、どうしようか？ とりあえず冷やかしとく？」=「Then what should we do? Should we just tease her?」
 「それでいいか……ここなら、冷やかしは帰った帰ったとかいう店なさそうだしな」=「I guess that's fine... It doesn't seem like there's a place here where people can tease people by saying they've gone home or anything.」
 「俺達、なんだかんだでこの美術館の常連になってるのかな」=「I wonder if we've become regulars at this museum for some reason.」
 「意外と結構来てるもんな」=「There's a lot more here than I expected.」

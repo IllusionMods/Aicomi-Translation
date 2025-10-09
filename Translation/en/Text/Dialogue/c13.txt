@@ -824,7 +824,7 @@
 「お主のお陰で今日も楽しかったのじゃ。お主も、ちゃんと楽しめたか？」=「It was thanks to you that I had fun today. Did you enjoy it properly too?」
 「当たり前だよ。君といて、楽しくないわけがないんだから」=「Of course. There's no way I wouldn't enjoy being with you.」
 「ふふっ……分かってはいても、聞いてみたくなるものなのじゃ。お主だってそうではないか」=「Hehe... I understand, but it makes me want to ask. Isn't it the same for you?」
-（……楽しんでもらえてたなら……もう少し一緒に居てくれるかな？ どこかに誘ってみるか……）=(If he's enjoying himself...would he stay with me a little longer? Maybe I should invite him somewhere...)
+（……楽しんでもらえてたなら……もう少し一緒に居てくれるかな？ どこかに誘ってみるか……）=(If he's enjoying himself...would he stay with me a little longer? Maybe I should invite her somewhere...)
 「お、起きたか。すまぬ、ちょっとシャワーを借りてたのじゃ」=「Oh, you're awake. Sorry, I was just borrowing a shower.」
 「おはよう。別にいいよ。いつでも好きな様に使ってくれて」=「Good morning. I don't mind. Feel free to use it however you like.」
 「寝汗がひどかったりした？ もしかして、冷房があんまり効いてなかったかな」=「Did you sweat in your sleep? Maybe the air conditioning wasn't working that well.」
@@ -1911,7 +1911,7 @@
 「やはりそちらの方がストーリーに集中できるかの。我も同じじゃ」=「As I thought, you can concentrate more on the story. It's the same for Us.」
 「うむ、我もそっちじゃ。元の言語で聞くのが一番じゃな、勉強にもなるしの」=「Indeed, I am the same way. It would be best to hear it in my original language. It will help me learn a lot.」
 「友と遊ぶ時、自宅に友を招くか？ それとも、お主が友の家に行くか？」=「When you hang out with a friend, will you invite a friend to your house? Or will you go to your friend's house?」
-招く方がいいかも=Maybe we should invite him.
+招く方がいいかも=Maybe we should invite her.
 行く方が楽しいかな=I think it'd be more fun to go.
 「うむ。片付けしたり、もてなしたりと大変じゃが、何より楽じゃもんな」=「Yeah. It's hard to clean up and entertain people, but it's easier than anything.」
 「分かるぞ。友の意外な一面も知れたりするからな」=「I get it. You'll learn a surprising side of your friend.」

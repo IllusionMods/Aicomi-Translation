@@ -910,7 +910,7 @@
 「貴方と出かけるの、いい息抜きになったわ」=「Going out with you was a nice break.」
 「それは幸いだよ、またデートしてくれる？」=「I'm glad to hear that. Will you go on another date?」
 「どうかしら？ 私に興味を持たせられるか次第ね」=「What do you think? It depends on whether you're interested in me or not.」
-（……せっかくだし、もっと一緒に居たいな……どうしよ？）=(I'd like to spend more time with him... What should I do?)
+（……せっかくだし、もっと一緒に居たいな……どうしよ？）=(I'd like to spend more time with her... What should I do?)
 「ウインドウショッピングもなかなか楽しいものね」=「Wind-up shopping is pretty fun too.」
 「俺達だと、どうしても手が届かない商品とかあるしね」=「There are things we can't reach no matter what.」
 「ま、私はいずれ欲しいものを全部手に入れるつもりよ」=「Well, I plan to eventually get everything I want.」
@@ -942,7 +942,7 @@
 「こういうのも悪くないわね」=「This isn't a bad idea.」
 「ありがとう。またデートしたいな」=「Thank you. I'd like to go on another date.」
 「もう次の話？ 少し気が早いんじゃないかしら」=「The next story already? I think it's a bit hasty.」
-（まだ一緒に居て欲しいな……どこかに誘おうかな？）=(I wish he'd still be with me... Maybe I should invite him somewhere?)
+（まだ一緒に居て欲しいな……どこかに誘おうかな？）=(I wish he'd still be with me... Maybe I should invite her somewhere?)
 「さて、始めましょうか？」=「Now then, shall we begin?」
 「今日はどんな事になるんだろう……」=「I wonder what's going to happen today...」
 「期待で胸がいっぱいみたいね？」=「Looks like your heart is full of anticipation, huh?」
@@ -1012,7 +1012,7 @@
 「球の使い方が上手くなったのね？」=「You've gotten better at using the ball, haven't you?」
 「おかげさまでね」=「Thanks to you.」
 「なら、次は縛りプレイでもしたらどうかしら？」=「In that case, why don't we play a tie-up game next?」
-「縛りか……利き手じゃない方で投げるとか？」=「Tie him up, huh...? Like throwing him with someone other than his dominant hand?」
+「縛りか……利き手じゃない方で投げるとか？」=「Tie me up, huh...? Like throwing me with your non-dominant hand?」
 「面白そうじゃない、試しにやってみて頂戴」=「That sounds interesting. Give it a try.」
 「自分で言っておいてなんだけど、かなり難しそうだよね」=「I know I'm the one who said this, but it sounds pretty difficult.」
 「だからこそ挑戦し甲斐があるのでしょう？」=「That's why it's worth trying, isn't it?」

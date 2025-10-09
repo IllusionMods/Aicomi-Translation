@@ -1074,7 +1074,7 @@
 「今日のデート、なかなか盛り上がりましたな」=「Today's date was pretty exciting.」
 「そうだね。なんだか離れるのが寂しくなっちゃうね」=「Yeah. It's kind of sad to be separated from you.」
 「そうでござるな～」=「You're right~」
-（もっと一緒にいたいけど……どうしようかな）=(I want to be with him more, but... what should I do?)
+（もっと一緒にいたいけど……どうしようかな）=(I want to be with her more, but... what should I do?)
 「あ、あのぬいぐるみ、可愛いですな～」=「Th-That stuffed animal is so cute~」
 「欲しいの？」=「You want it?」
 「いえ……とっても可愛いですが、今回は断念いたしますぞ」=「No... It's very cute, but I'll pass this time.」
@@ -1197,7 +1197,7 @@
 「楽しい時間はあっという間に過ぎちゃうね。そろそろ帰らないとかな」=「Time flies when you're having fun. I think it's about time to go home.」
 「え？ もうですか？」=「Huh? Already?」
 「あ……もうこんな時間だったのですな、気づいていませんでした」=「Ah... I didn't realize it was this late.」
-（正直まだ二人でいたいけど……どうしよう）=(Honestly, I still want to be alone with him, but... what should I do?)
+（正直まだ二人でいたいけど……どうしよう）=(Honestly, I still want to be alone with her, but... what should I do?)
 「まだ一緒にいたいけど、時間も時間だし帰ろうか」=「I still want to be with you, but it's time, so let's go home.」
 「はい……今日の思い出を語りながら帰りましょう」=「Yes... Let's go home while talking about our memories of today.」
 「この絵画、萌えですな」=「This painting is so moe.」
@@ -1553,7 +1553,7 @@
 「別の話をしませんか？ 盛り上がるような話がしたいのですが？」=「Would you like to talk about something else? I'd like to discuss something exciting.」
 「おお。誘っていただき感謝です」=「Oh. Thank you for inviting me.」
 「申し訳ない。今は……その、あまり……」=「I'm sorry. Right now... umm, not much...」
-「キスをしてほしいって恋人にお願いされたらどうする？」=「What would you do if your lover asked you to kiss him?」
+「キスをしてほしいって恋人にお願いされたらどうする？」=「What would you do if your lover asked you to kiss them?」
 「そりゃ～もう、いくらでもしちゃいますぞ」=「Of course~ I'll do it as much as you want.」
 「ううむ……やはりキスは殿方からされたいですな……」=「Hmm... I really do want to be kissed by the gentlemen...」
 「好きって言いたい方？」=「Are you trying to say you love me?」

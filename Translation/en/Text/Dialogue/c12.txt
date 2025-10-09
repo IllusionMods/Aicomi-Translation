@@ -1463,7 +1463,7 @@
 「どういう男がタイプなの？」=「What kind of man is your type?」
 「キミみたいなタイプ……って言えばいいんでしょ？ ちゃんとわかっているわ」=「Someone like you... I should say that, right? I understand.」
 「キミとは正反対のタイプ……って言ったら、キミはどうするのかしら？ うふふ」=「She's the exact opposite of you... What would you do if I said that? Ufufu.」
-「彼氏にはリードしてほしい？ それともされたい？」=「Do you want your boyfriend to take the lead? Or do you want him to do it?」
+「彼氏にはリードしてほしい？ それともされたい？」=「Do you want your boyfriend to take the lead? Or do you want to do it?」
 「別に恋愛事に慣れているわけじゃないし、リードしてほしいかしら」=「It's not like I'm used to romance, so I'd like you to take the lead.」
 「エスコートされることに憧れはあるわね。私も一応、女の子だから」=「I do admire being escorted. I'm a girl, after all.」
 「好きな人の前だと、態度が変わる方なの？」=「Do you change your attitude when you're in front of the person you love?」

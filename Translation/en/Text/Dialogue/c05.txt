@@ -157,7 +157,7 @@
 「なら勉強に関係するところから始めてみたら？ ノートを可愛くデコるとかさ」=「Then why don't you start with something related to studying? Like how cutely you decorate your notebook?」
 「ノートを……デコる？ 考えたことも無かったわね……ただ見辛いだけになりそうで……」=「Decoring notes...? I've never thought about it before... It's just hard to look at...」
 「君がよければエッチしたいなって……どうかな？」=「If it's okay with you, I'd like to have sex... What do you think?」
-「彼氏にそう聞かれて断ったら……彼女とは言えないわよね」=「If your boyfriend asked you that, and you turned him down... you wouldn't be able to call him your girlfriend.」
+「彼氏にそう聞かれて断ったら……彼女とは言えないわよね」=「If your boyfriend asked you that, and you turned him down... you wouldn't be able to call her your girlfriend.」
 「ありがとう。君が彼女でほんとによかったよ」=「Thank you. I'm really glad you're my girlfriend.」
 「ふふ、それは色々と終わってからまた言ってちょうだい」=「Hehe, please tell me that after you're done with a lot of things.」
 「花火、楽しみだね……早く上がらないかな」=「I'm looking forward to the fireworks... I hope they go up soon.」
@@ -1041,7 +1041,7 @@
 「楽しいデートをありがとう。本当にいつも感謝してるわ」=「Thank you for having such a fun date. I'm really grateful for everything.」
 「そんな改まって言われると照れちゃうな……こちらこそいつもありがとうって感じなのに」=「It's embarrassing to hear you say that so formally... I'm the one who's always thanking you.」
 「ふふ、いつものお礼タイムも終わったけれど……この後はどうするの？ まっすぐ家に帰る？」=「Hehe, the usual thank-you time is over... What are you going to do after this? Go straight home?」
-（本音としては、もっと一緒に居たいけど……どうしよう）=(Honestly, I want to be with him more, but... what should I do?)
+（本音としては、もっと一緒に居たいけど……どうしよう）=(Honestly, I want to be with her more, but... what should I do?)
 「あらおはよう、朝からあなたと会えるなんて幸先がいいわね」=「Oh, good morning. Getting to see you in the morning is such a good thing.」
 「おはよ、もしかして待ち伏せとかしてたりした？」=「Morning. Were you lying in wait or something?」
 「し、してないわ……たまたま偶然、あなたを見かけて走ってきただけよ」=「I-I didn't... I just happened to run into you.」
@@ -2146,7 +2146,7 @@ eスポーツかな=Esports, I guess.
 「保健体育の勉強をしたいのなら、もっと適した場所があると思うのだけれど……とにかく見つからないようにしましょう」=「If you want to study health and physical education, I think there's a better place... Anyway, let's try not to be found.」
 「そこに男性がいるということは……そういうことなのかしら？」=「Is that what it means to have a man there?」
 「いつもと違うエッチがしたいなと思って、俺が声をかけたんだ。ダメかな？」=「I wanted to have sex with you differently than usual, so I called out to you. Is that okay?」
-「あなたがしたいと言うならいいわよ。ただ……公平に相手をできるかは保証しかねるわ」=「If you say you want to do it, that's fine. However... I can't guarantee that you'll be able to deal with him fairly.」
+「あなたがしたいと言うならいいわよ。ただ……公平に相手をできるかは保証しかねるわ」=「If that's what you want, that's fine. But... I can't guarantee I'll treat you fairly.」
 「あなた以外がおまけ扱いされてもいいと言うなら……やってみましょう」=「If you're willing to treat anyone but you as a bonus... then let's give it a try.」
 「ありがとう。満足してもらえるように頑張るね」=「Thank you. I'll do my best to satisfy you.」
 「何考えてるのと言いたいところだけど……私も興味がないわけじゃないわね……」=「I want to say what you're thinking, but... it's not like I'm not interested...」

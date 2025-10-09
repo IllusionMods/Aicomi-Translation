@@ -1216,7 +1216,7 @@
 「はしゃぎ過ぎて、なんだかちょっと疲れちゃった……でも、なんだか心地いいわ」=「I got a little tired from playing around so much... But it feels nice.」
 「それ、なんかわかるかも。疲れてるけど、嬉しい気持ちがいっぱいで全然嫌じゃないんだよね」=「I think I know what you mean. I'm tired, but there's so much happiness that I don't hate it at all.」
 「そうそう。ふふ、やっぱり私達って相性がいいみたいね」=「Yeah, that's right. Hehe, it looks like we really are compatible.」
-（……正直、もう少し一緒にいたいけど……このまま、どこかに誘ってみようかな？）=(...Honestly, I want to be with him a little longer, but... Maybe I should invite him somewhere else?)
+（……正直、もう少し一緒にいたいけど……このまま、どこかに誘ってみようかな？）=(...Honestly, I want to be with her a little longer, but... Maybe I should invite her somewhere else?)
 「ねえ！ メリーゴーランド乗りましょ」=「Hey! Let's ride the merry-go-round.」
 「え？ それって俺も？」=「Huh? Me too?」
 「当然でしょ？」=「Isn't that obvious?」

@@ -1242,7 +1242,7 @@
 「楽しかったデート……今日はもう……終わり？」=「That was a fun date... Are we... done for today?」
 「そうだね。日が暮れちゃってるから……」=「Yeah. The sun's gone down, so...」
 「太陽が……わたし達を分かつ時間……」=「The time when the sun... splits us...」
-（もう少し一緒にいたいし……思い切って、どこかへ誘おうかな）=(I want to be with him a little longer... Maybe I should invite him somewhere.)
+（もう少し一緒にいたいし……思い切って、どこかへ誘おうかな）=(I want to be with her a little longer... Maybe I should invite her somewhere.)
 「……おはよう、[Pあだ名]」=「...Good morning. [Pあだ名].」
 「おはよう！ [Hあだ名]……なんか、いいね。あだ名」=「Good morning! [Hあだ名]... That's kind of a nice nickname.」
 「……うん。そう思う」=「...Yeah. I think so.」
