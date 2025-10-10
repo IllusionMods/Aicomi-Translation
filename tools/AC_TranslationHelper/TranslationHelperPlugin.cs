@@ -1,16 +1,16 @@
-﻿using AC.Scene.FreeH.CharaStateSelect;
+﻿using AC.Scene.Explore.UI;
+using AC.Scene.FreeH.CharaStateSelect;
 using AC.Scene.Home.UI;
+using AC.Scene.Home.UI.Callsign;
 using AC.UI;
 using AC_TranslationHelper;
 using BepInEx;
+using BepInEx.Configuration;
 using BepInEx.Logging;
 using BepInEx.Unity.IL2CPP;
 using Character;
 using HarmonyLib;
 using System.Reflection;
-using AC.Scene.Explore.UI;
-using AC.Scene.Home.UI.Callsign;
-using ReleaseTool;
 using TMPro;
 using UnityEngine.UI;
 using XUnity.AutoTranslator.Plugin.Core;
@@ -30,10 +30,20 @@ namespace AC_TranslationHelper
         public const string GUID = "TranslationHelper";
         internal const string DisplayName = "Translation Helper";
         internal static ManualLogSource Logger = null!;
+        private static ConfigEntry<FirstNameOrder> _firstNameOrder = null!;
+
+        public enum FirstNameOrder
+        {
+            Auto,
+            FirstnameFirst,
+            LastnameFirst
+        }
 
         public override void Load()
         {
             Logger = Log;
+            _firstNameOrder = Config.Bind("Translation", "Move first names to front", FirstNameOrder.Auto,
+                                          "Auto will move first name to front if translating to English. For other languages it will stay in the original order.");
             Harmony.CreateAndPatchAll(typeof(Hooks));
         }
 
@@ -76,6 +86,21 @@ namespace AC_TranslationHelper
             }
         }
 
+        private static bool FirstNameFirst()
+        {
+            switch (_firstNameOrder.Value)
+            {
+                default:
+                case FirstNameOrder.Auto:
+                    var isEnglish = string.Equals(AutoTranslatorSettings.DestinationLanguage, "en", StringComparison.OrdinalIgnoreCase);
+                    return isEnglish;
+                case FirstNameOrder.FirstnameFirst:
+                    return true;
+                case FirstNameOrder.LastnameFirst:
+                    return false;
+            }
+        }
+
         private static class Hooks
         {
             /// <summary>
@@ -85,7 +110,7 @@ namespace AC_TranslationHelper
             [HarmonyPatch(typeof(HumanDataParameter), nameof(HumanDataParameter.fullname), MethodType.Getter)]
             public static void Postfix_fullname_get(HumanDataParameter __instance, ref string __result)
             {
-                var newName = TryTranslateName(__instance.firstname, __instance.lastname, ' ');
+                var newName = FirstNameFirst() ? TryTranslateName(__instance.firstname, __instance.lastname, ' ') : TryTranslateName(__instance.lastname, __instance.firstname, ' ');
                 System.Diagnostics.Debug.Write($"Fullname translated: {__result} -> {newName}");
                 __result = newName;
             }
@@ -108,7 +133,7 @@ namespace AC_TranslationHelper
                 var tmp = __instance._txtName.GetTmpText();
                 if (tmp == null) return;
 
-                tmp.text = TryTranslateName(data.Parameter.firstname, data.Parameter.lastname, '\n');
+                tmp.text = FirstNameFirst() ? TryTranslateName(data.Parameter.firstname, data.Parameter.lastname, '\n') : TryTranslateName(data.Parameter.lastname, data.Parameter.firstname, '\n');
             }
 
             [HarmonyPostfix]
