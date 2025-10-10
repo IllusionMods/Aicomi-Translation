@@ -115,7 +115,6 @@ namespace AC_TranslationHelper
                 __result = newName;
             }
 
-
             [HarmonyPostfix]
             [HarmonyPatch(typeof(BaseStateSelect), nameof(BaseStateSelect.GetName))]
             public static void Postfix_BaseStateSelect_GetName(HumanData data, ref Il2CppSystem.ValueTuple<string, string> __result)
