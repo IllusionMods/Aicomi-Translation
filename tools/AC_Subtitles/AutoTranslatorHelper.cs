@@ -7,7 +7,7 @@ namespace AC_Subtitles
     /// <summary>
     /// Class that abstracts away AutoTranslator. It lets you translate text to current language.
     /// </summary>
-    internal static class TranslationHelper
+    internal static class AutoTranslatorHelper
     {
         private static readonly Action<string, Action<string>>? _translatorCallback;
         private static readonly Func<string, string?>? _tryTranslateCallback;
@@ -19,7 +19,7 @@ namespace AC_Subtitles
         /// </summary>
         public static bool AutoTranslatorInstalled { get; }
 
-        static TranslationHelper()
+        static AutoTranslatorHelper()
         {
             var xua = Type.GetType("XUnity.AutoTranslator.Plugin.Core.ITranslator, XUnity.AutoTranslator.Plugin.Core", false);
             if (xua != null && xua.GetMethods().Any(x => x.Name == "TranslateAsync"))
