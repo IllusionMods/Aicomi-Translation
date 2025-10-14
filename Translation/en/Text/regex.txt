@@ -35,6 +35,10 @@ sr:"^女性キャラ (.人目)$"=$1 Female Character
 // !! do not use, has side effects of messing with other translations
 // sr:"^(\w+) (\w+)$"=$1 $2
 
+// Maker items, possibly modded
+r:"^タイプT([０-９0-9]+)$"=Type T$1
+r:"^ハイライト([０-９0-9]+)$"=Highlight $1
+
 // Copied from SVS below ------------------------------------------------------
 
 r:"^女性([０-９0-9]+)人[／/]男性([０-９0-9]+)人$"=$1 Female / $2 Male

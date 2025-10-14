@@ -1,3 +1,12 @@
+// Maker items, possibly modded
+火焔の脚衣=Flame leg garments
+ニーハイ&ルーズA=Knee-high & loose A
+ニーハイ&ルーズB=Knee-high & loose B
+NS_ギザギザ前髪=NS_jagged bangs
+S10_バーコード=S10_barcode
+よしはら’ｓ 巫女服=Yoshihara's Shrine Maiden Clothes
+Shrine Maiden Top よしはら’ｓ=Yoshihara’s Shrine Maiden Top
+
 // Random ingame
 ◯スポーツ=◯Sport
 ◯オシャレ=◯Style
@@ -466,4 +475,5 @@ Stockingsの詳細=More on Stockings
 ホイールで叩く=Hit with the wheel
 別の日の朝か昼にまた話しかけよう=I'll go and speak to them.
 「いや、俺も今来たとこ」=「No, I just came too.」
-
+それでいいんだ……わかった……ダーリン=That's fine...I get it...darling
+3Pに入りますか？=Would you like to have a 3P?
