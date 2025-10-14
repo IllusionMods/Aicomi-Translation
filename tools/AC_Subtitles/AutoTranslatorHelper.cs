@@ -91,6 +91,7 @@ namespace AC_Subtitles
             if (AutoTranslatorInstalled)
             {
                 var path = Path.Combine(Paths.ConfigPath, "AutoTranslatorConfig.ini");
+                if (!File.Exists(path)) return null;
                 var lines = File.ReadAllLines(path);
                 foreach (var line in lines)
                 {
