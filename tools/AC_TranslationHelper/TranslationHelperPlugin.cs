@@ -19,6 +19,7 @@ using XUnity.AutoTranslator.Plugin.Core;
 [assembly: AssemblyProduct(TranslationHelperPlugin.DisplayName)]
 [assembly: AssemblyDescription("Workaround for some things not getting translated by AutoTranslator.")]
 [assembly: AssemblyVersion(TranslationHelperPlugin.Version)]
+[assembly: AssemblyCompany("https://github.com/IllusionMods/Aicomi-Translation")]
 
 namespace AC_TranslationHelper
 {
