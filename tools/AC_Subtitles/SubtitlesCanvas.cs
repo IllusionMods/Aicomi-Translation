@@ -30,7 +30,7 @@ public class SubtitlesCanvas : MonoBehaviour
             // Create subtitle canvas
             var canvasScaler = gameObject.AddComponent<CanvasScaler>();
             canvasScaler.uiScaleMode = CanvasScaler.ScaleMode.ScaleWithScreenSize;
-            canvasScaler.referenceResolution = new Vector2(Screen.width, Screen.height);
+            canvasScaler.referenceResolution = new Vector2(1920, 1080);
 
             var canvas = gameObject.GetComponent<Canvas>();
             canvas.renderMode = RenderMode.ScreenSpaceOverlay;
