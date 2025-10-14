@@ -14,6 +14,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_Solution", "_Solution", "{
 		..\README.md = ..\README.md
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AC_Subtitles", "AC_Subtitles\AC_Subtitles.csproj", "{A0C7B6CB-7E7B-3A2F-82F0-A520975CC683}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -28,6 +30,10 @@ Global
 		{B0BACC22-E405-49C7-9C63-FC53AD24276F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0BACC22-E405-49C7-9C63-FC53AD24276F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0BACC22-E405-49C7-9C63-FC53AD24276F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0C7B6CB-7E7B-3A2F-82F0-A520975CC683}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0C7B6CB-7E7B-3A2F-82F0-A520975CC683}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0C7B6CB-7E7B-3A2F-82F0-A520975CC683}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0C7B6CB-7E7B-3A2F-82F0-A520975CC683}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
