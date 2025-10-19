@@ -1,1 +1,113 @@
+// Plugins ---------------------------------------------------------------------------
 プラグイン設定=Plugin settings
+
+// Maker items ---------------------------------------------------------------------------
+
+// Tekito
+sr:"^([０-９0-9a-zA-Z]+)_(\w+?)(改?)$"=$1 $2 $3
+sr:"^([０-９0-9a-zA-Z]+)_(\w+?)[\(（](\w*)[\)）](\w*?)$"=$1 $2 ($3) $4
+sr:"^([０-９0-9a-zA-Z]+)_(\w+?)([０-９0-9][０-９0-9a-zA-Z]*)(\w*?)$"=$1 $2 $3 $4
+sr:"^([０-９0-9a-zA-Z]+)_(\w+?)([０-９0-9][０-９0-9a-zA-Z]*)[\(（](\w*)[\)）](改?)$"=$1 $2 $3 ($4) $5
+// Other mods
+r:"^ハイライト宇宙([０-９0-9a-zA-Z \+]+)$"=Highlight Universe $1
+r:"^付けまつげ([０-９0-9a-zA-Z \+]+)$"=False eyelashes $1
+r:"^鼻ハイライト([０-９0-9a-zA-Z \+]+)$"=Nose highlight $1
+sr:"^MOD ?(.+?)([０-９0-9a-zA-Z \+]*)$"=MOD $1 $2
+
+// Misc
+改=Revised
+上まつ毛=Upper
+下まつ毛=Lower
+右=Right
+左=Left
+タイプ=Type
+
+// Face/Body
+たれ目向け=droopy eyes
+ぐるぐる=Spinning
+クロス=Cross
+キラキラ=Sparkly
+グリッチ=Glitchy
+猫目=Cat eyes
+羊目=Sheep eyes
+丸L=Circle L
+宇宙=Space
+虹彩=Iris
+ダイヤモンド=Diamond
+手書き風=Handwritten style
+グリッチハート=Glitch Heart
+割れハート=Broken Heart
+ばってん=Batten
+タイプ颯2=Type Sou 2
+タイプ颯改=Type Sou reverse
+ギザハイライト=Giza highlights
+鼻影=Nose shadow
+涙ぼくろ=Teardrop
+頬紅2=Crimson 2
+頬紅1=Crimson 1
+細逆シズク=Hososaka Shizuku
+右目下=Right eye under
+左目下=Left eye under
+右目上=Right eye above
+左目上=Left eye above
+メリハリ（艶）=Contrasting (gloss)
+ちょいぽちゃ（艶）=A little chubby (gloss)
+ちょいぽちゃ=A little chubby
+ガリボコ=Contrasting
+身体ハイライト=Body highlights
+身体＋胸加筆B=Body + Chest addition B
+身体＋胸加筆=Body + Chest addition
+胸加筆B=Chest addition B
+胸加筆=Chest addition
+ぼかし=Blur
+
+// Hair
+おだんごベース=Dango base
+でこだしサイド無し=No side bangs
+ぱっつんえむバング=Straight-across bangs
+ぱっつんえむバングB=Straight-across bangs B
+ぱっつんロングサイド無し=Straight long, no sides
+ぱっつんロングサイド無しB=Straight long, no sides B
+アンノウンヘア=Unknown Hair
+エムバングサイド無し=No Mbang Side
+エムバングサイド無しB=No Mbang Side B
+カールぱっつん=Curls and Bangs
+カールぱっつんB=Curls and Bangs B
+カールボブ改=Curly Bob Revamped
+サイドカールバングB=Side-Curled Bangs B
+サイドロング=Side long
+サイドロングB=Side long B
+シンプルロング=Simple long
+センターパートぱっつんサイド無し=Center blunt cut, no sides
+ナチュラルエムバングサイド無=Natural M Bang no sides
+ナチュラルエムバングサイド無B=Natural M Bang no sides B
+ハーフアップバング=Half-up bang
+ボリュームカールポニー=Volume Curl Ponytail
+ポニーテールベース=Ponytail base
+ポンパトールバング=Pompadour Bangs
+ランダムスリットぱっつん改=Random Slit Revised
+レフト左流しストレート=Left-handed straight
+ロングハーフアップベース=Long Half Up Base
+ワイルドバング（右）サイド無し=Wild Bang (Right) no sides
+ワイルドバング（右）サイド無しB=Wild Bang (Right) no sides B
+ワイルドバング（左）サイド無し=Wild Bang (Left) no sides
+ワイルドバング（左）サイド無しB=Wild Bang (Left) no sides B
+三つ編みアレンジ=Braided Hairstyle Variation
+内巻きアシメントリ=Inward-curling asymmetry
+前分けロング改=Long with Center Parted Revised
+外はねシースルーバングB=Outward-flipped see-through B
+
+右かきあげアシメントリサイド無し=Right-Swept asymmetrical
+左かきあげアシメントリサイド無し=Lefts-Swept asymmetrical
+右分けアシメバングB=Right-parted asymmetrical bangs B
+左分けアシメバングB=Left-parted asymmetrical bangs B
+右分けアシメントリB=Right-parted asymmetrical B
+左分けアシメントリB=Left-parted asymmetrical B
+右分けサイドぱっつんサイド無し=Right-parted blunt, no sides
+左分けサイドぱっつんサイド無し=Left-parted blunt, no sides
+右流しマッシュサイド無し=Right flow mash, no sides
+左流しマッシュサイド無し=Left flow mash, no sides
+
+癖ッ毛バング=Curly bangs
+編み込みぱっつん=Braided bangs
+編み込みバング=Braided fringe

@@ -3,7 +3,7 @@ sr:"^(\w+)の詳細$"=$1 Details
 sr:"^(\w+)の設定$"=$1 Settings
 
 sr:"^コーデコピー \(([\w ]+)\)$"=Outfit copy ($1)
-r:"^パターン([０-９0-9]+)$"=Pattern $1
+r:"^パターン([０-９0-9a-zA-Z]+)$"=Pattern $1
 
 // This regex handles title bar text of the color picker in maker (catches most of them)
 sr:"^(?<a>\w+)( ?(?<p>柄))?(?<b>[０-９0-9]*) カラー(?<c>[０-９0-9]*)$"=${a} {p}${b} Color ${c}
@@ -24,9 +24,10 @@ sr:"^(◯\w+) (◯\w+) (◯\w+) (◯\w+)$"=$1 $2 $3 $4
 // Seats count
 r:"^([０-９0-9]+) ?席$"=$1
 
-r:"^水着([０-９0-9]+)$"=Swimsuit $1
-r:"^制服([０-９0-9]+)$"=Uniform $1
-r:"^浴衣([０-９0-9]+)$"=Yukata $1
+// Coord cards
+r:"^水着([０-９0-9a-zA-Z]+)$"=Swimsuit $1
+r:"^制服([０-９0-9a-zA-Z]+)$"=Uniform $1
+r:"^浴衣([０-９0-9a-zA-Z]+)$"=Yukata $1
 
 女性キャラ=Female Character
 sr:"^女性キャラ (.人目)$"=$1 Female Character
@@ -35,9 +36,10 @@ sr:"^女性キャラ (.人目)$"=$1 Female Character
 // !! do not use, has side effects of messing with other translations
 // sr:"^(\w+) (\w+)$"=$1 $2
 
-// Maker items, possibly modded
-r:"^タイプT([０-９0-9]+)$"=Type T$1
-r:"^ハイライト([０-９0-9]+)$"=Highlight $1
+// Maker items, and some modded items
+r:"^タイプ([０-９0-9a-zA-Z \+]+)$"=Type $1
+r:"^ハイライト([０-９0-9a-zA-Z \+]+)$"=Highlight $1
+
 
 // Copied from SVS below ------------------------------------------------------
 
