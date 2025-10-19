@@ -1,5 +1,5 @@
 全解除=Remove All
-脱衣=Undressed
+脱衣=Naked
 表示=Show
 非表示=Hide
 首=Neck
@@ -8,12 +8,12 @@
 
 アクセサリー(なし)の詳細=Accessory (None) Details
 アクセサリー(首)の詳細=Accessory (Neck) Details
-※お泊り時の表示・非表示=*Shows and hides sleepovers
-※風呂時の表示・非表示=*Shows and hides bath time
-※Hシーン時の表示・非表示=※ Display/Hide During H Scene
-表示タイミング=Display timing
+※お泊り時の表示・非表示=※ When staying overnight
+※風呂時の表示・非表示=※ When taking a bath
+※Hシーン時の表示・非表示=※ When having sex
+表示タイミング=Display when clothes are
 対象の服=Target clothes
- 服装の状態への関連付け設定= Clothes state association settings
+ 服装の状態への関連付け設定=    Sync with clothes state
 直前と同じ部位に装着する=Keep Attachment Area
 直前と同じ色を使用する=Keep Colors
 アクセサリーの設定=Accessory Settings
