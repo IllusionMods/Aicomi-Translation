@@ -70,16 +70,6 @@
 横長=Broad
 陰毛の詳細=Pubic Hair Details
 陰毛の設定=Pubic Hair Settings
-四角=Rectangular
-小三角=Small Triangle
-大盾=Large Shield
-薄い=Wispy
-小盾=Small Shield
-太縦長=Long And Wide
-細縦長=Long And Narrow
-薄縦長=Long And Wispy
-大縦長=Wide And Wispy
-そり跡=Pubic Stubble
 陰毛の色を髪と眉に反映する=Copy Pubic Hair Color To Hair And Eyebrows
 陰毛の色を眉の色に合わせる=Copy Eyebrow Color To Pubic Hair
 陰毛の色を髪の色に合わせる=Copy Hair Color To Pubic Hair
