@@ -84,6 +84,8 @@ Tシャツ(男)=T-shirt (male)
 あいうえおかきくけこ あいうえおかきくけこ=One of your chara cards is broken, remove it
 
 // Anything goes
+上=Up
+下=Down
 選択肢=Choice
 あだ名使用=Use of nicknames
 通常告白=Normal confession
