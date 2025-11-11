@@ -27,7 +27,7 @@ namespace AC_TranslationHelper
     [BepInDependency("gravydevsupreme.xunity.autotranslator", ">=5.4")]
     public class TranslationHelperPlugin : BasePlugin
     {
-        public const string Version = "1.0";
+        public const string Version = "1.0.1";
         public const string GUID = "TranslationHelper";
         internal const string DisplayName = "Translation Helper";
         internal static ManualLogSource Logger = null!;
