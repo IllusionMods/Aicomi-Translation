@@ -24,7 +24,7 @@ using XUnity.AutoTranslator.Plugin.Core;
 namespace AC_TranslationHelper
 {
     [BepInPlugin(GUID, DisplayName, Version)]
-    [BepInDependency("gravydevsupreme.xunity.autotranslator", "5.4")]
+    [BepInDependency("gravydevsupreme.xunity.autotranslator", ">=5.4")]
     public class TranslationHelperPlugin : BasePlugin
     {
         public const string Version = "1.0";
