@@ -2,7 +2,7 @@
 
 Fan translations for Aicomi, for use with [XUnity Auto Translator](https://github.com/bbepis/XUnity.AutoTranslator).
 
-You can see which languages are supported [here](https://github.com/IllusionMods/Aicomi-Translation/tree/main/Translation).
+You can see which languages are supported [here](https://gitgoon.dev/IllusionMods/Aicomi-Translation/tree/main/Translation).
 
 ## Installation Instructions
 
@@ -13,7 +13,7 @@ You can see which languages are supported [here](https://github.com/IllusionMods
 2. Delete the existing `BepInEx\Translation` folder from your game directory if it exists.
 
 3. Install This Translation
-	- Download the latest release from the [Releases](https://github.com/IllusionMods/Aicomi-Translation/releases) page.
+	- Download the latest release from the [Releases](https://gitgoon.dev/IllusionMods/Aicomi-Translation/releases) page.
 	- Extract the contents of the archive into your game directory. Overwrite files if asked. Ensure that the `BepInEx\Translation` folder is placed correctly. 
 
 4. See if it works

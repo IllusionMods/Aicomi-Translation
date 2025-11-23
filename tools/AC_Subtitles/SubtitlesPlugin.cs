@@ -1,4 +1,4 @@
-﻿using System.Reflection;
+using System.Reflection;
 using System.Text.Json;
 using AC_Subtitles;
 using AC.Scene.Touch;
@@ -16,7 +16,7 @@ using UnityEngine.SceneManagement;
 [assembly: AssemblyProduct(SubtitlesPlugin.DisplayName)]
 [assembly: AssemblyVersion(SubtitlesPlugin.Version)]
 [assembly: AssemblyDescription("Show subtitles in H and Touch scenes")]
-[assembly: AssemblyCompany("https://github.com/IllusionMods/Aicomi-Translation")]
+[assembly: AssemblyCompany("https://gitgoon.dev/IllusionMods/Aicomi-Translation")]
 
 namespace AC_Subtitles;
 

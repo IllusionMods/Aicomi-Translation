@@ -1,4 +1,4 @@
-﻿using AC.Scene.Explore.UI;
+using AC.Scene.Explore.UI;
 using AC.Scene.FreeH.CharaStateSelect;
 using AC.Scene.Home.UI;
 using AC.Scene.Home.UI.Callsign;
@@ -19,7 +19,7 @@ using XUnity.AutoTranslator.Plugin.Core;
 [assembly: AssemblyProduct(TranslationHelperPlugin.DisplayName)]
 [assembly: AssemblyDescription("Workaround for some things not getting translated by AutoTranslator.")]
 [assembly: AssemblyVersion(TranslationHelperPlugin.Version)]
-[assembly: AssemblyCompany("https://github.com/IllusionMods/Aicomi-Translation")]
+[assembly: AssemblyCompany("https://gitgoon.dev/IllusionMods/Aicomi-Translation")]
 
 namespace AC_TranslationHelper
 {
