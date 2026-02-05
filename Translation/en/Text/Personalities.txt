@@ -1,0 +1,53 @@
+// c00
+明るい=Cheerful
+// c01
+おっとり=Gentle
+// c02
+気さく=Friendly
+// c03
+楽天的=Optimistic
+// c04
+ギャル=Gyaru
+// c05
+クール=Cool
+// c06
+不良少女=Delinquent
+// c07
+内気=Shy
+// c08
+不思議っ娘=Mysterious
+// c09
+オタク=Otaku
+// c10
+ボクっ娘=Bokukko
+// c11
+大和撫子=Proper Lady
+// c12
+艶やか=Glamorous
+// c13
+古風=Old-fashioned
+// c14
+ボーイッシュ=Boyish
+// c15
+Sっ気=Sadistic
+// c16
+ツンデレ=Tsundere
+// c17
+お嬢様=Ojousama
+// c18
+生意気=Cheeky
+// c19
+ものぐさ=Lazy
+
+// ==== Append DLC
+
+// c20
+無邪気=Innocent
+// c21 (name shared with a trait)
+真面目=Serious
+// c22
+お調子者=Show-off
+// c23
+無口=Reserved
+// c24
+ノリノリ=Excited
