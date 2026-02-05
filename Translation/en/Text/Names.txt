@@ -36,6 +36,12 @@
 錦ノ宮 月乃=Nishikinomiya Tsukino
 長倉 汐里=Nagakura Shiori
 汐里 長倉=Shiori Nagakura
+// Append DLC
+堂本 ななこ=Domoto Nanako
+野上 悠加=Nogami Yurika
+天野 遥=Amano Haruka
+榊 あさみ=Sakaki Asami
+寺崎 千鶴=Terasaki Chizuru
 
 // Names (update both these and combined names above at the same time)
 ひより=Hiyori
@@ -103,6 +109,18 @@
 西沢=Nishizawa
 錦ノ宮=Nishikinomiya
 長倉=Nagakura
+// Append DLC (duplicates in RandomNames.txt)
+堂本=Domoto
+ななこ=Nanako
+野上=Nogami
+悠加=Yurika
+天野=Amano
+遥=Haruka
+榊=Sakaki
+あさみ=Asami
+寺崎=Terasaki
+千鶴=Chizuru
+
 
 // Nicknames (default cards)
 えりまる=Erimaru
@@ -127,7 +145,9 @@
 れいさん=Rei-san
 ょうりん=Yourin
 もかちゃ=Mokacha
-
+// Append DLC
+ちずる=Chizuru
+ゆうか=Yuuka
 
 
 
