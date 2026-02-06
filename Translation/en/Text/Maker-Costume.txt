@@ -463,6 +463,8 @@ Shoesの設定=Shoes Settings
 向日葵A=sunflower A
 向日葵B=sunflower B
 // Clothes
+アロハシャツ(男)=Aloha shirt (male)
+リゾートショーツ(男)=Resort shorts (male)
 ルーズシャツ=Roose shirt
 トナカイトップス=Reindeer Tops
 レースブラウス=Lace blouse
