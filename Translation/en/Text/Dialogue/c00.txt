@@ -1098,12 +1098,8 @@
 「特には無いけど……観覧車を後にした方がいいんじゃないかな？ 乗ってる間に次は何をするか決めやすそうだし」=「Nothing in particular, but... maybe we should leave the Ferris wheel behind? It'll be easier to decide what to do next while we're on board.」
 「あっ、それいいね！ 上から眺めてたら、次はあそこに行ってみたいーって所が見つかると思うし」=「Ah, that sounds good! If you look at it from above, you'll probably find a place where you want to go next.」
 「じゃあ先にメリーゴーランドに乗る感じでいいかな？」=「Then can we ride the merry-go-round first?」
-䅈=,
-先=Saki
 「うんうん♪ えへっ、君にリードしてもらっちゃって……なんか今、すっごくデートしてるって感じがする」=「Yeah, yeah♪ Eheh, having you take the lead... makes me feel like we're on a real date right now.」
 「はは、任せてよ。デートの為にちゃんと遊園地の下調べはしてあるから」=「Haha, leave it to me. I made sure to investigate the amusement park for our date.」
-腈=,
-酈=Li
 「わっ、それは頼もしいね！ じゃあ今日は……君にいっぱい甘えちゃおうかなっ♪」=「Wow, that's reassuring! Well then... I guess I'll rely on you a lot today♪」
 「あっ、起きちゃった……おはよ♪ もうちょっと寝ててくれてもよかったんだよ？」=「Ah, you're awake... Good morning♪ You could have slept a little longer, you know?」
 「おはよ……もしかして、寝顔をずっと見られてた？」=「Morning... Could it be that you've been watching me sleep the whole time?」
@@ -1335,7 +1331,6 @@
 「それよさそうだね。誰かに教えたって記憶も残るから、倍以上の効果がありそう！」=「That sounds good. Even if you tell someone, they'll still remember you, so it looks like it'll be twice as effective!」
 「それじゃ実際やってみる？ 二人で違う範囲を覚えて教え合ったら、効率も倍だよ！」=「Then why don't we actually try it? If the two of us learn different things and teach each other, it'll be twice as effective!」
 「倍の倍で凄いことになりそうだね！ じゃあ俺は歴史総合を覚えてくよ」=「Doubling that's going to be amazing! Then I'll remember history in general.」
-鄖#=-#
 「じゃあじゃあ私は生物にする！ あはっ、なんだか覚える段階でもう楽しくなってきたね♪」=「Then I'll turn into a living creature! Aha, it's already starting to get fun when you learn♪」
 「なかなかいい感じ進んだんじゃないかな。やっぱり一人より二人だね」=「I think it went pretty well. Two people really are better than one.」
 「君と勉強するの楽しかった～♪ また一緒に出来たらいいね」=「It was fun studying with you♪ I hope we can do it together again.」
@@ -1554,7 +1549,6 @@
 「はいはい、分かったよー。丁度暇してたから、どこへなりとも連れてって」=「Okay, okay, I get it. I was just about free, so take me wherever you want.」
 「付いてくのはちょっと……また今度にしてもらえると助かるかな」=「I don't want to follow you... I'd appreciate it if you could do it some other time.」
 「はいはーい、何か私に用？」=「Okay, okay, what do you want from me?」
-黅]=[]
 「カフェの注文ってちょっと緊張するよね。飲み物のサイズとかオシャレな感じで書いてあったりして……」=「Ordering at a café is a little nerve-wracking, isn't it? Maybe the size of the drinks and stuff are written in a stylish way...」
 「たまに来ると、どれがどのサイズだったっけって分からなくなるよね」=「Once in a while, it's hard to tell which size was which.」
 「そうそう、実は今日も間違えて……ちょっと大きめのサイズを頼んじゃったんだよね」=「Oh yeah, actually, I made a mistake again today... I asked for a slightly larger size.」
@@ -1935,7 +1929,6 @@
 「駄菓子も誰かと一緒に食べた方が美味しいんだね。子どもの時を思い出しちゃった♪」=「Even candy tastes better when you eat it with someone else. It reminds me of when I was a kid♪」
 「目的地にとうちゃーく……で、いいのかな？」=「Is it really okay for us to go to our destination?」
 「あ、そろそろ花火の時間だよ！ 移動しよっか」=「Oh, it's almost time for the fireworks! Let's move.」
-)蒅=) Sumo
 「好きな人のすることだったら何でも許せちゃう？」=「Can you forgive anything you do to the person you love?」
 「逆にちゃんとして欲しいかなぁ。好きだからこそ見逃せないし」=「On the other hand, I want you to do it properly. It's because I love you that I can't overlook it.」
 「ほんとにいけないことじゃなければ許しちゃいそう。恋は盲目ってやつだね」=「I think I'll forgive you if it's not something I really shouldn't do. Love is blind.」

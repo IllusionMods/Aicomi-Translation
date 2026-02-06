@@ -1,4 +1,3 @@
-厈=,
 「花火、よかったわね……ずっと見ていたいと思ってしまったわ」=「I'm so happy with the fireworks... I want to watch them forever.」
 「俺はその……[H名]さんをずっと見ていたいと思ってました」=「I... I wanted to keep looking at you, [H名].」 
 「ふふ、どうしたの？ 急に口説くようなことを言って……何か狙いがあるのかしら？」=「Hehe, what's wrong? Why are you trying to seduce me all of a sudden...? Do you have something in mind?」
@@ -301,7 +300,6 @@
 「ふぅ、お疲れ様……あなたとお祭りを周ると、ついはしゃぎ過ぎてしまうわね」=「Phew, good work... Going around the festival with you makes me get too excited.」
 「疲れているなら、少し休憩していきますか？」=「If you're tired, why don't we take a break?」
 「そうねぇ……あなたはどうなの？ この後、どうしたい？」=「Let's see... What about you? What do you want to do after this?」
-%晅=%~
 「ではね、また何か用があったら話しかけて」=「Well then, if you need anything else, let me know.」
 「そう、何か用事があるなら早く行きなさい」=「I see. If you have something to do, hurry up and go.」
 「大人をからかうものじゃないわよ。子どもみたいに暇ではないの」=「You shouldn't tease adults. I don't have time to waste like a child.」

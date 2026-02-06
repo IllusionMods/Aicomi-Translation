@@ -1459,7 +1459,6 @@
 「花火までもう少し時間はあるけれど……早めに移動しておきましょうか」=「There's still a little more time before the fireworks, but... let's get going.」
 「ねぇ、[Hあだ名]……」=「Hey, [Hあだ名]...」
 「なにかしら……[Pあだ名]……やっぱりこれ、ちょっと恥ずかしいわ」=「I wonder what it is... [Pあだ名]... This really is a little embarrassing.」
-䅅=,
 「サボリ中？ 別に責めるつもりはないわ。それは私がすることではないもの」=「Skipping? I'm not blaming you. That's not something I should do.」
 「生憎話している時間が無いの。ごめんなさいね」=「Unfortunately, we don't have time to talk. I'm sorry.」
 「そうね、一人より二人の方が捗りそうだし……いいわよ」=「Yeah, it looks like two people will make better progress than one... It's fine.」

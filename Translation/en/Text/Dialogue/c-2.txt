@@ -318,8 +318,6 @@
 「実は食べたり食べなかったりしてて……」=「Actually, I've been eating and not eating...」
 「あー、ダメだよぉ、朝はしっかり食べないとねー」=「Ahh, you can't. You have to eat properly in the morning.」
 「私とお話がしたいんだ。いいわよ」=「You want to talk to me. It's fine.」
-㘡Bf=-Bf
-㘡Bff=-Bff.
 「私、急ぎの用があるの。ごめんなさいね」=「I have urgent business to attend to. I'm sorry.」
 「あ、もうすぐ花火の時間ね！ 私達も移動しておきましょうか」=「Oh, it's almost time for fireworks! Let's get moving too.」
 「またなにかあったら気軽に声掛けてね」=「If anything else happens, feel free to let me know.」

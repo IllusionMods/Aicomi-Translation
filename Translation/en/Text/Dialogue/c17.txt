@@ -1985,7 +1985,6 @@
 「なんだか堅苦しいルールだね」=「That's a pretty formal rule.」
 「どういたしまして」=「You're welcome.」
 「あの……二人だけで運動がしたいのですけど……いかが？」=「Umm... I'd like to exercise alone... How about it?」
-㴽#=-#
 「助かりますわ。では、まいりましょう」=「That would be a great help. Let's go, then.」
 「わかりましたわ。急なお願いをしてごめんなさいね」=「I understand. I'm sorry for making such a sudden request.」
 「おーっほっほっほ。よく似合っているでしょう？」=「Oh ho ho ho. It looks good on you, doesn't it?」
@@ -2105,7 +2104,6 @@
 「いやらしいこと考えてますでしょう？」=「You're thinking dirty thoughts, aren't you?」
 「そうだとしても、触らせて欲しいんだ……！」=「Even so, I want you to let me touch you...!」
 「いっそ、すがすがしさを感じますわね……呆れますこと。まったく……絶対、少しだけですわよ？」=「I'd rather feel refreshed... I'm amazed. Honestly... It's definitely just a little, you know?」
-^㾐=^~
 「いかがわしい気配を察知したんですけど？」=「I sensed something suspicious.」
 「……もし。貴方、目つきがあやしいですわよ？」=「...If. You look suspicious, you know?」
 「もう……好きになさってください……私、知りませんわ……」=「Please... do as you please... I don't know...」

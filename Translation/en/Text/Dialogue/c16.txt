@@ -537,7 +537,6 @@
 「大半は、私が気づいてなかっただけみたいだけど……」=「Most of them just didn't notice me...」
 「なんだかエッチな空間すぎてクラクラしちゃった……」=「It's so dirty that I'm getting dizzy...」
 「ちょっと聞きたいことがあるんだけどいい？」=「Can I ask you something?」
-䒾=,
 「運動をやるぞって思うと気が重くなっちゃうんだけど、ハードルを下げる方法ってあると思う？」=「Thinking about doing some exercise makes me feel depressed. Do you think there's a way to lower the bar?」
 「どうだろう……とにかく気合を入れるとか？」=「I don't know... Anyway, how about getting fired up?」
 「それは根性論じゃない」=「That's not about guts.」
@@ -2050,7 +2049,6 @@
 「その、さ……見てたらエッチしたくなっちゃったんだけど、これからどうかな？」=「Umm, well... Just looking at you made me want to have sex. What do you think about now?」
 「そんなこと急に言われても……心の準備が……」=「Even if you say that all of a sudden... I'm not mentally prepared...」
 「でも……あんたがそこまで言うなら……仕方ないわね」=「But... if you're going to go that far... then there's no helping it.」
-儶l=■l
 「みんながいいなら、私もいいけど？」=「If everyone's okay with it, so am I?」
 「勉強する場所でこんなことしていいのかしら……」=「I wonder if it's okay to do this in a place to study...」
 「こういうところでするの……？ まあ、いいけど」=「You do it in a place like this...? Well, whatever.」
@@ -2100,8 +2098,6 @@
 「声を抑えなきゃって思うと……感じちゃって、おかしくなりそうだったわ」=「The thought of having to keep my voice down... made me feel it, and I felt like I was going crazy.」
 「もう少しテクニックを磨いてほしいわね」=「I wish you'd improve your technique a little more.」
 「こんなに精液で汚して……そんなに興奮したの？」=「Did you get that excited... from getting so dirty with semen?」
-剑=It's ken.
-剑P=“Careful P”
 「水の中でするって不思議な感じ……中にお水入ってないかしら……」=「It feels strange doing it in the water... I wonder if there's any water inside...」
 「うーん……いい、けど……」=「Hmm... Okay, but...」
 「スッキリした？ 私は……ちょっと興奮して、まだムラムラしてる……」=「Are you feeling better? I'm... a little excited, and still horny...」

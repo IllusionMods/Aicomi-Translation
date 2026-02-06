@@ -1298,7 +1298,6 @@
 「あるのではないか？ 男側のことはよく知らぬが、そこまでエロいことを考えるわけでもなかろう？」=「Isn't it possible? I don't know much about men, but it's not like I'm thinking about anything that erotic, is it?」
 「将来、子供って何人ぐらいほしい？」=「How many children do you want in the future?」
 「まだ考えもしておらんが……まあ、そうじゃな。お主の子なら何人でも作ってよいぞ」=「I haven't thought about it yet, but... Well, that's true. You can make as many children as you want.」
-霱=,
 「それは分からん……それとも、お主は我との将来まで考えてくれておるのか？」=「I don't know... Or are you thinking about your future with me?」
 「恋人と……俺とのエッチな会話も苦手？」=「You don't like having dirty conversations with your girlfriend... with me, either?」
 「あまり得意ではないが……それでもお主となら付き合ってもよいぞ」=「I'm not very good at it, but... I can still go out with you.」
@@ -2035,7 +2034,6 @@
 「気のせいじゃないと思う」=「I don't think it's just my imagination.」
 「そこは否定する流れではないのか……？ ……まあ、あまりに変なことをしたら怒るが……ちょっとくらいなら、構わぬぞ」=「Aren't you going to deny that...? ...Well, I'll get angry if you do something too strange, but... I don't mind if it's just a little.」
 「何か企んでおるな？ 我が気づかないと思ったのか」=「What are you planning? Did you think I wouldn't notice?」
-}䢱=)
 「プールでするのか？ なんじゃか、とてもすごいことになりそうな予感がするのじゃ」=「You're going to do it in the pool? I have a feeling something amazing is going to happen.」
 「普段勉強している机でするのか？ 何とも破廉恥な気持ちになってしまうの……」=「Do you do it at the desk you usually study at? It makes me feel shameless...」
 「おわっ……お主、ここで何を……まさか……見ておったのか？」=「Whoa... What are you doing here...? Don't tell me... you saw it?」
@@ -2112,7 +2110,6 @@
 「……ん？ 終わりにするのか？ 我は別に構わんぞ」=「...Hm? Are you going to end it? I don't mind.」
 「尿意ではないものが、スッキリしたのじゃ……」=「Things that aren't meant to urinate have cleared up...」
 「お主とは、もっと色んなエッチをしてみたいの。次も楽しみなのじゃ」=「I want to have lots more sex with you. I'm looking forward to the next time too.」
-0傁=0~
 「エッチは、気持ちがいいの……回数を重ねれば、更に良くなるのかの……？」=「Dirty feels good... Will it get even better if we do it over and over again...?」
 「はふぅ……やはり、かなり体力を使ってしまうの、じゃが、その分気持ち良かったのじゃ」=「Hafuu... I knew it would take a lot of stamina, but that just made it feel even better.」
 「恐らく、怪しまれてはないようじゃな……あるいは見て見ぬふりをされたか」=「I don't think he's suspicious... Or maybe he just pretended not to see it.」

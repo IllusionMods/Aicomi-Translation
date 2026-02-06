@@ -240,7 +240,6 @@
 「そうみたいだね。君と話すまで気付いてなかったよ」=「Looks like it. I didn't notice until I talked to you.」
 「それだけ手に取る人が多いってことなのね」=「That just goes to show how many people can get their hands on it.」
 「でも、たくさん出たら、その分食べたくならない？」=「But don't you want to eat more if you cum a lot?」
-墲=,
 「まったくもってそう……だから我慢するのもすっごく大変なのよ」=「You're right... That's why it's so hard to hold back.」
 「運動してる時って、みんなどんなことを考えてるのかしら……」=「I wonder what everyone thinks when they're exercising...」
 「俺は特別、何かを意識してるってことはないかも」=「I don't think I'm particularly conscious of anything.」
@@ -891,7 +890,6 @@
 「どっちも買うのはダメなのかしら……？」=「I wonder if I can't buy either...?」
 「予算的に一着しか無理そうなんだよ。あ！ 君が選んでくれないかな」=「It looks like we'll only be able to get one in the budget. Oh! I wonder if you'll pick one for me.」
 「ええ、そんなに大事なこと、私が決めていいの？」=「Yes, is it really okay for me to decide something so important?」
-㗟=,
 「このままだと決められずに、結局買わないってなりそうで……」=「At this rate, I won't be able to decide, and in the end, I don't think I'll buy it...」
 「そういうことなのね。それじゃあ、選ばせてもらおうかなあ」=「So that's how it is. Well then, I guess I'll choose.」
 「うん、よろしくお願いします！ それに君が選んでくれると嬉しいしね」=「Yeah, I'm counting on you! And I'd be happy if you chose.」
@@ -1658,11 +1656,6 @@
 「どこがいいかしら……といっても、この辺じゃ行けるお店なんて限られてるんだけど」=「I don't know where I should go... That said, there aren't many places around here I can go.」
 「あら、誘うタイミングを間違えちゃったみたいね」=「Oh, looks like I got the timing wrong.」
 「ねえ……ちょっと勉強に付き合ってくれないかしら？」=「Hey... Could you help me study a little?」
-句]=[poetry]
-揥]=[]
-珥]=[Ibi]
-菥]=[]
-鏥]=[]
 「いいのね？ 助かるわ」=「Are you sure? That'd be great.」
 「そう……残念ね」=「I see... That's too bad.」
 「はいはい、ここにいたらダメでしょ？」=「Yeah, yeah, we can't stay here, right?」
@@ -1718,7 +1711,6 @@
 「本当ね。また一緒に来て、子どもの頃の気分を味わいましょう」=「You're right. Let's come together again and experience what it feels like to be a child.」
 「懐かしい気分になるのもいいものね」=「It's nice to feel nostalgic.」
 「また二人で来て、色んな話をしましょうね」=「Let's come again and talk about all sorts of things.」
-Ʌ鄤R=χ-R
 「あら、キミはここにいちゃいけないでしょ？ 回れ右して出て行ってね」=「Oh, you shouldn't be here, right? Turn around and leave.」
 「お祭り、楽しんでるかしら？」=「Are you enjoying the festival?」
 「ふふ。お祭りデート、楽しいわね」=「Hehe. Festival dates are fun.」
@@ -1842,13 +1834,6 @@
 「花火の時間も近づいてるし、移動しておきましょうか」=「It's almost time for the fireworks, so let's get moving.」
 「今はちょっとタイミング悪いの……ごめんなさいね」=「The timing's a little bad right now... I'm sorry.」
 「いいわよ。私も、誘うタイミングを伺ってたのよ」=「It's fine. I was waiting for the right time to invite you too.」
-㑌=,
-䑌=,
-呌=,
-摌=,
-瑌=,
-葌=,
-鑌=Bibi
 「トランプのゲームの中だと、キミは何が好きかしら？」=「What do you like in a game of cards?」
 大富豪だね=You're a millionaire.
 七並べかな=Seven rows, I guess.

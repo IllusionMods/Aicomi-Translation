@@ -253,7 +253,6 @@
 「それは俺も……なんだ、そんな風に思ってくれてたんだったら、俺から告白すればよかったな」=「Me too... If that's how you felt about me, I should've confessed to you.」
 「答えわかってからはさすがにズルいよ……せっかくの私の決意が無駄になっちゃうじゃない」=「Now that I know the answer, it's not fair... It'd be a waste of my determination.」
 「ああっ、ごめんごめん。でもお互いそう思っていたのって、やっぱり俺たちって相性がいいのかもね」=「Ahh, sorry, sorry. But maybe we really are compatible because we both felt that way.」
-鬹O=-O
 「ふふっ、そうかもしれないわね。それで？ 出来たらちゃんとお返事聞かせて欲しいな……」=「Hehe, you might be right. And? If possible, I'd like to hear your reply...」
 「そうだね……うん。じゃ、改めて。俺も君が好きだよ。一緒に恋人になろうよ」=「You're right... Okay. Then let's do it again. I love you too. Let's be lovers together.」
 「はあ～……よかったぁ～……告白なんて初めてだったから……すっごくドキドキしてたの」=「*sigh*... Thank goodness*... This was my first time confessing, so... my heart was racing.」
@@ -411,7 +410,6 @@
 「ダメじゃないけど……なんだか恥ずかしいから教えてあげない♪」=「It's not that I can't, but... it's kind of embarrassing, so I won't tell you♪」
 「ねえねえ、この間のアーティスト、私も聴いてみたよ」=「Hey, hey, I tried listening to the artist the other day.」
 「本当？ どうだった？」=「Really? How was it?」
-4碹=4~
 「もう、すごくいいの……特にこの曲！」=「Geez, it's really good... Especially this song!」
 「私ももうすっかりハマっちゃったわ」=「I'm completely hooked on it too.」
 「ちなみに、それの特別版のＭＶがまたカッコいいんだよ」=「By the way, the MV for that special edition is cool again.」
@@ -1761,7 +1759,6 @@
 習った方がいいよ=You should learn.
 「俺も特にはないんだよね。趣味でたまにする程度でいいっていうか=「I don't have anything in particular, either. It's fine if it's just a hobby I do every now and then.」
 「でも運動は身体にもいいっていうから、始めてみるのもいいんじゃないかな」=「But they say exercise is good for your health, so I think it's good to start.」
-b銍=B-masked
 「私も同じ意見。ゆるーくする感じならいいんだけど、だいだいみんな真剣だからね」=「I agree. It's fine if it feels relaxed, but everyone's pretty serious about it.」
 「こっちだとにサイクリングとかも楽しいんじゃない？」=「Wouldn't cycling be fun here too?」
 「田舎の道は景色も代わり映えしないから、そんなに楽しくないかもだよ？」=「I don't think it's that fun, since the scenery doesn't change on the countryside roads, you know?」
@@ -2096,7 +2093,6 @@ b銍=B-masked
 「わかった。今回は……特別にオッケーしてあげるわ」=「Okay. This time... I'll give you a special okay.」
 「ほ、本当はあなた以外の男の人とするのは……困るんだけど……」=「H-Honestly, I don't want to do it with anyone other than you...」
 「そんなにしたいなら……しかた、ないわな……」=「If you want to do it that badly... then there's no helping it...」
-䕧@=〜@
 「トイレでするカップルの話は聞いたことあるけど……まさか自分がするなんてね」=「I've heard about couples doing it in the bathroom, but... I never thought I'd do it myself.」
 「仲間に入れてくれてありがとう」=「Thank you for letting me join you.」
 「声をかけてくるなんて……本当にエッチね。でも……ちょっと期待してたの」=「To think you'd call out to me... You really are a pervert. But... I was hoping for something.」

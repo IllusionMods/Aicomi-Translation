@@ -1461,9 +1461,9 @@
 仕草にグッとくるね=Your gestures are making me shudder.
 「へえ、そっか。オレの声、そんなに好きなんだ……！ 実はオレも自分の声、けっこー気に入ってんだ♪」=「Huh, I see. So you like my voice that much...! Actually, I like my own voice too♪」
 「ふぅん、そうきたか。オマエ、いっつもオレのことじっと見てるもんな。えっと、その……すっげー嬉しいよ♪」=「Hmm, so that's how it is. You're always staring at me, aren't you? Um, well... I'm really happy♪」
-「お、オマエってさ……女の子の声と仕草、どっちで興奮しやすいタイプ？」=「Wh-Whose voice or mannerisms are you more likely to get excited?」
+「お、オマエってさ……女の子の声と仕草、どっちで興奮しやすいタイプ？」=「Wh-Which are you more likely to get excited by, voice or mannerisms?」
 声=Voice
-仕草=Shigusa
+仕草=Mannerisms
 「あはは、そーなんだ。それなら結構簡単……う、ほんとにハードル低いかな？ ちょっと頑張ってみるか……」=「Ahaha, I see. That's pretty easy... Ugh, is the bar really low? I guess I'll try my best...」
 「ほんとかよ？ 仕草ねえ……よくわかんねーけど、オレもそーいうことしてるって？ う……なんか恥ずかしいっ」=「Really? A gesture, huh...? I don't really get it, but I'm doing the same thing? Ugh... This is kinda embarrassing.」
 「むぅ……オレが思ってた方とは違うみたいだ」=「Mmm... Looks like it's different from what I thought.」
