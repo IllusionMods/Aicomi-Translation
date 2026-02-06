@@ -1,3 +1,55 @@
+// After adding append DLC
+モブカラー=Mob Color
+ナイトツアー=Night Tour
+旅行=Trip
+日曜まで=Until Sunday
+土曜まで=Until Saturday
+週末までスキップしますか？=Do you want to skip until the weekend?
+旅行に誘う=Invite on a trip
+「今日は旅行デートだ！ 遅れないようにしないとな」=「Today's a trip date! I have to make sure we're not late.」
+ナイトマーケットに行く=Go to the night market
+ナイトプールに行く=Go to the night pool
+トナカイセット=Reindeer set
+パイレーツセット=Pirate set
+ハロウィンウェディングセット=Halloween wedding set
+プール手すり=Pool railing
+路地裏クンニ=Back Alley Cunnilingus
+路地裏手マン=Back Alley Fingering
+路地裏フェラ=Back Alley Blowjob
+路地裏手コキ=Back Alley Handjob
+路地裏バック=Back Alley From Behind
+路地裏駅弁=Back Alley From Front
+相手キャラ 二人目=Second male character
+相手キャラ 一人目=First male character
+ナイトプール=Night pool
+ナイトマーケット=Night Market
+// H scenes
+路地裏=Back alley
+// Normal
+見せつけオナニー=Showing off masturbation
+カウンター対面立位=Standing against a counter
+壁Y字バランス挿入=Wall Y-balanced insertion
+プールサイド手コキ=Poolside handjob
+手すりパイズリ=Handrail titjob
+浮き輪背面座位=Floating inverted seat
+手すりバック=Handrail standing back
+手すり乳首責め=Handrail nipple attack
+プールサイドクンニ=Poolside cunnilingus
+// Gangbang
+男複数=Gangbang
+W駅弁=W sandwich
+二竿フェラ=Two way blowjob
+背面騎乗＋正常位=Reverse cowgirl + Missionary
+対面騎乗＋後背位=Face-to-face cowgirl + Doggy style
+後背位＋フェラ=Doggystyle + Blowjob
+側位＋フェラ=Sideways + Blowjob
+壁穴後背位＋フェラ=Wall hole back + Blowjob
+空中バック＋フェラ=Carry doggy + Blowjob
+胸揉み＋手マン=Breast fondling + Fingering
+胸揉みアナル挿入＋クンニ=Breast fondling, anal insertion + Cunnilingus
+// ========= append DLC end
+
+
 // Maker items, possibly modded
 火焔の脚衣=Flame leg garments
 ニーハイ&ルーズA=Knee-high & loose A
@@ -23,11 +75,6 @@ Shrine Maiden Top よしはら’ｓ=Yoshihara’s Shrine Maiden Top
 ボトムス=Bottom
 靴下=Socks
 使用する=Enable it
-
-// After adding append DLC
-モブカラー=Mob Color
-ナイトツアー=Night Tour
-旅行=Trip
 
 // Male maker exclusive
 ポロシャツ(男)=Polo shirt (male)
