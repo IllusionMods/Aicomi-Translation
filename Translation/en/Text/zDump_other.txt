@@ -1,0 +1,17 @@
+あいうえおかきく=ABCDEFGHIJ
+ここに移動=Move here
+入れ替える=Swap
+女の子と仲良くなって=Make friends with girls
+デートに誘おう！=Ask them out on a date!
+◯勉強=◯Study
+移動中=On the move
+アルバム=Album
+25 席=25 seats
+登録可能人数を最大にする=Maximize roster capacity
+週末にする=Skip to weekend
+全てのデート先が=All date destinations
+解放された！=Unlocked!
+この施設=This facility
+※「座席」にカーソルを合わせ、女の子を登録しよう=*Hover your cursor over a seat and register a girl.
+情報表示=Display information
+発信履歴=Call history
