@@ -1,24 +1,24 @@
 // Warning: This is a raw string dump - many of those may not actually appear in the game and be comments or debug strings
 
-マットキャップ陰影カラー=Mat Cap Shading Color
-上着衣マスク=Top Mask
-上着衣段階 着=Top Stage (Worn)
+マットキャップ陰影カラー=MatCap Shading Color
+上着衣マスク=Outerwear Mask
+上着衣段階 着=Outerwear Stage (Worn)
 下着衣マスク=Underwear Mask
 下着衣段階 着=Underwear Stage (Worn)
 乳首の色１=Nipple Color 1
 乳首の色２=Nipple Color 2
 乳首テクスチャ=Nipple Texture
-尻赤の色=Butt Red Color
-尻赤強度=Butt Red Intensity
-影の濃さ(ゲーム設定)=Shadow Density (Game Settings)
+尻赤の色=Butt Redness Color
+尻赤強度=Butt Redness Intensity
+影の濃さ(ゲーム設定)=Shadow Intensity (Game Settings)
 毛の色=Hair Color
-汁タイリング=Squirt Tiling
-汁テクスチャ=Squirt Texture
-汁マスク=Squirt Mask
+汁タイリング=Liquid Tiling
+汁テクスチャ=Liquid Texture
+汁マスク=Liquid Mask
 汗強度=Sweat Intensity
 濡れ強度=Wetness Intensity
-肉感強度=Flesh Intensity
-肌の部分色=Skin Color
+肉感強度=Body Flesh Intensity
+肌の部分色=Skin Tone
 追加影の強度=Additional Shadow Intensity
 陰毛テクスチャ=Pubic Hair Texture
-食い込み強度=Indentation Intensity
+食い込み強度=Cloth Indentation Intensity
