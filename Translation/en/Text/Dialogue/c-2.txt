@@ -401,3 +401,5 @@
 「やっぱり私、あなたとのエッチ、好きみたい」=「It looks like I really do like having sex with you.」
 「あなたにイカせてもらいたかったわ……」=「I wanted you to make me cum...」
 「あなたってすごいわ、私、途中から意識が飛びそうになってたもの」=「You're amazing. I almost lost consciousness halfway through.」
+// ================================= Append DLC =================================
+「あ～……それはごめんなさい！ 急な異動だったし、準備とかいろいろあって、お店に顔を出せなかったの」=「Ah~... I'm sorry about that! I was transferred out of nowhere, and I couldn't come to the store because of all the preparations.」

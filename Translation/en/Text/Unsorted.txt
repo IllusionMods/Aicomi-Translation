@@ -24,6 +24,11 @@ Shrine Maiden Top よしはら’ｓ=Yoshihara’s Shrine Maiden Top
 靴下=Socks
 使用する=Enable it
 
+// After adding append DLC
+モブカラー=Mob Color
+ナイトツアー=Night Tour
+旅行=Trip
+
 // Male maker exclusive
 ポロシャツ(男)=Polo shirt (male)
 Yシャツ(男)=Y-shirt (male)
