@@ -1,15 +1,15 @@
 // Warning: This is a raw string dump - many of those may not actually appear in the game and be comments or debug strings
 
 お祭りに誘う=Invite to a festival
-お祭りを回る=Go around the festival
-お祭りを回ろう=Let's go around the festival
+お祭りを回る=Walk around the festival
+お祭りを回ろう=Let's check out the festival
 ついてきて=Come with me
 イタズラしたい=Play a prank
 イチャイチャしたい=I want to get cozy
-イベント(キャラ)=Event (Character)
-イベント(マップ)=Event (Map)
+イベント(キャラ)=Event (character)
+イベント(マップ)=Event (map)
 エッチしたい=Ask for sex
-エッチな話=Sex talk
+エッチな話=Dirty talk
 エッチポイント=Sex points
 カフェの店員=Cafe staff
 ゲートウェイ=Gateway
@@ -18,7 +18,7 @@
 シャワーを浴びる=Take a shower
 デートに誘う=Ask out on a date
 プレイヤー=Player
-プール=Swimming pool
+プール=Pool
 一緒に勉強しよう=Let's study together
 一緒に運動しよう=Let's exercise together
 一緒に食事しよう=Let's eat together
@@ -39,5 +39,5 @@
 謝る=Apologize
 運動しよう=Let's exercise
 銭湯=Public bath
-陸上競技=Athletics
+陸上競技=Track and field
 食事しよう=Let's eat
