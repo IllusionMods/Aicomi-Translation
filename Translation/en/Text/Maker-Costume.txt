@@ -511,3 +511,14 @@ Vネックブラウス=V-neck blouse
 ケモ足スリッパ=Kemo Foot Slipper
 長靴=Boots
 ルームシューズ=Room shoes
+
+// 0206 patch
+ハートエプロンドレス=Heart apron dress
+ハートエプロン=Heart apron
+ケーキシューズ=Cake shoes
+ケーキハット=Cake hat
+ドーナツA=Donut A
+ドーナツB=Donut B
+ロングスプーン=Long spoon
+スイーツドレスセットA=Sweets Dress Set A
+スイーツドレスセットB=Sweets Dress Set B
