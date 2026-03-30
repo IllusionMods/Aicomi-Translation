@@ -1,0 +1,12 @@
+VR設定=VR Settings
+スティック移動速度=Stick movement speed
+つかみ移動速度=Grab movement speed
+回転方法=Rotation method
+スナップ=Snap
+連続=Continuous
+スナップ回転角度=Snap rotation angle
+連続回転速度=Continuous rotation speed
+体位変更時のカメラ位置=Camera position during pose changes
+UIを前面に固定=Fix UI to the foreground
+位置リセット=Reset position
+トリガー中スティックで開始=Start with the middle stick trigger
