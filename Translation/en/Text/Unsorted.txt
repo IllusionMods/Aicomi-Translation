@@ -516,7 +516,6 @@ Stockingsの詳細=More on Stockings
 関  係  性=               Relationship
 関係性=Relationship
 降順=Descending
-電車を乗り継ぎ、数時間かけて到着したのは\n俺が小さいころによく両親に連れられて遊びに来ていた祖父母が住む村だ。\r\n両親が海外出張となり、一人残されることになった俺はしばらくこの村の学園に転入することになった。\r\nそして胸躍る出会いに満ちた長い夏が始まる\r\n=After getting on the train, it took me a few hours to arrive at the village where my grandparents used to hang out with my parents when I was little. Since my parents went overseas on business and I was left alone, I decided to transfer to this village's school for a while. Then, a long summer filled with exciting encounters began.\r\n
 非処女=Non-v.
 駄菓子屋に移動しますか？=Should we move to the candy store?
 駅前=Station
