@@ -41,7 +41,7 @@
 「意外と豪華な景品が多いね」=「There's a lot of extravagant prizes.」
 「お？ 興味あるのだ？ あとで勝負するのだ！」=「Oh? Are you interested? We'll have a match later!」
 「いろんなお面があるのだ～」=「There are many kinds of masks.」
-「欲しいの？」=「You want it?」
+「欲しいの？」=[You want it?]
 「ほ、欲しくないのだ！ さすがにそんなに子どもっぽくないのだ！」=「I-I don't want it! I'm not that childish!」
 「そうかな？ つけてても不思議じゃないと思うけど」=「Really? I don't think it's strange for you to wear it.」
 「さ、さすがにバカにし過ぎなのだ！」=「Y-You're making fun of me too much!」
@@ -68,7 +68,7 @@
 「ワタシとの約束、忘れてたのだ……？ ありえないのだ……」=「Did you forget your promise to me...? It's impossible...」
 「ご、ごめん……」=「S-Sorry...」
 「許せないのだ……バイバイなのだ……」=「I can't forgive you... Bye-bye...」
-「あれ？ こんなところで何してるの？」=「Huh? What are you doing here?」
+「あれ？ こんなところで何してるの？」=[Huh? What're you doing here of all places?]
 「いいもの見せてやるのだ。ちょっとワタシの拳を覗いて見てほしいのだ」=「I'll show you something good. I want you to take a peek at my fist.」
 「えっ……カエルとかはいってない？」=「Huh...? No frogs or anything?」
 「失礼なのだ！ 違うのだ！ 見てみるのだ！」=「How rude! No! Take a look!」
@@ -153,7 +153,7 @@
 「しっかり買えたのだ～！」=「I was able to buy it properly!」
 「あれ？ 二個も食べるの？」=「Huh? You're going to eat two?」
 「これはオマエの分なのだ」=「This is for you.」
-「え？ いいの？」=「Huh? Are you sure?」
+「え？ いいの？」=[Eh? You sure?]
 「オマエにも美味しいからあげたくなっちゃったのだ」=「I wanted to give it to you because it's delicious too.」
 「ありがとう。ありがたく受け取るよ」=「Thank you. I'll gladly take it.」
 「えへへ。美味しいのはわけあうのだ」=「Ehehe. We share what's delicious.」
@@ -218,7 +218,7 @@
 「あ！ オマエちょうどいいところに来たのだ！」=「Ah! You came at just the right time!」
 「どうしたの？ 良い事あった？」=「What's wrong? Did something good happen?」
 「これからいいことが起こるかもしれないのだ」=「Something good might happen in the future.」
-「どういうこと？」=「What do you mean?」
+「どういうこと？」=[What do you mean?]
 「じゃじゃーん！ 実はお菓子を買ったのだ。当たりが出たらもう一個タダでもらえるのだ！」=「Ta-da! I actually bought some sweets. If I win, I'll get another for free!」
 「あ～、なるほど。当たりが出たらね」=「Ah~, I see. If I win, that is.」
 「ふっふっふ。見てるのだ！ えいっ！」=「Fufufu. I'm watching! Ei!」
@@ -318,7 +318,7 @@
 「オマエとなら買い物行ったら楽しく過ごせそうなのだ♪」=「If I go shopping with you, I think I'll be able to have fun♪」
 （告白するなら今しかない）=(This is the only time I can confess.)
 「やっぱり花火は綺麗なのだ～！」=「Fireworks really are beautiful!」
-「そうだね……」=「You're right...」
+「そうだね……」=[Yeah....]
 「あれ？ どうしたのだ？ 元気ないのだ？」=「Huh? What's wrong? Are you feeling down?」
 「そういうわけじゃなくて……あのさ……俺……君のこと、好きなんだよね」=「That's not it... You know... I... like you, don't I?」
 「え……」=「Huh...?」
@@ -625,7 +625,7 @@
 「え？ そうなの？」=「Huh? Really?」
 「そうなのだ！ 今度遊びに来てほしいのだ。きっと居心地がいいと思うのだ！」=「That's right! I want you to come visit me next time. I'm sure it'll be comfortable!」
 「おお～！ みてみて～！ 綺麗な夕日なのだ！」=「Ohhh! Look! It's a beautiful sunset!」
-「ほんとだ。綺麗だね」=「You're right. It's beautiful.」
+「ほんとだ。綺麗だね」=[Oh, you're right. So pretty.]
 「こういうの見つけると、なんだか幸せ～な気分になるのだ」=「Finding something like this makes me feel kind of happy.」
 「その気持ちわかるよ。……そうだ。写真撮ってもいい？」=「I understand how you feel. ...Oh, right. Can I take a picture?」
 「写真？ 夕日を撮りたいなら好きにすればいいのだ」=「Pictures? If you want to take photos of the sunset, do as you please.」
@@ -642,12 +642,12 @@
 「どれどれ～……え～、逆光しちゃってるのだ～！」=「Let's see... Whaaat? It's backlit!」
 「それはそれで味があっていいと思わない？」=「Don't you think it's good that it tastes good?」
 「オマエの感性、よくわかんないのだ！」=「I don't really understand your sensibilities!」
-「そうかな？」=「You think so?」
+「そうかな？」=[You think so?]
 「ま、いい思い出になったからいいのだ♪」=「Well, it turned out to be a good memory, so it's fine♪」
 「ちょっとカフェで休憩していかない？」=「Why don't we take a break at the cafe?」
 「賛成なのだ！」=「I agree!」
 「うううん……うううん……」=「Nooo... Nooo...」
-「どうしたの？」=「What's wrong?」
+「どうしたの？」=[Go for it.]
 「頼んだドリンク、思ったより苦いのだ……これが大人の味なのだ？」=「The drink I ordered is bitterer than I expected... Is this the taste of an adult?」
 「そうかな？ 十分甘いと思うけど」=「Really? I think it's plenty sweet.」
 「普段駄菓子を食べてるから、こういうのはワタシにはおとなっぽすぎるのだ」=「I usually eat candy, so this kind of thing is too mature for me.」
@@ -1067,7 +1067,7 @@
 「え、いいけど……」=「Eh, sure, but...」
 「やったのだ～！」=「We did it!」
 「……ねえねえ。そろそろしないのだ？」=「...Hey, hey. Aren't you going to do it soon?」
-「いいの？」=「Are you sure?」
+「いいの？」=[You sure?]
 「もちろん、そういうつもりで来たのだ～」=「Of course, that's why I came here~」
 「ワタシのこと、ちゃんと楽しませてほしいのだ」=「I want you to have fun with me.」
 「ねえねえ、ちゃんと覚えてるのだ？ もうすぐお祭りなのだ」=「Hey, hey, do you remember? The festival is coming up soon.」
@@ -1127,7 +1127,7 @@
 「えへへ。いろいろ計画してくれてありがとうなのだ。楽しかったのだ」=「Ehehe. Thank you for planning all this. It was fun.」
 「それならさ……よかったらラブホ行かない？」=「In that case... Would you like to go to a love hotel?」
 「ラブホ！？」=「A love hotel?!」
-「だめかな……？」=「Maybe I can't...?」
+「だめかな……？」=[I guess it's a no....?]
 「全然だめじゃないのだー！ デート第二弾って感じでワクワクするのだ！」=「It's not like I can't do it at all! It's exciting, like the second part of a date!」
 「じゃあ、さっそく行くのだ！」=「Then let's get going!」
 「そういえば……うちの家にも絵が飾られているのだ」=「Come to think of it... our house is decorated with paintings too.」
@@ -1415,7 +1415,7 @@
 「ワタシに話があるのだ？ 遠慮なく話すのだ！」=「Do you have something to say to me? Don't hesitate to tell me!」
 「宿題って好き？」=「Do you like homework?」
 「好きなワケないのだ！ 怒られないなら絶対にやらないのだ！ オマエはどうなのだ？」=「There's no way I love you! If you won't get mad at me, I'll never do it! What about you?」
-苦手かな=I guess I'm not good at it.
+苦手かな=I find it rough.
 「できればやりたくないね」=「If possible, I don't want to do it.」
 「うーん、結構好きな方かな」=「Hmm, I think I like him a lot.」
 「宿題なんて消えてなくなればいいのだ～……」=「My homework just has to disappear...」
@@ -1450,7 +1450,7 @@
 「んん？ オマエの後ろを歩けばいいのだ？」=「Hmm? I just have to walk behind you?」
 「えー……今は勘弁なのだー」=「Ehh... I don't want to right now.」
 「勉強はヤだけど……オマエと一緒にならするのだ……」=「I don't want to study, but... I want to be with you...」
-「甘いものは好き？」=「Do you like sweets?」
+「甘いものは好き？」=[Do you like sweet things?]
 「大好きなのだ。三時のおやつが日々の楽しみなのだ～」=「I love it. I'm looking forward to the three o'clock snack every day.」
 「もちろんなのだ。毎日なんのおやつを食べるか悩んでるのだ～」=「Of course. I'm worried about what snacks to eat every day.」
 「最近ハマってる休日の過ごし方は？」=「How do you spend your day off that you've been into lately?」
@@ -1467,7 +1467,7 @@
 「ここはさすがにダメだと思うのだ～」=「I don't think this is a good place.」
 「競争って好き？」=「Do you like competition?」
 「好きなのだ！ かけっこも、泳ぐのも好きなのだ！ 血が滾るのだ！」=「I love it! I love playing hooky and swimming! My blood boils!」
-ちょっと分かるよ=I kind of get it.
+ちょっと分かるよ=You know, I get that.
 好戦的だね……=You're so belligerent...
 「その気持ちわかるよ。やっぱり競わないとね」=「I understand how you feel. We really do have to compete.」
 「け、血気盛んだね……」=「Y-You're so hot-blooded...」
@@ -1581,7 +1581,7 @@
 「そう呼びたい気分だったのだ！」=「That's what I wanted to call you!」
 「サボリたくなる気持ちは分かるけど、あんまりよくないのだ～……」=「I know you want to skip school, but it's not good...」
 「え～！ デート！？」=「Whaaat?! A date?!」
-「だ、ダメかな？」=「I-I guess I can't?」
+「だ、ダメかな？」=[I-I guess it's a no?]
 「全然ダメじゃないのだ！ 行くのだ！ 行くのだ！ 行くのだ～～～～！」=「It's not that I can't do it at all! Go! Go, go, go!」
 「誘っただけでそんなに喜んでくれてこっちも嬉しいよ」=「I'm happy that you're so happy just because I invited you.」
 「えへへ、超楽しみなのだ～！ わ～～い！ デート、デート！」=「Ehehe, I'm really looking forward to it! Yay! A date, a date!」
@@ -1652,7 +1652,7 @@
 「野菜って食べられる？」=「Can you eat vegetables?」
 「野菜好きなのだ～。ふふん、ピーマンも食べれるのだ」=「I like vegetables. Heheh, you can eat green peppers too.」
 「夏野菜カレーとか結構好きなのだ～。とっても美味しいのだ～」=「I like summer vegetable curry a lot. It's really good.」
-「パソコンって得意？」=「Are you good at computers?」
+「パソコンって得意？」=[Are you good at using computers?]
 「ワタシができると思うのだ？ 得意なワケないのだ」=「Do you think I can do it? I'm not good at it.」
 「薬って飲める？」=「Can you take medicine?」
 「苦手なのだ～……うえってなっちゃうのだ～」=「I'm not good at it... I'm just so excited.」
@@ -1997,7 +1997,7 @@
 「わ～！ ちょうどオマエに会いたいって思ってたのだ～」=「Wow! I was just thinking I wanted to see you.」
 「流行には詳しい方？」=「Are you familiar with fashion?」
 「流行はわかんないけど、よく近所で世間話はするのだ。お前はしないのだ？」=「I don't know what's going on, but I do make small talk in the neighborhood a lot. Aren't you going to do it?」
-してるよ=I'm doing it.
+してるよ=I did, I did.
 時々するよ=I do it sometimes.
 しないね=I won't.
 「耳を澄ませたりするよ」=「I'll listen closely.」
@@ -2005,14 +2005,14 @@
 「お話しするの楽しいのだ～。今度オマエも仲間にいれてやるのだ～」=「It's fun to talk to you. Next time, I'll let you join me.」
 「化粧品って詳しかったりする？」=「Do you know a lot about cosmetics?」
 「勿論なのだ～！ もしかしてオマエ、興味あるのだ？」=「Of course! Are you interested?」
-興味あるよ=I'm interested.
+興味あるよ=I do.
 あんまりないね=Not much, huh?
 「うん。ちょっと化粧水欲しくて」=「Yeah. I wanted some facial lotion.」
 「いや、ちょっと気になって聞いてみただけ」=「No, I was just curious.」
 「全然教えるのだ～。サンプルあるから今度オマエにあげるのだ！」=「Tell me everything. I have a sample, so I'll give it to you next time!」
 「おしゃれについて、こだわってることってある？」=「Have you ever been particular about fashion?」
 「当然あるのだ！ そんなこと聞いてくるオマエはどうなのだ？」=「Of course there is! What about you?」
-こだわってるよ=I'm obsessed with it.
+こだわってるよ=I do, a lot.
 そんなに気にしてないね=It doesn't bother me that much.
 「割とこだわってるよ。全体のバランスとかさ」=「I'm pretty particular about it. Like the overall balance.」
 「あんまりないかな。変じゃなければそれでいいし」=「I don't think so. As long as it's not weird, that's fine.」
@@ -2169,12 +2169,12 @@
 「それ、いいアイデアなのだ♪」=「That's a good idea♪」
 「みんなで楽しんだ方が絶対いいのだ」=「It's definitely better to have fun with everyone.」
 「なんだ？ もっと近くで見たくなったのだ？」=「What? Did you want to see it up close?」
-「……見てたらエッチしたくなって……いいかな？」=「...Watching you makes me want to have sex... Is that okay?」
+「……見てたらエッチしたくなって……いいかな？」=[....I kinda wanna have sex after all that... could we?]
 「オマエ、なかなかエッチなやつだな～」=「You're pretty dirty, aren't you?」
 「いいのだ。一緒に気持ちよくなるのだ！」=「It's fine. Let's feel good together!」
 「んん？ そこで何をしてるのだ？」=「Hmm? What are you doing there?」
-「ごめん……悪いとは思ったんだけど、つい見惚れちゃって……」=「Sorry... I felt bad, but I couldn't help but be captivated...」
-「その、さ……見てたらエッチしたくなっちゃったんだけど、これからどうかな？」=「Umm, well... Just looking at you made me want to have sex. What do you think about now?」
+「ごめん……悪いとは思ったんだけど、つい見惚れちゃって……」=[Sorry... I did feel pretty bad but, I couldn't look away....]
+「その、さ……見てたらエッチしたくなっちゃったんだけど、これからどうかな？」=[Say, uhm... I kinda can't contain myself after seeing that, how about we have sex?]
 「ワタシと、オマエが？ 今からか？」=「Me and you? Right now?」
 「んん～、まあしてもいいけど……どうせするなら気持ちよくしてほしいのだ」=「Mmm, well, I don't mind... but if you're going to do it anyway, I want you to feel good.」
 「よかったら、ワタシも混ぜてもらえないか……？ いい子にするから……」=「Would you like me to join you...? I'll be a good girl...」
@@ -2184,10 +2184,10 @@
 「ここでするのだ？ オマエ、声我慢できるのだ？」=「Are you going to do it here? Can you hold back your voice?」
 「オマエさえよければ、ワタシはいいぞ」=「As long as you're okay with it, I'm fine with it.」
 「あれ？ この男の人は誰なのだ？」=「Huh? Who is this man?」
-「いつもと違うエッチがしたいなと思って、俺が声をかけたんだ。ダメかな？」=「I wanted to have sex with you differently than usual, so I called out to you. Is that okay?」
+「いつもと違うエッチがしたいなと思って、俺が声をかけたんだ。ダメかな？」=[Someone I called. I want to try something different today. Could we?]
 「全然いいのだ♪」=「It's totally fine♪」
 「変わったえっちができそうでちょっと興味があるのだ」=「I'm a little interested because it looks like I'll be able to have strange sex.」
-「ありがとう。満足してもらえるように頑張るね」=「Thank you. I'll do my best to satisfy you.」
+「ありがとう。満足してもらえるように頑張るね」=[Thanks. I'll do my best so that you enjoy it too.]
 「なるほど……まあ、今回は許してやるのだ」=「I see... Well, I'll forgive you this time.」
 「その代わり、たっぷりサービスしてもらうのだ」=「In exchange, you'll get plenty of freebies.」
 「こんなとこでしちゃうのだ？ 相当変態なのだ♪」=「Are you going to do it in a place like this? You're quite a pervert♪」

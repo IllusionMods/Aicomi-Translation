@@ -336,7 +336,7 @@
 「だろ？ 良かったら一口やろうか？」=「Right? Would you like a bite?」
 「先に食べちゃっていいの？ ならもらっちゃおうかな」=「Can I eat it first? Then I guess I'll take it.」
 「ほら口開けとけよ……」=「Come on, open your mouth...」
-「ん……」=「Mm...」
+「ん……」=[Nn....]
 「どうだ？ 美味いか？」=「How is it? Is it good?」
 「うん、しっかり甘いんだけど、いちごの酸味もちゃんと感じられて、すごい爽やかな美味しさだね」=「Yeah, it's really sweet, but I can still taste the sourness of the strawberries. It's so refreshing.」
 「へぇ、中々悪くない食レポじゃん。よっしゃ、んじゃ頂くか……ん、おぉ？！ 本当に美味ぇな」=「Wow, that's not a bad food repo. Alright, let's eat... Mm, ohh?! It really is delicious.」
@@ -372,7 +372,7 @@
 「スイカか、いいじゃねぇか！ どこで割るんだ？」=「A watermelon, huh? Sounds good! Where are we going to break it?」
 「いや、流石に丸々一個は買わないけど……そんなに食べきれないし、スイカ割りもしないから」=「No, I won't buy a whole one, but... I can't eat that much, and I don't break watermelons.」
 「なんだよ……せっかくカブトとかクワガタ狙えるチャンスなのに」=「What the hell...? This is my chance to go for a turnip or stag beetle.」
-「そうなの？」=「Really?」
+「そうなの？」=[You think?]
 「スイカ割った後、飛び散った汁そのままにしとくと、次の日の朝、すっげぇ虫が集ってるんだぜ？」=「If you leave the juices scattered after you break the watermelon, you'll get a lot of bugs the next morning, you know?」
 「それは、結構興味があるけど……今回はやめとくよ」=「I'm pretty interested in that, but... I'll pass this time.」
 「おう、そん時は誘ってくれよな」=「Yeah, if that happens, invite me.」
@@ -457,7 +457,7 @@
 「はぁ……唐突過ぎるだろ？！」=「Hah... That's way too sudden!」
 「唐突なのは分かってるし、正直感謝の意味とか後付けで……でもキスは……何か伝えられたら有難いと思ってる」=「I know it's sudden, and to be honest, I'm just saying thank you... But kissing... I think I'd be grateful if I could tell you something.」
 「まぁ、受け入れるアタシもアタシだけどな………いいぜ、伝えてきな！」=「Well, I'm the one who'll accept it, though... Fine, go tell her!」
-「ちゅ……」=「Chu...」
+「ちゅ……」=[*Kiss*....]
 「……何か伝わったかな？」=「...Did something get through to you?」
 「……どうだろな……もし機会があったら、今度はアタシからのキスで教えてやるよ」=「...I don't know... If I get the chance, I'll teach you with a kiss next time.」
 「ここは金魚すくいだな……一応結構いい金魚らしいぜ、アタシはよく分かんねぇけど」=「This is a goldfish scooping spot... I hear it's a pretty good goldfish. I don't really get it, though.」
@@ -763,7 +763,7 @@
 「え、あぁ……じゃあ、今から冗談って事に……あぁ～、違う！ マジだから、本気だから、ちゃんと好きだから！ だから、その……」=「Eh, ahh... Then let's just say it's a joke... Ahh~, no! I'm serious, I mean it, I love you! So, um...」
 「うん、わかった……君が本気なら、俺も本気で応えるよ……俺も君が好きだ、ぜひ付き合って欲しい」=「Okay, I understand... If you're serious, I'll respond in earnest... I love you too. I want you to go out with me.」
 「えっと……それ、本気なんだよな？ お前の気持ち、アタシすげぇ嬉しいぜ！」=「Umm... You're serious about that, aren't you? I'm really happy about your feelings!」
-「うん……」=「Yeah...」
+「うん……」=[Yeah...]
 「………で、結局どっちがＯＫ出す流れになってんだ、これ……一応アタシから告白してた気がすんだけど？」=「......So, in the end, which one of us ended up saying okay...? I think I was the one who confessed.」
 「あ、そうか！ ごめん、一瞬君の返事待ちしてたよ……もちろん、俺の返事はＯＫだから」=「Ah, I see! Sorry, I was waiting for your reply for a moment... Of course, my reply is okay.」
 「だったらもちろん、アタシもＯＫだから！ ……つうか、普通告った側が返事待ちするだろ？ 何でアタシが返事する事になってんだよ」=「Then of course, I'm okay with it too! ...Anyway, wouldn't the one who confessed normally be waiting for a reply? Why am I the one to reply?」
@@ -1379,7 +1379,7 @@
 「自動車の運転って興味ある？」=「Are you interested in driving a car?」
 「そりゃあるぜ。大体この辺は自動車がないと不便だしな。アタシも免許は取るつもりだ」=「Yeah, that's true. Besides, it'd be inconvenient without cars around here. I'm planning on getting my license too.」
 「あー……もっと他の話題はないのか？」=「Ah... Isn't there anything else you want to talk about?」
-「ねぇ、[Hあだ名]」=「Hey, [Hあだ名].」
+「ねぇ、[Hあだ名]」=[Hey, [Hあだ名]]
 「あ、えっと……[Pあだ名]……でいいんだよな」=「Ah, um... [Pあだ名]... is fine, right?」
 「なぁ……恋人同士って、駄菓子屋来ていいのか？」=「Hey... Is it okay for a couple to come to a candy store?」
 「え、ダメだったかな？」=「Huh? Was that a bad idea?」
@@ -1409,7 +1409,7 @@
 「全然問題ないぜ！ 逆に誘ってくれた礼を言いたいくらいだからな」=「It's not a problem at all! On the contrary, I want to thank you for inviting me.」
 「ふぅん」=「Hmm.」
 「あ～……」=「Ah~...」
-「はぁ……」=「Haa...」
+「はぁ……」=[Haah.....]
 「なぁ、[Pあだ名]……お前、エッチしたくねえか……アタシは結構したいんだけど、どうだ？」=「Hey, [Pあだ名]... Don't you want to have sex...? I want to do it a lot. What do you think?」
 「メシなら全然OKだぜ。今なら何でも食べれそうだからな」=「Food's totally okay. I think I can eat anything right now.」
 「今は胃がエネルギーを求めてない感じなんだよなぁ……また今度にしてくれ」=「My stomach doesn't feel like it wants energy right now... Maybe next time.」
@@ -1734,7 +1734,7 @@
 「夏って、やっぱり暑い方がいいと思う？」=「Do you think summer is better when it's hot?」
 「当たり前だろ、お日様カンカンの方が、元気が出てくるぜ」=「Isn't it obvious? The sun's setting, so it'll cheer you up more.」
 「悪くねぇけど、暑い日に運動すると怒られるんだよなぁ」=「It's not bad, but they get mad if you exercise on a hot day.」
-「好きな動物っている？」=「Do you have a favorite animal?」
+「好きな動物っている？」=[Got a favourite animal?]
 「もちろんいるぜ、って言うか動物だったら犬でも猫でもなんでも好きだぜ」=「Of course I do. Actually, if it's an animal, I like dogs, cats, anything.」
 「いるにはいるけど……好きなのが多すぎてこれっていうのが選べないんだよな」=「There are, but... there are so many things I like that I can't choose this.」
 「いつもどんな音楽聞いてるの？」=「What kind of music do you always listen to?」
@@ -1892,7 +1892,7 @@
 「わかってるっつうの！ お前、アタシに失礼すぎだろ……」=「I know! You're being too rude to me...」
 「あぁ、しまった……そうだね、えっと、出直そうか？」=「Ah, crap... Let's see, umm, shall we come back later?」
 「出直さなくていい！ あと、返事も……OKだから……」=「You don't have to come back again! Also, your reply... is okay, so...」
-「ん？」=「Hm?」
+「ん？」=[Mm?]
 「ん？ じゃねぇよ、告白の返事だよ！ 付き合って……こ、恋人になってやるっつってんの！」=「Don't say 'hm?', it's a reply to my confession! I'm going out with you... I-I'm saying we're going to be lovers!」
 「ほんと？！ ありがとう！ 良かったぁ……変な告白になっちゃったから、ダメかなって思ってたんだ」=「Really?! Thank you! I'm so glad... It turned into a weird confession, so I thought it wouldn't work.」
 「まったくだぜ……あんなの、アタシじゃなきゃOKしねぇからな？ だから、まぁ……これからもよろしくな」=「Seriously... I wouldn't be okay with that unless it was me, you know? So, well... I'll be counting on you from now on.」
@@ -2134,8 +2134,8 @@
 「お前からやらしい気配を感じる……今はダメだ」=「I sense a lewd aura coming from you... Not now.」
 「お前がいいなら……アタシは構わねぇぜ」=「If you're okay with it... I don't mind.」
 「うわ……お前、これ……見てた、のか？」=「Whoa... Did you... see this?」
-「ごめん……悪いとは思ったんだけど、つい見惚れちゃって……」=「Sorry... I felt bad, but I couldn't help but be captivated...」
-「その、さ……見てたらエッチしたくなっちゃったんだけど、これからどうかな？」=「Umm, well... Just looking at you made me want to have sex. What do you think about now?」
+「ごめん……悪いとは思ったんだけど、つい見惚れちゃって……」=[Sorry... I did feel pretty bad but, I couldn't look away....]
+「その、さ……見てたらエッチしたくなっちゃったんだけど、これからどうかな？」=[Say, uhm... I kinda can't contain myself after seeing that, how about we have sex?]
 「だよなぁ……お前だったらそうなるって思ってたぜ」=「Yeah... I knew you'd do that.」
 「もちろんOKだぜ！ あれでなんも無きゃ、逆にこっちから誘ってるつうの」=「Of course I'm okay with it! If it's nothing, I'll be the one inviting you instead.」
 「まぁ、お前ならそう来るよな……アタシはまぁ、別にいいけどよ」=「Well, that's what you'd think... Well, I don't really mind.」
@@ -2159,12 +2159,12 @@
 「プールでエッチってお前、すぐ汗とか流せて便利じゃねぇか」=「Dirty in the pool? Isn't it convenient that you can wash off your sweat and stuff right away?」
 「また、三人で絡みてぇのか？ いいぜ、遊んでやるよ」=「Do you want the three of us to get involved again? Fine, I'll play with you.」
 「おぅ……エロいお前をおびき出すのに成功したってか？」=「Oh... So you're saying I succeeded in luring you out, huh?」
-「……見てたらエッチしたくなって……いいかな？」=「...Watching you makes me want to have sex... Is that okay?」
+「……見てたらエッチしたくなって……いいかな？」=[....I kinda wanna have sex after all that... could we?]
 「なんだ、コイツはどこから来たんだ？」=「What? Where did this guy come from?」
-「いつもと違うエッチがしたいなと思って、俺が声をかけたんだ。ダメかな？」=「I wanted to have sex with you differently than usual, so I called out to you. Is that okay?」
+「いつもと違うエッチがしたいなと思って、俺が声をかけたんだ。ダメかな？」=[Someone I called. I want to try something different today. Could we?]
 「お前って、本当にエロい事ばっか考えてんだな……」=「You really only think about erotic things, don't you...」
 「まぁいいぜ、まとめて面倒見てやるよ」=「Well, whatever. I'll take care of you all at once.」
-「ありがとう。満足してもらえるように頑張るね」=「Thank you. I'll do my best to satisfy you.」
+「ありがとう。満足してもらえるように頑張るね」=[Thanks. I'll do my best so that you enjoy it too.]
 「何考えてんだよ、お前……？ 一応アタシって彼女だよな？」=「What the hell are you thinking...? I'm your girlfriend, aren't I?」
 「まぁ……お前がどうしてもって言うなら、付き合ってやるけどよ……」=「Well... if you insist, I'll go with you...」
 「また３Pしたいってのかよ……？ お前、だいぶ変態なんだな……」=「You wanna have another threesome...? You're pretty perverted...」

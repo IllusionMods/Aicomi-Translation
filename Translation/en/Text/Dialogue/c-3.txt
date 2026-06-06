@@ -180,7 +180,7 @@
 「さあ、締めの花火がいよいよあがるわよ。楽しみね」=「Now, the closing fireworks are about to start. I'm looking forward to it.」
 「はい！ おっ、早速あがりましたね」=「Okay! Oh, you left right away.」
 「ええ、いつ見ても綺麗ね……」=「Yes, it's always beautiful...」
-「はい……」=「Yes...」
+「はい……」=[Okay....]
 「ふふ、どうしたの？ いきなり口数が少なくなって……花火に見惚れているのかしら？」=「Hehe, what's wrong? Why are you suddenly talking so little? Are you captivated by the fireworks?」
 「いや、それもあるんですけど……花火の時って何を話していいか、迷ってしまって」=「Well, that's part of it, but... I don't know what to say during fireworks.」
 「あぁ、たしかにそれはあるわね。綺麗綺麗とずっと言うだけというのも微妙な気がして……」=「Yeah, that's true. I don't think it's right to just call it beautiful all the time...」
@@ -249,7 +249,7 @@
 「じゃあ……俺とエッチまで……」=「Then... we'll have sex too...」
 「いいわよ、私が言わせたようなものだしね……お互いの愛を確かめ合いましょう」=「It's fine. It's like I made you say it... Let's confirm our love for each other.」
 「あなた、随分楽しそうに話していたわね？ 図書館ではうるさくしないようにと……この前注意したはずだけれど」=「You seemed to be having a lot of fun talking, didn't you? I told you not to make a fuss at the library... I thought I warned you the other day.」
-「す、すみません……」=「I-I'm sorry...」
+「す、すみません……」=[I-I'm sorry....]
 「今回は許すけれど、あまり何度も同じことを注意されるようなら出禁にするわよ」=「I'll forgive you this time, but if you do the same thing over and over again, I'll ban you.」
 「わ、分かってます。反省してます……」=「I-I know. I'm sorry...」
 「そんなに縮こまらくてもいいわ。普通に利用してくれたらいいだけだから……」=「You don't have to shrink like that. It's fine if you just use it normally...」

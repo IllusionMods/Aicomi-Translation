@@ -497,7 +497,7 @@
 「どうかなさいましたか？ 勉強で訪れたわけではなさそうですが……」=「Is something the matter? It doesn't seem like you came here to study...」
 「ちょっと思い立って本を探しに来たんだけど見つからなくてさ。このタイトルなんだけど……」=「I thought of something and came looking for a book, but I couldn't find it. About this title...」
 「あ……それでしたらこちらにございますよ。ふふ、貴方がその本に興味を持ってくださって嬉しいです」=「Ah... In that case, it's over here. Hehe, I'm glad you're interested in that book.」
-「ん？ どういうこと？」=「Hm? What do you mean?」
+「ん？ どういうこと？」=[Mm? What do you mean?]
 「私の大好きな本だからです。もし、貴方さえよければ、感想を聞かせていただけませんか？」=「It's because it's my favorite book. If you don't mind, could you tell me what you think?」
 「なるほどね。もちろんいいよ、感想を言い合うのって楽しいし」=「I see. Of course it's fine. It's fun to talk to each other about my impressions.」
 「ありがとうございます。ふふ、今からとても楽しみです」=「Thank you very much. Hehe, I'm looking forward to it.」
@@ -582,7 +582,7 @@
 「よし、行くよ……それっ。出たのは……裏かな」=「Okay, let's go... That's it. What came out was... the back.」
 「ありがとうございます、これで心置きなくコーヒー牛乳にできます」=「Thank you very much. Now I can turn it into coffee milk without worrying about it.」
 「あの……よければ、ブランコに乗っていきませんか？」=「Umm... Would you like to ride the swing?」
-「うん、いいよ」=「Yeah, it's fine.」
+「うん、いいよ」=[Sure, let's go.]
 「このブランコ、全然変わりがなくて……まるでここだけ時が止まっているかのようです」=「This swing hasn't changed at all... It's as if time itself has stopped here.」
 「へぇ、思い出深い場所なのかな。よく乗ってたの？」=「Huh, I wonder if it's a memorable place. Did you ride it often?」
 「はい……幼い頃は今のようにゆっくり揺らしながら、飽きることなくいつまでも乗っていました」=「Yes... When I was young, I used to ride it as slowly as I do now, never getting tired of it.」
@@ -746,7 +746,7 @@
 「そう思って頂けたなら嬉しいです。私達にとっては、とても大切なお祭りですから」=「I'm glad you think so. It's a very important festival for us.」
 「うん、ちゃんと伝わってきたよ。今度もまた足を運んでみる」=「Yeah, I can tell. I'll visit again next time.」
 「はい、是非。いっぱい満喫してください」=「Yes, by all means. Please enjoy yourself as much as you can.」
-「花火、終わっちゃったね」=「The fireworks are over.」
+「花火、終わっちゃったね」=[The fireworks are all over, huh?]
 「はい、満足はしましたけど……まだ興奮が収まりませんね」=「Yes, I'm satisfied, but... I still can't calm my excitement.」
 「だね……俺も気持ちが昂ってるよ」=「Yeah... I'm getting excited too.」
 「あの……この後は、どうしましょうか？」=「Umm... What should we do after this?」
@@ -848,7 +848,7 @@
 「おはようございます。本日はよろしくお願い致しますね」=「Good morning. I look forward to working with you today.」
 「こちらこそよろしくね。待ち合わせも丁度良かったみたいだね」=「Nice to meet you too. Looks like our meeting was just right.」
 「はい、着いてすぐに貴方のことを見つけましたので。ですが、少しだけ緊張しています」=「Yes, I found you as soon as I arrived. However, I am a little nervous.」
-「そうなの？」=「Really?」
+「そうなの？」=[You think?]
 「やはり初めてのデートなので……何をどうしたら良いのかわからなくて、恐縮するばかりです……」=「This is our first date after all... I don't know what to do, so I'm just apologizing...」
 「まずは何も考えずに、楽しむことから始めたらどうかな？ デートだと思うから緊張するんだよ」=「Why don't you start by having fun without thinking about it? I think it's a date, so I'm nervous.」
 「それが難しいのです……どうすれば良いのでしょう？」=「That would be difficult... What should I do?」
@@ -1023,7 +1023,7 @@
 「あの、今度のお休みにはお祭りがあるのはご存知ですよね？」=「Um, you know there's going to be a festival on your next day off, right?」
 「そういえばそうだね。うーん、どうしようかな……」=「Come to think of it, you're right. Hmm, what should I do...」
 「……もしかして誰とも行く約束はされていないということでしょうか」=「...Could it be that you haven't agreed to go with anyone?」
-「うん、そうだね」=「Yeah, you're right.」
+「うん、そうだね」=[Yeah, I know.]
 「では、もし宜しければ私と一緒に回りませんか？」=「Then, if you don't mind, would you like to go around with me?」
 「それは願ったり叶ったりだよ。お願いしてもいいかな？」=「That's a wish and a wish. Can I ask you to do it?」
 「はい、もちろんです。お祭り、楽しみにしていますね」=「Yes, of course. I'll be looking forward to the festival.」
@@ -1817,7 +1817,7 @@
 「もう良いのですか？ そうですか」=「Is that enough? I see.」
 「あら、もう行かれるのですか……？」=「Oh, you're leaving already...?」
 「そうですか……」=「I see...」
-「はぁ」=「Hah.」
+「はぁ」=[Haah.]
 「やる気に満ちたご様子ですが、何か大きな課題があるのですか？」=「You seem motivated. Do you have any big assignments?」
 「いや、そういうわけじゃないよ。ただ、君と勉強できるのが嬉しくて張り切ってるんだ」=「No, that's not it. I'm just excited to be able to study with you.」
 「そそれは……私も同じ気持ちです……で、では、早速始めましょうかっ」=「W-Well... I feel the same way... W-Well then, let's get started!」
@@ -1869,7 +1869,7 @@
 「ええ、もちろんお付き合いいたします」=「Yes, of course I will accompany you.」
 「すみません、またの機会に……」=「I'm sorry, we'll have to do this another time...」
 「ひゃっ……も、もうっ。驚かせないでくださいませ」=「Hyah... G-Geez. Please don't scare me like that.」
-「あのね、[Hあだ名]」=「You know, [Hあだ名].」
+「あのね、[Hあだ名]」=[Hey, [Hあだ名].]
 「は、はい……[Pあだ名]……こう、ですか？」=「Y-Yes... [Pあだ名]... Like this?」
 「学園は好き？」=「Do you like school?」
 「はい。大勢の方とお話できるので、とても楽しいですね」=「Yes. Being able to talk to so many people is a lot of fun.」
@@ -2046,15 +2046,15 @@
 「お手洗いで、ですか？ 何だかマニアックです……」=「In the bathroom? That's kind of maniacal...」
 「な、なんてはしたない所を見られてしまって……」=「I-I was seen in such a shameful place...」
 「まぁ……覗いてらっしゃったの……ですか？」=「Well... were you... peeking?」
-「ごめん……悪いとは思ったんだけど、つい見惚れちゃって……」=「Sorry... I felt bad, but I couldn't help but be captivated...」
-「その、さ……見てたらエッチしたくなっちゃったんだけど、これからどうかな？」=「Umm, well... Just looking at you made me want to have sex. What do you think about now?」
+「ごめん……悪いとは思ったんだけど、つい見惚れちゃって……」=[Sorry... I did feel pretty bad but, I couldn't look away....]
+「その、さ……見てたらエッチしたくなっちゃったんだけど、これからどうかな？」=[Say, uhm... I kinda can't contain myself after seeing that, how about we have sex?]
 「そのように申されると……思っておりました」=「I thought... you would say that.」
 「はい……私も、オナニーでは足りないと思っておりましたので……」=「Yes... I also thought masturbating wasn't enough...」
 「あの、この方は誰でしょうか？ お、男の方ですよね……？」=「Um, who is this person? A-A man, right...?」
-「いつもと違うエッチがしたいなと思って、俺が声をかけたんだ。ダメかな？」=「I wanted to have sex with you differently than usual, so I called out to you. Is that okay?」
+「いつもと違うエッチがしたいなと思って、俺が声をかけたんだ。ダメかな？」=[Someone I called. I want to try something different today. Could we?]
 「か、彼氏である貴方意外とはエッチをするなんて、私には考えられないのですが……」=「A-As your boyfriend, I can't imagine having sex with you unexpectedly...」
 「愛する貴方の望みを……叶えないわけには、いきません……」=「There's no way... I won't grant the wish of the person I love...」
-「ありがとう。満足してもらえるように頑張るね」=「Thank you. I'll do my best to satisfy you.」
+「ありがとう。満足してもらえるように頑張るね」=[Thanks. I'll do my best so that you enjoy it too.]
 「また淫らな事をしようとしているのですね……仕方がありませんね」=「You're trying to do something lewd again, aren't you...? I guess I have no choice.」
 「教室でエッチなんて、と思うのですが……興奮もしています」=「I don't think we're having sex in the classroom, but... I'm also excited.」
 「ここで、ですか？ 見つかってしまいそうですが、大丈夫なのでしょうか？」=「Here? It looks like they're going to find us. Will they be okay?」
@@ -2068,7 +2068,7 @@
 「まさか、この方とも？ それは、破廉恥過ぎます……」=「No way, with this person? That would be too shameless...」
 「……ですが、どこか期待している自分がいるのも事実です。……貴方の望みに、従います……」=「...However, it is also true that there is a part of me that has high hopes for you. ...I will obey your wishes...」
 「ああ、貴方が傍に来ると、余計に火照ってしまいます……」=「Ahh, when you're by my side, I get even hotter...」
-「……見てたらエッチしたくなって……いいかな？」=「...Watching you makes me want to have sex... Is that okay?」
+「……見てたらエッチしたくなって……いいかな？」=[....I kinda wanna have sex after all that... could we?]
 「プールの中で致すのですか？ 貴方はよく思いつきますね」=「You're going to do it in the pool? I'm surprised you can think of something like that.」
 「貴方はとうにそのつもりなのですよね？ 本当に破廉恥なお方です」=「You've been planning to do that for a long time, haven't you? You really are a shameless person.」
 「薄々、貴方がそうおっしゃるのではないかと思っていました……」=「I thought you might say that...」

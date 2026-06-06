@@ -600,7 +600,7 @@
 「うん、大丈夫。甘く見てたけど、楽しいもんだね」=「Yeah, I'm fine. I underestimated you, but it's fun.」
 「でしょ～？ 村の少ない娯楽だから、あーし割と遊びにくるんだよね～」=「Isn't it~? It's a rare pastime in the village, so I come here to play~」
 「ふぅー楽しかった～。また一緒に遊びたいねー？」=「Phew, that was fun. I wanna play with you again, okay?」
-「あれ、ここで何してるの？」=「Huh? What are you doing here?」
+「あれ、ここで何してるの？」=[Huh, what're you up to here?]
 「あーし？ それはね、地域の清掃活動ってやつよ。綺麗にしてんの」=「Ahhh? That's just cleaning up the area. I'm cleaning it up.」
 「じゃあ、いまは掃除中なんだ」=「Then I'm in the middle of cleaning.」
 「うん。定期的に参加してんの。最初は親に言われてだったんだけどね～」=「Yeah. I participate regularly. My parents told me to at first, though~」
@@ -880,7 +880,7 @@
 「まあ、メモしてくれるのはありがたいけど、少しは混ざってくれた方がいいかな。グループ学習なんだから」=「Well, I'm glad you're taking notes, but I think it'd be better if you joined in a little. It's group learning.」
 「そこまでゆーならしょうがないな～」=「If that's how it is, then I guess it can't be helped.」
 「あ、おはよう。先に起きたからシャワー使わせて貰ったよ」=「Oh, good morning. I woke up early, so I used the shower.」
-「……おはよう」=「...Good morning.」
+「……おはよう」=[.....Morning.]
 「どしたん、まじまじと顔見つめちゃって」=「What's wrong? You're staring at my face.」
 「君が朝から家に居るのが不思議だなと思って」=「I thought it was strange for you to be at home so early in the morning.」
 「そーお？ それで？ 濡れ髪の彼女を見てムラムラきちゃった？」=「Really? And? Did you get horny when you saw your girlfriend with wet hair?」
@@ -974,7 +974,7 @@
 「案内を頼んで遅れるのは失礼だからね」=「It'd be rude to ask you to show me the way and be late.」
 「ふふ、そうだね。んじゃショッピングモール行こうか」=「Hehe, you're right. Then let's go to the shopping mall.」
 「うぅぅん……。ダメだ、わっかんないや……」=「Hmm... I can't, I don't know...」
-「どうしたの？」=「What's wrong?」
+「どうしたの？」=[Go for it.]
 「いま先生が説明したところが分からなくてさ……」=「I don't know what Sensei just explained...」
 「そっか。じゃ、先生が黒板を書いてる間に……俺のノートをどうぞ」=「I see. Well then, while you're writing the blackboard... Here's my notebook.」
 「ちょっと読ませて貰うね、ありがと」=「I'll read it for a bit. Thanks.」
@@ -985,9 +985,9 @@
 「いっぱい……愛してくれると嬉しいな」=「I hope... you love me a lot.」
 「もちろん」=「Of course.」
 「あ」=「Ah.」
-「ん？」=「Hm?」
+「ん？」=[Mm?]
 「サボり？」=「Skipping?」
-「うん」=「Yeah.」
+「うん」=[Yeah.]
 「実はあーしも……お互い、見つからないといいね！」=「Actually, me too... I hope we don't find each other!」
 「テーーマパーーク♪ 来ちゃったよテーマパーク！」=「Thema Park♪ The theme park's here!」
 「そんなに来たかったの？」=「Did you want to come that badly?」
@@ -1063,7 +1063,7 @@
 「あれ、あんた。どうしてここに居んの？」=「Huh? Why are you here?」
 「そういう君こそ、どうして。授業中なのに」=「So why are you here? We're in the middle of class.」
 「サボったからに決まってんじゃん。あんただって、でしょ？」=「Because I slacked off, obviously. You're the same, aren't you?」
-「まあ、そうだね」=「Yeah, you're right.」
+「まあ、そうだね」=[Well, I guess that's how that works out, yeah?]
 「んふふ、サボっちゃうなんて不良じゃーん」=「nfufu, you're such a delinquent, skipping school.」
 「その台詞、そっくりそのまま返すよ」=「I'll say exactly what you said.」
 「まあ、お互い見つかって怒られないようにしとこっか」=「Well, let's make sure we don't get yelled at for finding each other.」
@@ -2015,10 +2015,10 @@
 「こんな外でしたがるなんて……エッチだねぇ、あんたってば」=「To think you're doing it outside like this... You're so dirty.」
 「トイレでしたいの？ あんたってば、色んな所でエッチしたがるじゃん……」=「Do you want to do it in the bathroom? You want to have sex in all sorts of places...」
 「……ん？ この人は誰……？」=「...Hm? Who is this person...?」
-「いつもと違うエッチがしたいなと思って、俺が声をかけたんだ。ダメかな？」=「I wanted to have sex with you differently than usual, so I called out to you. Is that okay?」
+「いつもと違うエッチがしたいなと思って、俺が声をかけたんだ。ダメかな？」=[Someone I called. I want to try something different today. Could we?]
 「あーし一人に、あんたたち二人？ それってすごくエッチ……」=「Just me, and you two? That's really dirty...」
 「やば、正直楽しそう……いいよ？ みんなでしよっか……♪」=「Crap, honestly, you look like you're having fun... Okay? Let's all do it together...♪」
-「ありがとう。満足してもらえるように頑張るね」=「Thank you. I'll do my best to satisfy you.」
+「ありがとう。満足してもらえるように頑張るね」=[Thanks. I'll do my best so that you enjoy it too.]
 「もしかして、またぁ？ ほんと、しょうがないなぁ……」=「Could it be that again? You really are hopeless...」
 「さ、三人で？ ゴクッ……恥ずかしい、ケド。でもどんなコトになるのか……試してみたい、カモ」=「Th-The three of us? *gulp*... It's embarrassing, but... I want to see what it'll be like.」
 「え、ほ……本気なの？ じゃ、じゃあ……しちゃおっか？ 三人でエッチ……」=「Eh, ho... Are you serious? Th-Then... shall we do it? The three of us are having sex...」
@@ -2034,7 +2034,7 @@
 「えへへ、混ぜてくれてありがとう。とーっても気持ちいいコト……しちゃおうね？」=「Ehehe, thanks for letting me join you. Let's do something... that feels really good, okay?」
 「あのさ。二人がしてるの見たら……あーしもしたくなっちゃって。混ぜて……貰えないかな？」=「You know, when I saw you two doing it... I wanted to do it too. Could you... let me join you?」
 「あーしのオナニー……じっくり見たくなったの？」=「Did you want to take a closer look at my masturbation?」
-「……見てたらエッチしたくなって……いいかな？」=「...Watching you makes me want to have sex... Is that okay?」
+「……見てたらエッチしたくなって……いいかな？」=[....I kinda wanna have sex after all that... could we?]
 「もう……そんなにがっつかないでよ。あーしだって、我慢できなくなっちゃってるんだからさ……」=「Geez... Don't be so greedy. I can't take it anymore...」
 「ちょうどエッチな妄想しながらオナニーしてたの。それを現実にしてくれるんだよね？ いいよ……」=「I was just masturbating while having perverted fantasies. You're going to make that a reality, right? Okay...」
 「いいケド……絶対声、出しちゃダメだかんね？」=「It's fine, but... you absolutely mustn't let your voice out, okay?」
@@ -2043,8 +2043,8 @@
 「あの子達まで混ざったら……すっごい楽しいカモ！」=「If those girls join in... it'll be really fun!」
 「ありがと……混ぜてくれると思ってなかったから、すっごい嬉しい……♪」=「Thanks... I didn't think you'd join us, so I'm really happy...♪」
 「ちょ……い、いつから覗いてたの？ ビックリしちゃった……」=「Hey... H-How long have you been peeking? You startled me...」
-「ごめん……悪いとは思ったんだけど、つい見惚れちゃって……」=「Sorry... I felt bad, but I couldn't help but be captivated...」
-「その、さ……見てたらエッチしたくなっちゃったんだけど、これからどうかな？」=「Umm, well... Just looking at you made me want to have sex. What do you think about now?」
+「ごめん……悪いとは思ったんだけど、つい見惚れちゃって……」=[Sorry... I did feel pretty bad but, I couldn't look away....]
+「その、さ……見てたらエッチしたくなっちゃったんだけど、これからどうかな？」=[Say, uhm... I kinda can't contain myself after seeing that, how about we have sex?]
 「あぅぅ、もしかしてあーしのを見て興奮した、とか？」=「Auu, did you get excited when you saw me?」
 「そんな目で見られたらさ、あーしだって我慢できなくなっちゃうじゃん……いいよ？ 来て……」=「If you look at me like that, I won't be able to hold back either... Okay? Come...」
 「お風呂でしちゃうわけ？ まあ、汗かいたりしても、すぐ流せそうだしいいね」=「You're going to do it in the bath? Well, even if you're sweating, it looks like you can wash it right away, so it's fine.」

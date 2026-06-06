@@ -354,7 +354,7 @@
 「やぁっ、それもだめー！ 怖がらせて喜ぶような悪い子には、ぴとってくっついちゃうよ！」=「Nooo, don't do that either! I'll stick close to any bad girl who scares you and makes you happy!」
 「花火、綺麗だったね～♪ すごいーとか、きれーとしか言えなくなっちゃうくらい」=「The fireworks were so beautiful♪ I can't say anything but 'Amazing' or 'Finished'.」
 「すっごく楽しい時間になったけど……この後はどうするの？」=「It was a really fun time... What are you going to do after this?」
-「そうだね……」=「You're right...」
+「そうだね……」=[Yeah....]
 「おっ、なんかしっとりしてるね……銭湯上がり？」=「Oh, you're kinda damp... Did you get out of the bathhouse?」
 「うん、ちょっとのぼせちゃって涼んでたところ」=「Yeah, I was just a little dizzy and cool.」
 「銭湯ってつい長風呂しちゃうから、のぼせやすいよね」=「Bathhouses tend to take long baths, so it's easy to get sleepy.」
@@ -416,7 +416,7 @@
 「ありがとう……でも大丈夫、私は同じ絵本を持ってるから。すっごくいいお話だからね、他の子にも読んで欲しいなって」=「Thank you... But don't worry, I have the same picture book. It's a really good story, so I wanted the other girls to read it too.」
 「エッチに誘いたくなっちゃう。今からしない？」=「It makes me want to invite you to have sex. Why don't we do it now?」
 「……いいよ、私もちょっと期待しちゃってたし」=「...It's fine. I was hoping for something too.」
-「じゃあ……いいかな？」=「Then... can I?」
+「じゃあ……いいかな？」=[Well then... do you mind?]
 「もう焦り過ぎ……もう少し、人目の付かないところで……ね♪」=「You're getting too impatient... A little more out of sight...♪」
 「この前ね、友達から君に似てるって言われたことがあったんだ」=「A few days ago, a friend of mine told me I looked like you.」
 「えっ、俺に？ どの辺りが似てるって言われたの？」=「Huh? Me? What part of you is similar to me?」
@@ -474,7 +474,7 @@
 「最悪はぐれちゃったら、十分毎にまたここに集合ってことにしようか」=「Worst-case scenario, if we get separated, we'll meet up here every ten minutes.」
 「それ賛成！ でもはぐれないのが一番だから、もうちょっと近くに寄っていい？」=「I agree! But it's best not to get separated, so can I come a little closer?」
 「わたあめを食べる時は、お水に気を付けてね」=「Watch out for water when you eat cotton candy.」
-「……どうして？」=「...Why?」
+「……どうして？」=[......Why?]
 「昔ね、わたあめにジュースをこぼしちゃったことがあって……そしたらわたあめが一瞬で消えちゃったの」=「A long time ago, I spilled juice on cotton candy... and then cotton candy disappeared in an instant.」
 「あの時はほんとに悲しかったから、わたあめに水分は絶対近付けちゃだめだよ」=「I was really sad back then, so you mustn't get too close to me.」
 「ほら、金魚だよ！ 可愛いねぇ♪」=「Look, it's a goldfish! It's so cute♪」
@@ -869,7 +869,7 @@
 「あっ、おはよう。宿題はやってきた？」=「Ah, good morning. Did you finish your homework?」
 「一応ね。でもちょっと分かんないとこもあって、そこは放置しちゃった……」=「More or less. But there was something I didn't understand, so I left it there...」
 「え～っ、どこどこ？ 授業が始まっちゃう前に教えてあげる」=「Whaaat? Where? I'll tell you before class starts.」
-「ありがとう、助かるよ」=「Thanks. You're a lifesaver.」
+「ありがとう、助かるよ」=[Thanks, saves me the trouble.]
 「どういたしまして♪ 困った時はお互い様だよ」=「You're welcome♪ When you're in trouble, it's the same for both of us.」
 「おっ、やっと起きたんだね♪ シャワー使わせてもらっちゃったよ」=「Oh, you're finally awake♪ You let me use the shower.」
 「おはよう。しっとりした君も綺麗だね」=「Good morning. You're so pretty when you're all wet.」
@@ -1851,7 +1851,7 @@
 「なにか一緒に食べよっか♪」=「Let's eat something together♪」
 「別にそこまでかなぁ……食事のお誘いだったらパスさせてもらうね」=「I guess that's about it... If it's an invitation to eat, I'll pass.」
 「色々屋台が出てるから、目移りしちゃうね♪」=「There's a lot of food stalls here, so I'm going to have to change my mind♪」
-「俺と一緒にしたいことってある？」=「Is there anything you want to do with me?」
+「俺と一緒にしたいことってある？」=[Is there anything in particular you wanna do together?]
 「なんでもしたいよ♪ 絶対楽しいし、幸せな気持ちになれるって分かってるから」=「I want to do anything♪ I know it'll be fun and happy.」
 「うん、色々あり過ぎて言い切れないくらい。一つずつ実現していきたいなぁ……」=「Yeah, so much has happened that I can't say for sure. I want to make it happen one by one...」
 「この頃、ずっと君のことばっかり考えちゃうんだ」=「You're the only thing on my mind these days.」
@@ -2101,18 +2101,18 @@
 「い、悪戯なんてしないよ？ ただ気持ちよくしてあげるだけ」=「I-I'm not playing a prank on you. I'm just going to make you feel good.」
 「ふーん……気持ちよくって所が引っかかるけど……いいよ、とりあえずやってみて」=「Hmm... The part about how good it feels is bugging me, but... it's fine. Just give it a try.」
 「えっえっ、まさか覗いてたの？」=「Eh, eh, you were peeking?」
-「ごめん……悪いとは思ったんだけど、つい見惚れちゃって……」=「Sorry... I felt bad, but I couldn't help but be captivated...」
-「その、さ……見てたらエッチしたくなっちゃったんだけど、これからどうかな？」=「Umm, well... Just looking at you made me want to have sex. What do you think about now?」
+「ごめん……悪いとは思ったんだけど、つい見惚れちゃって……」=[Sorry... I did feel pretty bad but, I couldn't look away....]
+「その、さ……見てたらエッチしたくなっちゃったんだけど、これからどうかな？」=[Say, uhm... I kinda can't contain myself after seeing that, how about we have sex?]
 「まぁそうだよねぇ……見てたらそういう気持ちになっちゃうよねぇ」=「Yeah, you're right... I can't help but feel that way when I look at you.」
 「いいよ？ せっかくだし、一緒に気持ちよくなろ♪」=「It's okay, right? Since you're here, let's feel good together♪」
 「あのねぇ……よかったら私も混ぜて欲しいんだけど……嫌かな？」=「Hey... If you don't mind, I'd like to join you... Do you not like it?」
 「へっ、エッチ？ そっかぁ、君も覗きながらそういう気分に……」=「D-Dirty? I see, so that's how you feel while you're peeking...」
 「分かった、いいよ……一応その、私のせいってところもちょっとはあるし……」=「Okay, it's fine... It's kind of my fault...」
 「ねぇ……この男の人は誰？ なんかその、ちょっと雰囲気が……」=「Hey... Who's this guy? He's kinda, um, kinda...」
-「いつもと違うエッチがしたいなと思って、俺が声をかけたんだ。ダメかな？」=「I wanted to have sex with you differently than usual, so I called out to you. Is that okay?」
+「いつもと違うエッチがしたいなと思って、俺が声をかけたんだ。ダメかな？」=[Someone I called. I want to try something different today. Could we?]
 「わぁ……つまり私一人で二人を相手にってことだよね……なんか、凄いことになっちゃいそう……」=「Wow... In other words, I'm going to have to deal with both of them by myself... This is going to be amazing...」
 「でも、いいよ……もう二人ともおっきくなってるし……がっかりさせちゃうのは可哀想だから……」=「But it's okay... They're both already big... I feel bad for disappointing them...」
-「ありがとう。満足してもらえるように頑張るね」=「Thank you. I'll do my best to satisfy you.」
+「ありがとう。満足してもらえるように頑張るね」=[Thanks. I'll do my best so that you enjoy it too.]
 「私も、興味がないわけじゃないし……二人がいいなら……」=「It's not like I'm not interested... If you two are okay with it...」
 「えっとぉ、私は別に構わないよ……もう一人の子がいいって言えばだけどね」=「Umm, I don't really mind... If you say you want the other girl, that is.」
 「いいよいいよ♪ 一人より二人、二人より三人の方が楽しいかもだし」=「It's fine, it's okay♪ It might be more fun to have two than one, or three than two.」
@@ -2126,7 +2126,7 @@
 「見つかったら大変だからね……君は周りをちゃんと見てて……私はなるべく声を出さないようにするから」=「It'd be bad if they found us... You keep an eye on your surroundings... I'll try to keep my voice down as much as possible.」
 「ありがと～！ 二人の邪魔にはならないようにするから」=「Thank you~! I won't get in your way.」
 「あは、覗いてるの分かってたよ～。実は私も、見せつけて楽しんじゃってたんだぁ……」=「Aha, I knew you were peeking. Actually, I was having fun showing it off too...」
-「……見てたらエッチしたくなって……いいかな？」=「...Watching you makes me want to have sex... Is that okay?」
+「……見てたらエッチしたくなって……いいかな？」=[....I kinda wanna have sex after all that... could we?]
 「用を足すってエッチな意味じゃないと思うんだけど……なんかもう、変な気分になっちゃってる」=「I don't think I meant it in a dirty way, but... I'm already starting to feel weird.」
 「たぶん誘ってくれるのを待ってるね……あんまり焦らしても可哀想だし、私は別にいいよ……」=「She'll probably be waiting for you to invite her... I don't want to rush her too much, so I'm fine with it...」
 「でも一番大変になるのは君だと思うから……ほんとに声をかけるかはお任せしちゃう」=「But I think you're the one who's going to have the hardest time... so I'll leave it to you to decide if you really want to talk to me.」

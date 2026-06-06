@@ -371,7 +371,7 @@
 「そうですか……今のは忘れてくださいな」=「I see... Please forget about that.」
 （告白すると決めたけど、すごく緊張するな。でも、もう気持ちを伝えたい。もし、ふられた時は……その時、考える）=(I decided to confess, but I'm really nervous. But I want to tell her how I feel now. If she dumps me... I'll think about it then.)
 「とても綺麗ですわね。そう思うでしょう？」=「It's very beautiful. Don't you think so?」
-「……うん」=「...Yeah.」
+「……うん」=[...Yeah.]
 「あら、心ここにあらずといったご様子ですこと。何に気を取られているんですの？ 花火より綺麗なものでもありますかしら？」=「Oh, you don't seem to have a heart. What are you so preoccupied with? Is there something prettier than fireworks?」
 「……うん。ある」=「...Yeah. I do.」
 「あら、もしかして、私とか？」=「Oh, are you talking about me?」
@@ -441,7 +441,7 @@
 「え？ えっ！？ それは……俺のことが好きだから、理想の男になるよう鍛えたということ？」=「Huh? Huh?! You mean... because you like me, you trained yourself to be the ideal man?」
 「そうですけど？」=「That's true, but...」
 「うわ……すごく嬉しい。キスしたい」=「Wow... I'm so happy. I want to kiss you.」
-「ちゅ……」=「Chu...」
+「ちゅ……」=[*Kiss*....]
 「……ふふ。お慕いしていますわ……ずっと……」=「...Heheh. I've always loved you...」
 「あ……花火……」=「Ah... fireworks...」
 「終わってしまいましたわね。綺麗で……楽しかったですわ。また一緒に見ますわよ」=「It's over. It's so beautiful... It was fun. We'll watch it together again.」
@@ -587,7 +587,7 @@
 「何度か尋ねてきていますが、そんなにパーティが気になりますの？」=「You've asked me a few times. Are you that worried about the party?」
 「うん。知らない世界だから、いつか参加してみたいかも」=「Yeah. I don't know about this world, so I might want to participate someday.」
 「では、私達が参加しても問題ないパーティが開催されましたらお伝えしますわ。一緒に行きましょう」=「Well then, I'll let you know if there's a party that won't be a problem for us to participate in. Let's go together.」
-「いいの？」=「Are you sure?」
+「いいの？」=[You sure?]
 「貴方なら、かまいませんわよ。いつか正装して二人で行きましょうね」=「I don't mind if it's you. Let's go in full dress together someday.」
 「帰る前に……少し時間をもらっていい？ 君と一つになりたいんだ」=「Before I go home... Can I have a little time? I want to become one with you.」
 「まあ……情熱的なお誘いですこと」=「Well... It's a passionate invitation.」
@@ -915,7 +915,7 @@
 「私、いいことを思いついたんですの」=「I came up with a good idea.」
 「ん？ どんなこと？」=「Hm? What do you mean?」
 「私がストライクを１つでも取ったら、なんでも言うことをきいてくださる？」=「If I take even one strike, will you do whatever I say?」
-「うん、いいよ」=「Yeah, it's fine.」
+「うん、いいよ」=[Sure, let's go.]
 「言いましたわね！？ 言質取りましたわよ！？ 必ず、なんでも言うことをきいていただきますわよ！？」=「Didn't I tell you!? I took your word for it! You'll definitely do whatever I say!」
 「そのためにも、ストライク取れるよう頑張ろう！」=「And for that, let's do our best to get a strike!」
 「ぐ……ぬ～！ やっぱり！ 私がまだ一度もストライクを取れていないから、そんなに余裕綽々でらっしゃるんでしょ！」=「Guh... Ngh! I knew it! You're so calm because I haven't taken a strike yet!」
@@ -1047,7 +1047,7 @@
 「…………わよ……」=「.........wayo......」
 「え……？」=「Huh...?」
 「か……っ……かまいませんと言ったんですの！ 私も……貴方が……ほ、欲しい……ですから……」=「I... I... I said I don't mind! I... want you... too...」
-「ごめん、待たせた？」=「Sorry, did I keep you waiting?」
+「ごめん、待たせた？」=[Sorry, did I make you wait?]
 「問題ありませんことよ。さあ、ショッピングモールへ参りましょうか。こちらですわよ」=「There's no problem. Now, let's go to the shopping mall. This way.」
 「その代わり、ショッピングモールの中は、貴方がエスコートなさってね」=「In exchange, you'll be escorting me inside the shopping mall.」
 「えっ！？ 初めてなんだけど……？」=「Huh!? This is my first time...?」
@@ -1585,7 +1585,7 @@
 「こんな所でウロウロなさらないで。さっさと消えなさい」=「Don't wander around in a place like this. Get lost already.」
 「告白されて、悪い気はしませんけど……ごめんあそばせ。お付き合いはできませんわ」=「I don't feel bad after being confessed to, but... I'm sorry. I can't go out with you.」
 「ねえ……[Pあだ名]」=「Hey... [Pあだ名].」
-「ん？ どうしたの？」=「Hm? What's wrong?」
+「ん？ どうしたの？」=[Nn? What's up?]
 「ふふっ。呼びたかっただけですわ」=「Hehe. I just wanted to call you.」
 「付き合う……彼女……私、今、貴方に男女交際を求められているのかしら？」=「I'm going out with her... Is she... asking me to go out with you right now?」
 「……うん、そう。俺の彼女になって！」=「...Yeah, that's right. Be my girlfriend!」
@@ -2150,7 +2150,7 @@
 「……貴方、不審者の気配を漂わせていますわよ？」=「...You have the presence of a suspicious person, don't you?」
 「皆さんに満足していただけるとよろしいのですけど……」=「I hope everyone is satisfied...」
 「知っていましたわ。貴方の視線……私のすべてに絡んできてましたもの……」=「I knew. Your gaze... has been intertwined with everything about me...」
-「……見てたらエッチしたくなって……いいかな？」=「...Watching you makes me want to have sex... Is that okay?」
+「……見てたらエッチしたくなって……いいかな？」=[....I kinda wanna have sex after all that... could we?]
 「これから……貴方とエッチなことを……」=「I'm... going to have sex with you from now on...」
 「いらして……私も欲しいんですの……睦びますわよ……」=「Come here... I want it too... It'll be nice...」
 「プールの中で一つになるなんて……どんな感覚になるのですかしら……」=「I wonder what it feels like to be one in the pool...」
@@ -2159,17 +2159,17 @@
 「こんなところで一つになるなんて、なんてインモラルな……」=「To think we'd become one in a place like this... How immoral...」
 「また三人でしますのね……貴方という方は本当に物好きですわ」=「The three of us will do it together again... You really are strange.」
 「覗いてらしたなんて……そんな……いつから……」=「How long have you been... peeking...?」
-「ごめん……悪いとは思ったんだけど、つい見惚れちゃって……」=「Sorry... I felt bad, but I couldn't help but be captivated...」
-「その、さ……見てたらエッチしたくなっちゃったんだけど、これからどうかな？」=「Umm, well... Just looking at you made me want to have sex. What do you think about now?」
+「ごめん……悪いとは思ったんだけど、つい見惚れちゃって……」=[Sorry... I did feel pretty bad but, I couldn't look away....]
+「その、さ……見てたらエッチしたくなっちゃったんだけど、これからどうかな？」=[Say, uhm... I kinda can't contain myself after seeing that, how about we have sex?]
 「私の痴態を見て、昂ぶってしまわれたの……？」=「Did you get excited when you saw my foolishness...?」
 「……かまいませんわよ。私も昂ぶりを抑えられませんの……」=「...I don't mind. I can't hold back my excitement either...」
 「破天荒が過ぎますわよ？ ここでなんて……危険ですわ～……」=「You're going too far, you know? It's dangerous... here...」
 「なっ……！？ 何故、貴方がここにいらっしゃるの……？」=「Wha...!? Why are you here...?」
 「あの……そちらの殿方は？」=「Um... Who is that gentleman over there?」
-「いつもと違うエッチがしたいなと思って、俺が声をかけたんだ。ダメかな？」=「I wanted to have sex with you differently than usual, so I called out to you. Is that okay?」
+「いつもと違うエッチがしたいなと思って、俺が声をかけたんだ。ダメかな？」=[Someone I called. I want to try something different today. Could we?]
 「は……？ こちらの殿方も混ざる……？ 私達の睦びに？」=「Huh...? This gentleman will join us...? For our peace?」
 「貴方という人は、どこまでも破廉恥な……しかたありませんわね……貴方のお願いだからきくんですのよ？」=「You're so shameless... I can't help it... I'll do it because it's your request, you know?」
-「ありがとう。満足してもらえるように頑張るね」=「Thank you. I'll do my best to satisfy you.」
+「ありがとう。満足してもらえるように頑張るね」=[Thanks. I'll do my best so that you enjoy it too.]
 「いいですわよ……入っていただきましょう……」=「It's fine... Let's have you come in...」
 「銭湯で？ 貴方、性欲の抑えが全然効いていないようですわね」=「In the bathhouse? It seems your sexual desire hasn't worked at all.」
 「こんなところで行為がしたいだなんて……貴方、前世は野生動物だったんじゃなくて？」=「I can't believe you want to do it in a place like this... Weren't you a wild animal in your past life?」

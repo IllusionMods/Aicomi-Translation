@@ -238,7 +238,7 @@
 「うーん……もっと他の話題はないのかしら？」=「Hmm... I wonder if there's anything else to talk about?」
 「素敵な時間を過ごせたわ。それじゃ、今の内に移動しちゃう？」=「We had a great time. Shall we move on while we can?」
 「あら、キミもお祭りに？」=「Oh, you're at the festival too?」
-「どうしたの？」=「What's up?」
+「どうしたの？」=[Go for it.]
 「ええ、いいわよ。時間はちゃんと空けてたし」=「Yeah, it's fine. I set time aside.」
 「いいわよ、なんでもどうぞ」=「Go ahead, anything you like.」
 「都会とここじゃ、いろいろ勝手が違うでしょ？ 何か困ってない？」=「The city and here are pretty different, right? Isn't there something troubling you?」

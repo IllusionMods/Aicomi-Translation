@@ -284,7 +284,7 @@
 「誰か誘おうかなとも思ったんだけど……俺だけゆっくり回ったら迷惑かなと思って一人で来たんだ」=「I thought I'd invite someone, but... I thought it'd be a bother if I went around slowly, so I came alone.」
 「そっか……もしよかったら、私が付き添おうか？ 地元民がいた方が安心しない？」=「I see... If you don't mind, would you like me to accompany you? Wouldn't it be safer to have a local?」
 「いいの？ なら言葉に甘えさせてもらおうかな」=「Are you sure? Then I'll take you up on your offer.」
-「暑いし、プールで泳いでいかない？」=「It's hot, so why don't we go swimming in the pool?」
+「暑いし、プールで泳いでいかない？」=[It's pretty darn hot, wanna go swimming in the pool?]
 「うん、いいわね♪」=「Yeah, that sounds good♪」
 「それじゃあ、着替えてから集合しましょうか」=「Okay, let's meet up after we get changed.」
 「う～ん！ この開放感、最高ね♪」=「Hmm! This feeling of release is the best♪」
@@ -522,7 +522,7 @@
 「さすがに屋台とかも、大体閉めてるのかな」=「I guess most of the food stalls are closed.」
 「たぶんそうだと思う。私達は……どうしよっか？」=「I think so. What should we do...?」
 「喉渇いてない？ カフェでなにか飲んでいこうよ」=「Are you thirsty? Let's go have something to drink at the cafe.」
-「うん、いいよ」=「Yeah, it's fine.」
+「うん、いいよ」=[Sure, let's go.]
 「俺、思っていることがあって、コーヒーや紅茶の作法ってあるでしょ？」=「I've been thinking about coffee and tea etiquette, haven't I?」
 「うん、いろいろあるわよね。スプーンの位置とか、取っ手の向きとか」=「Yeah, there's a lot going on. Like the position of the spoon and the direction of the handle.」
 「その中でもさ、スプーンを音を立てずに掻き回すってめちゃくちゃ難しくない？」=「Wouldn't it be really hard to stir up a spoon without making a sound?」
@@ -1227,7 +1227,7 @@
 「なんだ……それなら安心した」=「Oh... That's a relief.」
 「サボってるのに安心って、なんだかおかしいけどね」=「It's kind of weird to feel relieved when you're slacking off, though.」
 「へえ、ここが……その……ラブホテルの部屋……なんだ」=「Huh, so this is... umm... a love hotel room?」
-「うん、そうだね」=「Yeah, you're right.」
+「うん、そうだね」=[Yeah, I know.]
 「こういう時って……やっぱりシャワーとか浴びた方がいいのかしら？」=「At times like this... maybe I should take a shower or something?」
 「君が気になるなら浴びてきていいよ。もしあれだったれ俺も浴びようかな……あ、一緒に入る？」=「If you're worried about you, you can go take a bath. If that's the case, maybe I should take a shower too... Oh, would you like to bathe with me?」
 「そ、それはちょっと……恥ずかしいかも」=「Th-That's a little... embarrassing.」
@@ -1611,7 +1611,7 @@
 「いいわよ。ふふふっ、どこに連れて行ってくれるのかしら？」=「It's fine. Hehehe, where will you take me?」
 「ここじゃダメなの？」=「Can't we do it here?」
 「あ～……」=「Ah~...」
-「う～ん……」=「Hmm...」
+「う～ん……」=[Mmm~....]
 「はあ……」=「Haah...」
 「ふふっ、私なんだかドキドキしてきちゃったわ」=「Hehe, my heart's starting to race for some reason.」
 「どこか出掛けるとしたらどこに行きたい？」=「If you're going out somewhere, where do you want to go?」
@@ -2005,7 +2005,7 @@
 「生活に自然がある風景っていいよね」=「It's nice to have nature in your life, isn't it?」
 「田舎だからねぇ。でも私もこの村の景色はキライじゃないかな」=「It's the countryside, after all. But I don't think I like the view of this village either.」
 「それって、ここが田舎ってこと？ 確かに自然は多いしほっとするわよね」=「Does that mean this is the countryside? It's true that there's a lot of nature here, so I'm relieved.」
-「占いって信じる？」=「Do you believe in fortune telling?」
+「占いって信じる？」=[Do you believe in fortune-telling?]
 「あまり信じないようにしているんだけど……朝、自分の運勢がよくなかったら、テンションは下がるわね」=「I try not to believe it, but... if my luck isn't good this morning, I'll lose my temper.」
 「ああいうのって『バーナム効果』だってわかっているのに、信じちゃうのよね」=「I know it's the Burnam effect, but I still believe it.」
 「つい夜更かししちゃった……」=「I stayed up late...」
@@ -2082,13 +2082,13 @@
 「ふぅん……それも面白そうだし、いいわよ」=「Hmm... That sounds interesting too, so it's fine.」
 「また三人でするの？ ふふ、優しくしてね♪」=「The three of us are going to do it together again? Hehe, be gentle♪」
 「えっ、誰？ この人は……あなたの知り合いなの？」=「Huh? Who's this? Is he... an acquaintance of yours?」
-「いつもと違うエッチがしたいなと思って、俺が声をかけたんだ。ダメかな？」=「I wanted to have sex with you differently than usual, so I called out to you. Is that okay?」
+「いつもと違うエッチがしたいなと思って、俺が声をかけたんだ。ダメかな？」=[Someone I called. I want to try something different today. Could we?]
 「えっ？ それって私が……あなたと……この人も相手にするってこと？」=「Huh? Does that mean... I'm going to... deal with you... and this person too?」
 「そんなことやったことないからわからないけど……私もちょっとしてみたいし……いいわよ？」=「I've never done anything like that before, so I don't know... but I'd like to try doing it a little too... Okay?」
-「ありがとう。満足してもらえるように頑張るね」=「Thank you. I'll do my best to satisfy you.」
+「ありがとう。満足してもらえるように頑張るね」=[Thanks. I'll do my best so that you enjoy it too.]
 「えっ！ ウソ、いつから見ていたの？」=「Huh?! No way. How long have you been watching?」
-「ごめん……悪いとは思ったんだけど、つい見惚れちゃって……」=「Sorry... I felt bad, but I couldn't help but be captivated...」
-「その、さ……見てたらエッチしたくなっちゃったんだけど、これからどうかな？」=「Umm, well... Just looking at you made me want to have sex. What do you think about now?」
+「ごめん……悪いとは思ったんだけど、つい見惚れちゃって……」=[Sorry... I did feel pretty bad but, I couldn't look away....]
+「その、さ……見てたらエッチしたくなっちゃったんだけど、これからどうかな？」=[Say, uhm... I kinda can't contain myself after seeing that, how about we have sex?]
 「そんなこと言われてもぉ……もう、仕方ないなぁ」=「Even if you say that... Geez, there's no helping it.」
 「わかった。今回は……特別にオッケーしてあげるわ」=「Okay. This time... I'll give you a special okay.」
 「ほ、本当はあなた以外の男の人とするのは……困るんだけど……」=「H-Honestly, I don't want to do it with anyone other than you...」
@@ -2099,7 +2099,7 @@
 「３Ｐだなんて、なんだかドキドキしちゃうわね」=「A threesome? That's kind of exciting.」
 「こんなところでするの？ あなたって、度胸ありまくりね」=「You're doing it in a place like this? You've got guts.」
 「んふふっ……女の子の恥ずかしいところを見るなんて……あなたって悪い人ね」=「nfufu... To see a girl's embarrassing side... You're such a bad person.」
-「……見てたらエッチしたくなって……いいかな？」=「...Watching you makes me want to have sex... Is that okay?」
+「……見てたらエッチしたくなって……いいかな？」=[....I kinda wanna have sex after all that... could we?]
 「ふぅん……私と……エッチしたいんだぁ」=「Hmm... So you want... to have sex with me.」
 「いいわよ、じゃあ……しよっか？」=「Okay, then... Shall we do it?」
 「えっ、どうしてあなたがここに居るのっ？」=「Huh? Why are you here?」

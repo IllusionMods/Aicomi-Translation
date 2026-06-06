@@ -178,7 +178,7 @@
 「そっかー。この辺は今の時期によく見れるから、覚えておくといいよ」=「I see. You can get a good look around here at this time of year, so you should remember that.」
 「うん、ありがとう。また見れるといいなあ」=「Yeah, thanks. I hope I can see it again.」
 「きっとこれから、何度でも見れるよ」=「I'm sure you'll be able to see it as many times as you want from now on.」
-「ここで何してるの？」=「What are you doing here?」
+「ここで何してるの？」=[What're you doing here?]
 「ちょっと予習でもしておこうかなと思って」=「I thought I'd do some prep work.」
 「へえ～。君は偉いなあ」=「Wow. You're great.」
 「君はどうしたの？ あ、俺と同じ理由だったりするのかな」=「What's wrong with you? Oh, I wonder if you have the same reason as me.」
@@ -237,7 +237,7 @@
 「あ、君も来てたんだね」=「Ah, so you're here too.」
 「うん。君に教えてもらったし、折角のお祭りを楽しもうと思って」=「Yeah. You taught me, so I thought I'd enjoy the festival.」
 「その割には一人なんだね……うちが案内しようか？」=「Even so, you're alone... Shall I show you around?」
-「え、いいの？」=「Huh? Are you sure?」
+「え、いいの？」=[Eh, you sure?]
 「勿論、いいよ！ それじゃ、一緒に回ろっか」=「Of course! Let's go around together, then.」
 「ふぁあ……なんだかすごかったなぁ……」=「Fwaah... That was kinda amazing...」
 「あ、君も買い物に来たの？ だったらちょうどよかった！」=「Oh, you came shopping too? That's perfect!」
@@ -337,7 +337,7 @@
 「ご、ごめん！ 急だったよね！」=「S-Sorry! That was sudden!」
 「でも、あの……うちも、君とキスしたい……」=「But, um... I want to kiss you too...」
 「……いいんだよね？」=「...It's okay, right?」
-「うん……いいよ」=「Yeah... It's fine.」
+「うん……いいよ」=[Sure... go for it.]
 「それじゃあ………」=「Then...」
 「……ちゅぅ」=「...*kiss*」
 「俺、君が本当に大好きだよ。これからも、一緒に色んなをことしようね」=「I really love you. Let's do lots of things together from now on.」
@@ -465,7 +465,7 @@
 「そっか。そういうことなら、さっきの言葉は素直に受け止めておこうかな」=「I see. In that case, I guess I'll just accept what you said earlier.」
 「うん、そうしてよ。君が居てくれて良かったって、本心から思ってるから」=「Yeah, do that. I'm really glad you're here.」
 「でもさ、うちも君が一緒で良かったって思ってるんだよ」=「But I'm glad you're with me.」
-「そうなの？」=「Really?」
+「そうなの？」=[You think?]
 「だって、同じようなお祭りと花火で目新しさはなかったからさ……」=「I mean, the same festival and fireworks didn't have anything new to them...」
 「ああ、なるほど。いつものことで、普通になってたんだね」=「Ah, I see. So that's how it's always been.」
 「でも今日は君と一緒だったから、今までより新鮮で楽しい気持ちになれたよ」=「But because I was with you today, I was able to feel more fresh and fun than ever before.」
@@ -737,7 +737,7 @@
 「そっか。じゃあ、色んなことをしなくちゃ」=「I see. Then we'll have to do all sorts of things.」
 「それじゃあ、まずは……また一緒に花火を見ようって約束しない？」=「Well then, first of all... won't you promise to watch the fireworks together again?」
 「うん。これからもずっと、君と一緒に花火を見たい！ 約束だね」=「Yeah. I want to see fireworks with you forever! It's a promise.」
-「こんなところで何してるの？」=「What are you doing here?」
+「こんなところで何してるの？」=[Whatcha doing over here?]
 「んーん、別になんにも。のんびりかなー」=「Hmm, nothing really. I guess I'll just take it easy.」
 「そっか。この辺風が吹き抜けて行って気持ちいいから、のんびりするのにはいいよね」=「I see. It feels good when the wind blows through here, so it's good for relaxing.」
 「だねー。だから、ボーっとしたい時とかよく来ちゃうかも」=「Yeah. That's why I often come when I want to space out.」
@@ -2074,10 +2074,10 @@
 「うん……うちも、君とエッチしたい」=「Yeah... I want to have sex with you too.」
 「あー。なんか変なことするつもりでしょ」=「Ah. You're going to do something weird, aren't you?」
 「ねえ、この人って誰なの？」=「Hey, who is this person?」
-「いつもと違うエッチがしたいなと思って、俺が声をかけたんだ。ダメかな？」=「I wanted to have sex with you differently than usual, so I called out to you. Is that okay?」
+「いつもと違うエッチがしたいなと思って、俺が声をかけたんだ。ダメかな？」=[Someone I called. I want to try something different today. Could we?]
 「え……じゃあ、この人も入れて三人でエッチするってこと？ 本当に？」=「Huh...? So the three of us are going to have sex together, including this person? Really?」
 「んん……でも君がしてみたいっていうなら、仕方ないかな。それに、うちも興味ないわけじゃないし」=「Hmm... But if you want to try it, I guess it can't be helped. Besides, it's not like I'm not interested.」
-「ありがとう。満足してもらえるように頑張るね」=「Thank you. I'll do my best to satisfy you.」
+「ありがとう。満足してもらえるように頑張るね」=[Thanks. I'll do my best so that you enjoy it too.]
 「勉強するための机でエッチなことしちゃうなんて……イケナイことなのに、ドキドキする」=「I can't believe I'm doing dirty stuff at a desk for studying... It's such a bad thing, but it makes my heart race.」
 「や、やだ、恥ずかしいよ……」=「N-No, it's embarrassing...」
 「裸のお付き合いって、そういう意味じゃないと思うんだけどな」=「I don't think that's what it means to be naked.」
@@ -2093,8 +2093,8 @@
 「ええ、また三人でしたいの？ 君って本当にさあ……でも、そんな君のことがうちは好きなんだから、仕方ないか」=「Yes, do you want to do it with the three of us again? You really are... But I love you, so I guess it can't be helped.」
 「三人でしたいって、君はすっごくエッチだね……ふふ、いいよ」=「You said it was just the three of us, but you're really perverted... Hehe, it's okay.」
 「ひゃぁ……もしかして、見てたの……？」=「Hyah... Were you watching...?」
-「ごめん……悪いとは思ったんだけど、つい見惚れちゃって……」=「Sorry... I felt bad, but I couldn't help but be captivated...」
-「その、さ……見てたらエッチしたくなっちゃったんだけど、これからどうかな？」=「Umm, well... Just looking at you made me want to have sex. What do you think about now?」
+「ごめん……悪いとは思ったんだけど、つい見惚れちゃって……」=[Sorry... I did feel pretty bad but, I couldn't look away....]
+「その、さ……見てたらエッチしたくなっちゃったんだけど、これからどうかな？」=[Say, uhm... I kinda can't contain myself after seeing that, how about we have sex?]
 「うちのオナニー見て、興奮しちゃったんだ……」=「Looking at my masturbation got me excited...」
 「いいよ……？ うちもそういう気分になってたから」=「It's okay... I was feeling the same way.」
 「……うちのオナニーで、そこまで興奮したんだね」=「...I didn't know masturbating at home could get you that excited.」
@@ -2109,7 +2109,7 @@
 「あの、うちも混ぜてくれないかな……見てたら一緒にしたくなっちゃって……」=「Umm, could you let me join you...? Watching you made me want to do it with you...」
 「こ、こんなところで……？ ええ……だ、大丈夫かなあ」=「I-In a place like this...? Yes... I-I wonder if I'll be okay.」
 「んふふ……もっと近くで見たくなったの？」=「Hehehe... Did you want to see it up close?」
-「……見てたらエッチしたくなって……いいかな？」=「...Watching you makes me want to have sex... Is that okay?」
+「……見てたらエッチしたくなって……いいかな？」=[....I kinda wanna have sex after all that... could we?]
 「あのね、これでいいのかなってちょっと不安になっちゃうくらい気持ちよかったよ」=「You know, it felt so good that I was a little worried if this was okay.」
 「う、うちとそういうこと、したいんだ……ふぅん。まあいいよ……」=「I-I want to do that with you... Hmm. Well, whatever...」
 「こ、これヤバイよ。すっごいドキドキして、興奮しちゃった……」=「Th-This is bad. My heart's beating so fast, I'm getting excited...」

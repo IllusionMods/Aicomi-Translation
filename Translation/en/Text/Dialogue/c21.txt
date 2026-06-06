@@ -890,7 +890,7 @@
 「じゃあ、俺はそれにしようかな」=「Okay, I guess I'll do that.」
 「うふふ。メニューを見たら、種類の多さに迷っちゃうかもしれないですよ」=「Ufufu. If you look at the menu, you might get lost because of the variety.」
 「今週はお祭りがありますよ」=「There's a festival this week.」
-「うん、そうだね」=「Yeah, you're right.」
+「うん、そうだね」=[Yeah, I know.]
 「ふふ、覚えていたんですね」=「Hehe, so you remembered.」
 「おはようございます、[Pあだ名]」=「Good morning, [Pあだ名].」
 「おはよう、[Hあだ名]」=「Good morning, [Hあだ名].」
@@ -1060,7 +1060,7 @@
 「気になるところがあったら言ってくださいね。二人でいっぱい回りましょう」=「Let me know if there's anything you're interested in. Let's go around together.」
 「あ、あの、おじゃまします」=「U-Umm, excuse me.」
 「どうぞ、ゆっくりくつろいでね」=「Please, make yourself at home.」
-「あ、ありがとうございます……」=「Th-Thank you very much...」
+「あ、ありがとうございます……」=[T-Thank you...]
 「なんて言われても緊張しちゃうか」=「Even if you say that, I'm still nervous.」
 「は、はい。すみません、なんだか落ち着かなくて」=「Y-Yes. I'm sorry, I just couldn't calm down.」
 「……正直俺も、好きな子が自分の部屋にいるから緊張してる」=「...Honestly, I'm also nervous because the girl I love is in my room.」
@@ -1289,7 +1289,7 @@
 「はい！ これからもたくさんデートをして一緒の時間を過ごしましょうね」=「Yes! Let's go on lots of dates and spend time together from now on.」
 「そうしよう。うん……少し寂しい気持ちも薄れたかも」=「Let's do that. Yeah... I think I feel a little less lonely now.」
 「そうですね。今日だけじゃなくて、これからもありますしね」=「You're right. It's not just today. There's more to come.」
-「あ……おはようございます」=「Ah... Good morning.」
+「あ……おはようございます」=[Ah... good morning.]
 「んん……ああ、おはよう。もう起きてたんだね」=「Mmm... Ah, good morning. You're already awake.」
 「少し前にですが……ふふ、早起きは三文の徳、と言いますが本当ですね」=「A little while ago... Hehe, they say that waking up early is a virtue of three mon, but it's true.」
 「え……それはどうして？」=「Huh...? Why is that?」
@@ -1527,7 +1527,7 @@
 「なるほど……素晴らしいですね、私も参考にしますね」=「I see... That's wonderful. I'll use it as a reference too.」
 「図書館に行くと、面白い本が多くて目移りしません？」=「When you go to the library, there are so many interesting books, don't you think you should look around?」
 あるあるだね=Yeah, there is.
-ちょっと分かるよ=I kind of get it.
+ちょっと分かるよ=You know, I get that.
 「目当ての本以外もついつい手に取ってしまうんですよねえ」=「I can't help but pick up anything other than the book I'm looking for.」
 「集中力が落ちた時って、一旦休憩をしますか？」=「Would you like to take a break when you're out of focus?」
 ちゃんと休むよ=I'll get some rest.
@@ -1685,7 +1685,7 @@
 「そうですか……とても残念です」=「I see... That's very unfortunate.」
 「どうですか、この水着？ 似合うでしょうか……」=「What do you think of this swimsuit? Would it look good on me...?」
 「はい。あなたと一緒に勉強したいです」=「Yes. I want to study with you.」
-「恋人って欲しいと思う？」=「Do you think I want a girlfriend?」
+「恋人って欲しいと思う？」=[Say, would you want a boyfriend?]
 「思うんですけど……それで終わってしまいますね」=「I think so... but that's the end of it.」
 「できれば欲しいですよ。そんな機会はなかったですけど」=「I wish I could. I never had the chance, though.」
 「恋人同士って何をするんだろうね」=「I wonder what lovers do.」
@@ -1758,7 +1758,7 @@
 「よかった。でも、何かあったら相談に乗りますから、言ってくださいね」=「Thank goodness. But if anything happens, I'll listen to your advice, so please tell me.」
 「いいですね。行きましょう」=「Sounds good. Let's go.」
 「そうですか……」=「I see...」
-「はぁ……」=「Haa...」
+「はぁ……」=[Haah.....]
 「身体を動かすのは好き？」=「Do you like to move your body?」
 「あまり好きでは……運動が大事なのはわかってるつもりですけど」=「If you don't like it too much... I think I understand that exercise is important.」
 疲れるもんね……=It's tiring...
@@ -1863,7 +1863,7 @@
 「気になると読むし、映画とか原作と展開が違うとおお！ と思うなあ」=「I read it when I'm curious, and I think it's different from the movie or the original story!」
 「俺はそこまでじゃなくて、映像だけで満足しちゃうんだよね」=「I'm not that satisfied. I'm satisfied with just the images.」
 「原作と別展開でも、作品の結末が面白いと満足できますよねえ」=「Even if it's a different development from the original, I'm satisfied that the ending of the work is interesting.」
-「一緒に何か食べませんか？」=「Would you like to eat something together?」
+「一緒に何か食べませんか？」=[Would you like to get something to eat?]
 「あなたと一緒で嬉しいです」=「I'm happy to be with you.」
 「そうですか……今度またご一緒してくださいね」=「I see... Please come with me next time.」
 「私で……いいんですか……？」=「Are you... okay with me...?」
@@ -1896,7 +1896,7 @@
 全部使ってるね=You're using them all.
 「ふふ、私と一緒ですね。お金が貯まっていくのを見るとワクワクします」=「Hehe, you're the same as me. I'm excited to see you save up money.」
 「読書の時って、紙の本にこだわったりします？」=「Do you get hung up on paper books when you're reading?」
-こだわってるよ=I'm obsessed with it.
+こだわってるよ=I do, a lot.
 「私も、読めたら紙でも電子でも、どちらでもいい派なんですよね」=「I don't care if it's paper or electrons if I can read it.」
 「眠る時の寝具にこだわりってあります？」=「Do you have a fixation on sleeping bedding?」
 「睡眠の質が変わりそうですし、いい寝具があったら教えて欲しいです」=「It looks like the quality of your sleep will change, so I'd like you to tell me if you have any good bedding.」
@@ -2220,17 +2220,17 @@
 「だめ……いけないことですよ」=「No... You can't do that.」
 「あ、あの、私も混ぜて欲しいんですが……いいですか？」=「U-Umm, I'd like to join you... Is that okay?」
 「あ……！ も、もしかして見ていたんですか……！」=「Ah...! Y-You were watching...?!」
-「ごめん……悪いとは思ったんだけど、つい見惚れちゃって……」=「Sorry... I felt bad, but I couldn't help but be captivated...」
-「その、さ……見てたらエッチしたくなっちゃったんだけど、これからどうかな？」=「Umm, well... Just looking at you made me want to have sex. What do you think about now?」
+「ごめん……悪いとは思ったんだけど、つい見惚れちゃって……」=[Sorry... I did feel pretty bad but, I couldn't look away....]
+「その、さ……見てたらエッチしたくなっちゃったんだけど、これからどうかな？」=[Say, uhm... I kinda can't contain myself after seeing that, how about we have sex?]
 「私のオナニーを見て、興奮してしまったんですね……恥ずかしい」=「You got excited when you saw me masturbate... How embarrassing.」
 「いいですよ。今、私もそういう気分になっていますから」=「It's fine. I'm feeling the same way right now.」
 「構わないですよ。三人でするのも楽しそうですよね」=「I don't mind. The three of us doing it together sounds fun.」
 「また、三人でするんですね。わかりました……この前みたいにしてくださいね」=「The three of us are going to do it together again. Understood... Please do what you did last time.」
 「あの、この人は誰なんですか」=「Um, who is this person?」
-「いつもと違うエッチがしたいなと思って、俺が声をかけたんだ。ダメかな？」=「I wanted to have sex with you differently than usual, so I called out to you. Is that okay?」
+「いつもと違うエッチがしたいなと思って、俺が声をかけたんだ。ダメかな？」=[Someone I called. I want to try something different today. Could we?]
 「え……あなた以外の男の人とエッチさせるつもりなんですか……？」=「Huh...? Are you trying to make me have sex with someone other than you...?」
 「あなたにお願いされると断れないの、知ってるくせに。もう……仕方ないですね」=「You know I can't refuse your request. Geez... I guess there's nothing I can do about it.」
-「ありがとう。満足してもらえるように頑張るね」=「Thank you. I'll do my best to satisfy you.」
+「ありがとう。満足してもらえるように頑張るね」=[Thanks. I'll do my best so that you enjoy it too.]
 「また三人でするんですね。あなたがしたいなら、構わないです」=「The three of us will do it again. If you want, I don't mind.」
 「えっと……私も興味がありますし、構わないですよ」=「Umm... I'm interested too, so I don't mind.」
 「裸のお付き合いというのは、そういう意味ではなくて……」=「That's not what I meant when I said we're naked...」
@@ -2242,7 +2242,7 @@
 「私がオナニーしている姿で、そんなに興奮してくれたなんて……嬉しいです」=「I'm so happy... that you're so excited to see me masturbate.」
 「はい、もちろん。私ももう、オナニーだけじゃ満足できないですから」=「Yes, of course. I can't be satisfied with just masturbating anymore.」
 「ふふ。もっと近くで見てもいいんですよ……」=「Hehe. You can take a closer look...」
-「……見てたらエッチしたくなって……いいかな？」=「...Watching you makes me want to have sex... Is that okay?」
+「……見てたらエッチしたくなって……いいかな？」=[....I kinda wanna have sex after all that... could we?]
 「プールでするなんて恥ずかしいですよ……」=「It's embarrassing to do it in the pool...」
 「あなたに見られてたんですね……」=「So you saw me...」
 「こ、この机でするんですか？ 本気……ですよね、そのお顔」=「A-Are you going to do it at this desk? You're... serious, aren't you?」

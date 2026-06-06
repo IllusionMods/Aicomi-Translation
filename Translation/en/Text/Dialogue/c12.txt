@@ -444,7 +444,7 @@
 「ええ。知らない間に、キミに似てきているのかしら」=「Yes. I wonder if she's starting to look like you without realizing it.」
 「この人数で……それはすごい試みね」=「With this many people... That's an amazing experiment.」
 「興味あるし、ここで仲間外れになるのも嫌だし……参加させてもらうわ」=「I'm interested, and I don't want to be left out here... so I'll participate.」
-「あれ、ここで何してるの？」=「Huh? What are you doing here?」
+「あれ、ここで何してるの？」=[Huh, what're you up to here?]
 「地域の清掃活動のお手伝いよ。たまに参加してるの」=「I'm helping out with cleaning up the area. I participate every once in a while.」
 「へえ、そうなんだ。それって誰でも参加できるのかな」=「Huh, I see. I wonder if anyone can participate.」
 「ええ、誰でも大歓迎よ。人が少ないから、手伝ってもらえると嬉しいけど……」=「Yes, anyone is welcome. There aren't many people here, so I'd be happy if you could help...」
@@ -489,7 +489,7 @@
 「……何か含みがあるわね。一旦、どう呼んでほしいのか聞かせてくれる？」=「...You're implying something. Can you tell me what you want me to call you for now?」
 「[Pあだ名]って……呼んでほしいんだ」=「I want you to call me... the [Pあだ名].」
 「……なるほど、そういう感じね。キミって、そういう趣味があったのね」=「...I see. So that's what you're into. I didn't know you were into that sort of thing.」
-「だ、ダメかな？」=「I-I guess I can't?」
+「だ、ダメかな？」=[I-I guess it's a no?]
 「ちょっと驚きはしたけど、別にいいわよ」=「I was a little surprised, but I don't mind.」
 「[Pあだ名]……これでいい？」=「[Pあだ名]... Is this okay?」
 「ありがとう……ありがとう……[Hあだ名]」=「Thank you... Thank you... [Hあだ名].」
@@ -750,7 +750,7 @@
 「うふふ♪ 照れくさいけど、こういうの楽しいわね」=「Ufufu♪ It's embarrassing, but this is fun.」
 「うん、そうだね。写真を撮っておけば、君の顔がいつでも見れるし」=「Yeah, you're right. If I take a picture, I can see your face whenever I want.」
 「そうなの。そう思って、キミの写真が撮りたかったのよ」=「That's right. That's why I wanted to take a picture of you.」
-「ここで何してるの？」=「What are you doing here?」
+「ここで何してるの？」=[What're you doing here?]
 「そろそろ蛍が見れるんじゃないかと思って」=「I thought I'd be able to see the fireflies soon.」
 「へぇ、ここで蛍が見られるんだね」=「Huh, so you can see fireflies here.」
 「そうよ、いつもこのくらいの時期に見れるから……」=「That's right, I get to see it around this time of year all the time...」
@@ -1642,7 +1642,7 @@
 もちろん知ってるよ=Of course I know.
 まぁ、人気あるしね=Well, it's popular.
 「あ、知ってるよ！ けっこう好きな曲が多んだよね」=「Oh, I know! There were a lot of songs you liked.」
-「けっこうミーハーなんだね」=「You're pretty meek, huh?」
+「けっこうミーハーなんだね」=[A real crowd follower, aren't you?]
 「キャッチーでいいわよね。いつかライブに行ってみたいわ」=「Catch is fine, isn't it? I'd like to go to a concert someday.」
 「ＳＮＳの投稿がバズったことってある？」=「Have you ever posted a message on social media?」
 「ないわね～。ちょっと狙ってはいるんだけど、難しいわ」=「I don't think so. I'm aiming a little, but it's hard.」
@@ -1945,7 +1945,7 @@
 「はぁ……何か用かしら？」=「Hah... Do you need something?」
 「ふぅん」=「Hmm.」
 「そ……」=「Yeah...」
-「はぁ……」=「Haa...」
+「はぁ……」=[Haah.....]
 「キミがよければ、これから二人で運動しない？ 健全な汗をながしましょ」=「If you're okay with it, why don't we get some exercise together? Let's work up a healthy sweat.」
 「さすがキミね。それじゃあ、張りきっちゃうわよ」=「That's you for me. Then I'll be all fired up.」
 「そう……まあ、無理に付き合わせたりはしないわ」=「I see... Well, I won't force you to come with me.」
@@ -2124,10 +2124,10 @@
 「ふふっ、正直ね。じゃあ特別にＯＫしてあげる。でも、あんまり変なことしちゃダメよ？」=「Hehe, you're honest. Then I'll give you a special okay. But don't do anything too weird, okay?」
 「キミってば大胆ね……でもまあ、私もＯＫよ」=「You're so bold... But, well, I'm okay with it too.」
 「ねえ……この人は誰なのかしら？」=「Hey... Who is this person?」
-「いつもと違うエッチがしたいなと思って、俺が声をかけたんだ。ダメかな？」=「I wanted to have sex with you differently than usual, so I called out to you. Is that okay?」
+「いつもと違うエッチがしたいなと思って、俺が声をかけたんだ。ダメかな？」=[Someone I called. I want to try something different today. Could we?]
 「キミ以外の人と私がエッチするって……それ本気で言ってる？」=「Are you serious about me having sex with someone other than you?」
 「……本気、なのね。わかったわ、キミがしたいのなら」=「...You're serious, aren't you? Okay, if you want to.」
-「ありがとう。満足してもらえるように頑張るね」=「Thank you. I'll do my best to satisfy you.」
+「ありがとう。満足してもらえるように頑張るね」=[Thanks. I'll do my best so that you enjoy it too.]
 「本当にいいの？ それじゃあ、遠慮なく参加させてもらうわね♪」=「Are you sure? Well then, I'll take part without holding back♪」
 「これが本当の、裸のお付き合いというやつかしら……うふふ」=「I wonder if this is what a real, naked relationship is like... Ehehe.」
 「ふぅん、三人でしちゃうなんて楽しそうね。うふふ、私は問題ないわ」=「Hmm, it looks like the three of us are having fun together. Ehehe, I'm fine.」
@@ -2139,8 +2139,8 @@
 「まさか、こんなタイミングでキミが来ちゃうなんて」=「I didn't think you'd show up at a time like this.」
 「プールでエッチするのって、なんだかドキドキしちゃうわ……」=「Having sex in the pool is kind of exciting...」
 「あら……まさか、キミに覗かれていたなんてね」=「Oh... I didn't think you'd peek at me.」
-「ごめん……悪いとは思ったんだけど、つい見惚れちゃって……」=「Sorry... I felt bad, but I couldn't help but be captivated...」
-「その、さ……見てたらエッチしたくなっちゃったんだけど、これからどうかな？」=「Umm, well... Just looking at you made me want to have sex. What do you think about now?」
+「ごめん……悪いとは思ったんだけど、つい見惚れちゃって……」=[Sorry... I did feel pretty bad but, I couldn't look away....]
+「その、さ……見てたらエッチしたくなっちゃったんだけど、これからどうかな？」=[Say, uhm... I kinda can't contain myself after seeing that, how about we have sex?]
 「ふふ……そうこなくっちゃ。私も期待していたわ」=「Hehe... That's how it should be. I had high hopes for you too.」
 「返事は当然ＯＫよ。たっぷりと楽しみましょう？」=「Of course I'm okay with your answer. Let's have lots of fun, okay?」
 「ねえ……私も二人の間に混ぜてもらえないかしら？」=「Hey... Could I join you two?」
@@ -2157,7 +2157,7 @@
 「私も興味があるから、誘ってあげましょうよ」=「I'm interested too, so let's invite her.」
 「見つからないように気を付けるけど……キミも、やりすぎちゃわないでね」=「I'll be careful not to be spotted, but... don't overdo it either.」
 「あら……一番前の特等席で見たくなったのかしら？」=「Oh... Did you want to see it in the front seat?」
-「……見てたらエッチしたくなって……いいかな？」=「...Watching you makes me want to have sex... Is that okay?」
+「……見てたらエッチしたくなって……いいかな？」=[....I kinda wanna have sex after all that... could we?]
 「三人でするってこと？ ……ちゃんと出来るか分からないけど、いいわよ」=「You mean the three of us will do it together? ...I don't know if I can do it properly, but it's fine.」
 「キミからのお誘い……断ったりなんかしないわ♪」=「I won't refuse... an invitation from you♪」
 「ねえ、なんだかすごく興奮してなかった？ そんなにここ、良かったのかしら……」=「Hey, weren't you really excited? Was this place really that good...?」
