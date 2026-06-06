@@ -524,6 +524,5 @@ Stockingsの詳細=More on Stockings
 ホテル=Hotel
 ホイールで叩く=Hit with the wheel
 別の日の朝か昼にまた話しかけよう=I'll go and speak to them.
-「いや、俺も今来たとこ」=「No, I just came too.」
 それでいいんだ……わかった……ダーリン=That's fine...I get it...darling
 3Pに入りますか？=Would you like to have a 3P?
