@@ -37,6 +37,8 @@ Otherwise, you can use the GitHub web interface to easily make single-file chang
 
 **Tip:** For small fixes (typos, single lines), editing on GitHub is easiest. For larger changes, you can still use the GitHub website by repeating the above steps for each file.
 
+> Note: The `cXX` numbers refer to text exclusive to a particular personality (e.g. `c12` contains lines for the Glamorous personality), while `g` refers to common events. You can see a list of personalities [here](Translation/en/Text/Personalities.txt).
+
 ### Compiling New Releases
 
 Releases must be made with the TranslationTool included in this repository, or some ADV dialogue lines will not be translated in-game. This is because the tool has to generate regexes for lines with placeholder tags that represent character names in-game.
