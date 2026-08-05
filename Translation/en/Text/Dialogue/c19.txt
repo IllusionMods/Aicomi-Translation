@@ -194,7 +194,7 @@
 「んふふ……きみもその気なんだ♪」=「nfufu...... So you're planning to do that too♪」
 「じゃあ、もうちょっとだけ……二人で楽しも？」=「Then why don't we have a little more fun together?」
 「んく……ぷはぁ～！ 生き返るぅ」=「Ngh... Pwah~! I'm coming back to life.」
-「いい飲みっぷりだね」=「That's a good drink.」
+「いい飲みっぷりだね」=[You really know how to down a glass (of milk), huh?]
 「あれぇ？ きみも飲み物でも買いに来たのー？」=「Huh? Did you come here to buy a drink too?」
 「暑いもんねぇ。水分補給しなきゃ死んじゃうよぉ」=「It sure is hot. If you don't hydrate, you'll die.」
 「そうだね。ついでになにか駄菓子でも買っていこうかなって」=「Yeah. I figured I'd buy some candy while I'm at it.」
@@ -202,7 +202,7 @@
 「……買わないよ？」=「...I won't buy it, okay?」
 「冗談だってぇ」=「I was just kidding.」
 「そういえば……もし夜に一人で田んぼの近く歩く時は、あんまり近づかない方がいいよぉ？」=「Come to think of it... If you're walking around the fields alone at night, don't get too close, okay?」
-「そうなの？」=[You think?]
+「そうなの？」=[Really?]
 「田んぼと道の境目って、ふとした時にずるっと地滑りするからさぁ～」=「The border between the fields and the road always slips when it suddenly hits the ground.」
 「うっかり落ちちゃうとシャレにならないでしょー？ 一人だと助けてもらえもしないし」=「It wouldn't be funny if you accidentally fell, right? If you're alone, they won't even help you.」
 「夜はなるべく田んぼの近くは歩かない！ 鉄則ね？」=「I don't walk as close to the fields as possible at night! Isn't that an ironclad rule?」
@@ -831,7 +831,7 @@
 「ん～……買い食いとかぁ？ って言っても、わたし、あんまり歩きながら食べるのは好きじゃないしー……」=「Hmm... Maybe I should buy something to eat? But I don't really like eating while walking...」
 「落ち着いて食べたいからねぇ」=「I want to eat it calmly.」
 「……あ、そうだ♪ あるといえばあるよ～？」=「...Ah, that's right♪ There is, isn't there?」
-「なに？」=「What?」
+「なに？」=[What?]
 「ちゅーとか、手、繋いだりとか♪ 気が向いたらしてほしいなぁ？」=「Like kissing, holding hands♪ If you feel like it, I want you to do it, okay?」
 「ここは射的やってるお店だねぇ」=「This is a shooting gallery.」
 「コルク銃に細工してあるんじゃないかってくらい当たらないんだよねぇ……わたし」=「I can't hit a cork gun so hard that I think it's been tampered with...」
@@ -1064,7 +1064,7 @@
 「なに笑ってるの？」=「What are you laughing at?」
 「いや、最初は話してばっかりで冷やかしだけだと悪いなぁ、って思ってたのに」=「Well, at first I thought it'd be bad if you just kept talking and teasing me.」
 「今はそういうの、気にしなくなったなと思って」=「I don't think I care about that anymore.」
-「おはよう」=「Good morning.」
+「おはよう」=[Morning.]
 「おはよぉー。きみは今日も元気だねぇ」=「Morning. You're as energetic as ever today.」
 「俺が元気というより、君の元気がなさげというのが正しいような」=「It's more accurate to say that I'm not doing well, but that you don't seem to be doing well.」
 「これがわたしのスタイルだから、しょうがないねー」=「This is my style, so it can't be helped.」
@@ -1296,7 +1296,7 @@
 「確かに出そうだよね。君の本棚はどんな感じ？」=「Yeah, you're right. What's your bookshelf like?」
 「うーん……四コマ漫画が多いかなぁ」=「Hmm... I wonder if there's a lot of four-panel manga.」
 「なんか甘いもの食べたいかも……買ってきて！」=「I want to eat something sweet... Go buy something!」
-「いいよ」=「It's okay.」
+「いいよ」=[Sure.]
 「ありがと～♪ って、ウソウソ、ホントに行かないでってばぁ！ 言ってみただけ～」=「Thank you~♪ No way, no way, seriously, don't go! I was just trying to tell you~」
 「晴れてる日にしたいことといえばなーんだ？」=「What do you want to do on a sunny day?」
 「日があたるところでのんびりしたいかな」=「I'd like to take it easy in the sun.」
@@ -1854,7 +1854,7 @@
 「えぇ～……ざぁんねん。せっかく出かける気分だったのにぃ」=「Whaaat~... Too bad. I was finally in the mood to go out.」
 「二人きりだし、水着の感想でも教えてもらおっかな？ 存分に褒めていいよ～？」=「It's just the two of us, so why don't you tell me how you feel about your swimsuit? You can praise me to your heart's content~」
 「ほー」=「Oh?」
-「ふーん」=「Hmm.」
+「ふーん」=[Hmmm.]
 「はー？」=「Huh?」
 「そんなにやる気ないけど……二人でやるなら、いいかなぁ？」=「I don't really feel like it, but... if it's just the two of us, is that okay?」
 「ここいいよねぇ、ゆったりできて」=「This place is nice, isn't it? It's nice and relaxing.」
@@ -2079,7 +2079,7 @@
 「そんなにしたいなら……一生の思い出にするくらいならぁ……」=「If you want to do it that badly... If you want it to be a lifelong memory...」
 「シてあげなくもぉ……ないけどぉ……優しくしてよぉ？」=「I don't have to... do it for you, but... be gentle, okay?」
 「あれぇ？ なんか……人、多くなぁい？」=「Huh? Isn't there... a lot of people?」
-「いつもと違うエッチがしたいなと思って、俺が声をかけたんだ。ダメかな？」=[Someone I called. I want to try something different today. Could we?]
+「いつもと違うエッチがしたいなと思って、俺が声をかけたんだ。ダメかな？」=[I thought we could do something different today, you see. Could we?]
 「うわー、恋人他の男に抱かせるって、どうなのぉ？」=「Wow, what do you think about having your lover hold you by another man?」
 「まぁ、どうしてもしたいみたいだし、いいけどさぁ……今度埋め合わせ、してね？」=「Well, it seems like you really want to do it, so it's fine... but make up for it next time, okay?」
 「ありがとう。満足してもらえるように頑張るね」=[Thanks. I'll do my best so that you enjoy it too.]
@@ -2096,15 +2096,15 @@
 「エッチだねぇ～、きみってば♪ ま、わたしも興味あるからいいよぉ」=「You're such a pervert♪ Well, I'm interested too, so it's fine.」
 「……んふふ、すごいことになっちゃいそうだねー♪」=「...Hehehe, this is going to be amazing♪」
 「ようやく入って来たねぇ～。我慢できなくなっちゃったかなぁ？」=「You finally came in~. I wonder if I can't hold back anymore?」
-「……見てたらエッチしたくなって……いいかな？」=[....I kinda wanna have sex after all that... could we?]
+「……見てたらエッチしたくなって……いいかな？」=[....Watching's made me feel like doing it... could we?]
 「んふふ……そうだよねぇ、見てたらそりゃぁ……ね♪」=「nfufu...you're right, that's because...looking at it♪」
 「いいよ……♪ 少しものたりないなぁ～、って思ってたから……♪」=「It's okay...♪ I was just thinking that there's not enough...♪」
 「お邪魔しちゃって悪いんだけどぉ……わたしも混ぜてくれない？」=「Sorry for intruding, but... could I join you?」
 「お任せするよー」=「I'll leave it to you.」
 「ありがと……♪ 入れてくれた分はお返し出来るようにがんばろうかなぁ♪」=「Thank you...♪ I'll do my best to repay you for putting it in♪」
 「ちょぉ……覗いてたの～？」=「Hey... Were you peeking?」
-「ごめん……悪いとは思ったんだけど、つい見惚れちゃって……」=[Sorry... I did feel pretty bad but, I couldn't look away....]
-「その、さ……見てたらエッチしたくなっちゃったんだけど、これからどうかな？」=[Say, uhm... I kinda can't contain myself after seeing that, how about we have sex?]
+「ごめん……悪いとは思ったんだけど、つい見惚れちゃって……」=[Sorry... I do feel bad about it but, I just couldn't help but get mesmerized...]
+「その、さ……見てたらエッチしたくなっちゃったんだけど、これからどうかな？」=[And erhm, you see... watching you made me wanna do it, so how about you and I, you know?]
 「わぁ……えっと、居たんだぁ……？ あははぁ……」=「Wow... Umm, you're here...? Ahahaa...」
 「見られちゃったこっちも悪いし……いいよ～」=「It's my fault for being seen... It's okay.」
 「やだー、トイレにされちゃうー？ なーんて、冗談冗談♪」=「Nooo, are you going to use me as a toilet? Just kidding, just kidding♪」

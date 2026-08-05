@@ -336,7 +336,7 @@
 「だろ？ 良かったら一口やろうか？」=「Right? Would you like a bite?」
 「先に食べちゃっていいの？ ならもらっちゃおうかな」=「Can I eat it first? Then I guess I'll take it.」
 「ほら口開けとけよ……」=「Come on, open your mouth...」
-「ん……」=[Nn....]
+「ん……」=[Mm....]
 「どうだ？ 美味いか？」=「How is it? Is it good?」
 「うん、しっかり甘いんだけど、いちごの酸味もちゃんと感じられて、すごい爽やかな美味しさだね」=「Yeah, it's really sweet, but I can still taste the sourness of the strawberries. It's so refreshing.」
 「へぇ、中々悪くない食レポじゃん。よっしゃ、んじゃ頂くか……ん、おぉ？！ 本当に美味ぇな」=「Wow, that's not a bad food repo. Alright, let's eat... Mm, ohh?! It really is delicious.」
@@ -372,7 +372,7 @@
 「スイカか、いいじゃねぇか！ どこで割るんだ？」=「A watermelon, huh? Sounds good! Where are we going to break it?」
 「いや、流石に丸々一個は買わないけど……そんなに食べきれないし、スイカ割りもしないから」=「No, I won't buy a whole one, but... I can't eat that much, and I don't break watermelons.」
 「なんだよ……せっかくカブトとかクワガタ狙えるチャンスなのに」=「What the hell...? This is my chance to go for a turnip or stag beetle.」
-「そうなの？」=[You think?]
+「そうなの？」=[Really?]
 「スイカ割った後、飛び散った汁そのままにしとくと、次の日の朝、すっげぇ虫が集ってるんだぜ？」=「If you leave the juices scattered after you break the watermelon, you'll get a lot of bugs the next morning, you know?」
 「それは、結構興味があるけど……今回はやめとくよ」=「I'm pretty interested in that, but... I'll pass this time.」
 「おう、そん時は誘ってくれよな」=「Yeah, if that happens, invite me.」
@@ -484,7 +484,7 @@
 「唐突過ぎんだろ？ 大体ここはお前の言う通りただ暗いってだけで、怖いもんなんかなんもねぇぞ？」=「It's too sudden, isn't it? Besides, like you said, it's just dark here. There's nothing to be afraid of.」
 「そうだね……ちょっと幻想的に感じるくらいかな」=「Yeah... I think it's a little fantasy-like.」
 「まぁ、それは何となくわかるけどな……でもまぁ、アタシはちょっと嫌な気分にもなるんだよな」=「Well, I can kind of understand that... But, well, I feel a little bad about it.」
-「どうして？」=「Why?」
+「どうして？」=[Why?]
 「訳わかんねぇ授業の事とか、宿題の事とか思い出しちまうからな」=「I can't help but think about incomprehensible classes and homework.」
 「……あ、宿題」=「...Oh, homework.」
 「え……本当に今思い出したの？」=「Huh...? You really just remembered?」
@@ -539,7 +539,7 @@
 「アタシは正直苦手なんだよなぁ」=「Honestly, I'm not good at it.」
 「まあ、正直面倒くさいもんね」=「Well, to be honest, it's a pain.」
 「お前、アタシより出来る割にこういう気持ち分かってくれるんだな。正直、嬉しいぜ」=「You understand these feelings, even though you can do it better than me. Honestly, I'm happy.」
-「ちょっと休憩しない？」=「Why don't we take a break?」
+「ちょっと休憩しない？」=[Wanna take a little break?]
 「はぁ～、アイスコーヒーうめぇ……」=「*sigh* Iced coffee's so good...」
 「炭酸系かと思ったんだけど、意外だね」=「I thought it was carbonated, but that's surprising.」
 「まぁ、キンキンに冷えた炭酸もいいんだけどよ……今ちょっと甘いのは遠慮したい気分だからさ」=「Well, chilled carbonation is good too... I don't want to make it a little sweet right now.」
@@ -1408,7 +1408,7 @@
 「んんー……そういう話はむず痒いな」=「Hmm... That kind of talk is kind of embarrassing.」
 「全然問題ないぜ！ 逆に誘ってくれた礼を言いたいくらいだからな」=「It's not a problem at all! On the contrary, I want to thank you for inviting me.」
 「ふぅん」=「Hmm.」
-「あ～……」=「Ah~...」
+「あ～……」=[Ah~.....]
 「はぁ……」=[Haah.....]
 「なぁ、[Pあだ名]……お前、エッチしたくねえか……アタシは結構したいんだけど、どうだ？」=「Hey, [Pあだ名]... Don't you want to have sex...? I want to do it a lot. What do you think?」
 「メシなら全然OKだぜ。今なら何でも食べれそうだからな」=「Food's totally okay. I think I can eat anything right now.」
@@ -1577,7 +1577,7 @@
 「今ちょっと色々忙しくってさ、また今度な！」=「I'm a little busy right now, so I'll see you next time!」
 「任せろ！ 一緒にガンガン動きまくって、バッチリ脂肪燃やしてやるよ！」=「Leave it to me! I'll move all over the place with you and burn your fat!」
 「なぁ……やっぱここ、カフェって呼ばねぇとマズいと思うか？」=「Hey... Do you think we should call this a cafe after all?」
-「え、どうして？」=「Huh? Why?」
+「え、どうして？」=[Eh, what? Why?]
 「いや前に、珍しく観光客にこの店の事聞かれてさ……その喫茶店ならあっちにあるぜって言っちまったんだけど……大丈夫だよな？」=「Well, a tourist asked me about this place for once before... I told them that cafe is over there... You're okay, right?」
 「まぁ、大丈夫だと思うけどね」=「Well, I think it'll be fine.」
 「大体、喫茶店とカフェは、なんか違いがあんのか？」=「What's the difference between a cafe and a cafe, anyway?」
@@ -2134,8 +2134,8 @@
 「お前からやらしい気配を感じる……今はダメだ」=「I sense a lewd aura coming from you... Not now.」
 「お前がいいなら……アタシは構わねぇぜ」=「If you're okay with it... I don't mind.」
 「うわ……お前、これ……見てた、のか？」=「Whoa... Did you... see this?」
-「ごめん……悪いとは思ったんだけど、つい見惚れちゃって……」=[Sorry... I did feel pretty bad but, I couldn't look away....]
-「その、さ……見てたらエッチしたくなっちゃったんだけど、これからどうかな？」=[Say, uhm... I kinda can't contain myself after seeing that, how about we have sex?]
+「ごめん……悪いとは思ったんだけど、つい見惚れちゃって……」=[Sorry... I do feel bad about it but, I just couldn't help but get mesmerized...]
+「その、さ……見てたらエッチしたくなっちゃったんだけど、これからどうかな？」=[And erhm, you see... watching you made me wanna do it, so how about you and I, you know?]
 「だよなぁ……お前だったらそうなるって思ってたぜ」=「Yeah... I knew you'd do that.」
 「もちろんOKだぜ！ あれでなんも無きゃ、逆にこっちから誘ってるつうの」=「Of course I'm okay with it! If it's nothing, I'll be the one inviting you instead.」
 「まぁ、お前ならそう来るよな……アタシはまぁ、別にいいけどよ」=「Well, that's what you'd think... Well, I don't really mind.」
@@ -2159,9 +2159,9 @@
 「プールでエッチってお前、すぐ汗とか流せて便利じゃねぇか」=「Dirty in the pool? Isn't it convenient that you can wash off your sweat and stuff right away?」
 「また、三人で絡みてぇのか？ いいぜ、遊んでやるよ」=「Do you want the three of us to get involved again? Fine, I'll play with you.」
 「おぅ……エロいお前をおびき出すのに成功したってか？」=「Oh... So you're saying I succeeded in luring you out, huh?」
-「……見てたらエッチしたくなって……いいかな？」=[....I kinda wanna have sex after all that... could we?]
+「……見てたらエッチしたくなって……いいかな？」=[....Watching's made me feel like doing it... could we?]
 「なんだ、コイツはどこから来たんだ？」=「What? Where did this guy come from?」
-「いつもと違うエッチがしたいなと思って、俺が声をかけたんだ。ダメかな？」=[Someone I called. I want to try something different today. Could we?]
+「いつもと違うエッチがしたいなと思って、俺が声をかけたんだ。ダメかな？」=[I thought we could do something different today, you see. Could we?]
 「お前って、本当にエロい事ばっか考えてんだな……」=「You really only think about erotic things, don't you...」
 「まぁいいぜ、まとめて面倒見てやるよ」=「Well, whatever. I'll take care of you all at once.」
 「ありがとう。満足してもらえるように頑張るね」=[Thanks. I'll do my best so that you enjoy it too.]

@@ -52,7 +52,7 @@
 「ウチはもちろん好きやでー」=「I like it, of course.」
 「涼しそうだね」=「It looks cool.」
 「風呂上がりやからなー、セクシーやろー？」=「I just got out of the bath. Sexy, isn't it?」
-「そうだね」=[It really was.]
+「そうだね」=[Yeah.]
 「あー、流したー。そこは照れるところやろー？」=「Ahh, I let it slide. Isn't that a bit embarrassing?」
 「もう十分照れてるよ」=「You're already blushing enough.」
 「へー？ そうなーん？」=「Huh? Really?」
@@ -133,7 +133,7 @@
 「……ホンマにたまにだけやで」=「...Seriously, just once in a while.」
 「やったー！」=「Yay!」
 「はは、喜びすぎやって」=「Haha, you're overjoyed.」
-「何してるの？」=[What'cha doing?]
+「何してるの？」=[What're you doing?]
 「待ってたら分かるで」=「You'll understand if you wait.」
 「わっ、蛍だ」=「Whoa, fireflies.」
 「綺麗やろー？」=「It's pretty, isn't it?」
@@ -314,7 +314,7 @@
 「検討しておくよ」=「I'll consider it.」
 「感想待ってるわー」=「I'll be waiting for your feedback.」
 「なー、ブランコに乗らへん？」=「Hey, wanna ride the swing?」
-「いいよ」=「It's okay.」
+「いいよ」=[Sure.]
 「こうしてると、子供の頃に戻ったみたいやな」=「When I'm like this, it's like I've returned to being a kid.」
 「小さい頃はよく乗ってたの？」=「Did you ride it a lot when you were little?」
 「もちろん、全部の遊具で遊びまくってたで！」=「Of course, I was playing with all the playground equipment!」
@@ -340,7 +340,7 @@
 「ええ返事やな、ほな、こっち持ってー」=「Yeah, that's my answer. Here, take this.」
 「おお、もうずっしりだね……」=「Ooh, it's so heavy...」
 「結構拾ったからなぁ……」=「I picked up quite a few of them...」
-「えらいね」=「That's great.」
+「えらいね」=[Amazing.]
 「褒めてもなんも出せへんでー？」=「There's nothing to praise me for, is there?」
 「ボランティアだからね」=「I'm volunteering.」
 「せやな、ま、綺麗な地元が最大の報酬やなー」=「Yeah, well, a pretty place like this is the biggest reward.」
@@ -423,7 +423,7 @@
 「せやろー？ 恋人の特権やでー？」=「Isn't that right? It's a special privilege for lovers?」
 「恋人で良かったよ」=「I'm glad we're lovers.」
 「ウチも、あんたと一緒になってよかったわ」=「I'm glad I joined you.」
-「それはどうして？」=「Why is that?」
+「それはどうして？」=[And why's that?]
 「ふふ、毎日が楽しいからな」=「Hehe. Every day is fun, after all.」
 「それはよかったよ」=「I'm glad to hear that.」
 「ほら、花火を楽しもな」=「Come on, enjoy the fireworks.」
@@ -564,7 +564,7 @@
 「うぐっ！」=「Uguh!」
 「あんたにも効くみたいやなぁ～？」=「Looks like it'll work on you too, huh?」
 「はぁ……病むわぁ……」=「Hah... I'm sick...」
-「どうしたの？」=[Go for it.]
+「どうしたの？」=[What's wrong?]
 「推してるコンビが解散してしまってん」=「The duo I'm recommending has been disbanded.」
 「それは悲しいね」=「That's sad.」
 「ネタは動画配信サイトであげてくれてるんやけど、もう新ネタを見れへんと思うとなぁ」=「They're posting it on video streaming sites, but when I think about how I won't be able to watch any new ones anymore...」
@@ -601,7 +601,7 @@
 「それは良かった」=「That's good to hear.」
 「定期的に開かれとるから、友達とかと行くのもええと思うで」=「It's open regularly, so I think it's good to go with friends.」
 「んー、どの飲み物にしようかな……」=「Hmm, which drink should I get...?」
-「えいっ」=「Eigh!」
+「えいっ」=[Ei--!]
 「わぁっ！？」=「Wah?!」
 「ふふ、ええリアクションやなー」=「Hehe, yeah, that's a good reaction.」
 「実際にされると滅茶苦茶びっくりするね」=「It really surprises me when you actually do it.」
@@ -695,7 +695,7 @@
 「っはー、自分恥ずかしいやっちゃなー」=「Hahh, I'm so embarrassed.」
 「え、そ、そうかな」=「Huh? Y-You think so?」
 「もう、こういうのは……」=「I can't do this anymore...」
-「ちゅっ……♡」=「Mwah...♡」
+「ちゅっ……♡」=[*Kiss*...♡]
 「言葉やなくてええやろ？」=「You don't have to say it, do you?」
 「……なるほど、そうかも」=「...I see. You might be right.」
 「いやー、今の顔おもろかったなー、写真撮っとけばよかったわ」=「Man, that face was so funny. I should've taken a picture.」
@@ -722,7 +722,7 @@
 「せやでー、楽しみは最後までとっておくのが好きや」=「Yeah, I like to save the fun for last.」
 「賞レースとかは順番がランダムだったりするけど、それはいいの？」=「For award races and the like, the order of events is random. Is that okay?」
 「そういう運も賞レースの見どころやな、どのコンビがどのネタをやるかも分からんし」=「That kind of luck is one of the highlights of the award race. We don't know which pair will do what.」
-「なるほどね」=「I see.」
+「なるほどね」=[Makes sense.]
 「話してたらアイス溶けそうになってんで」=「The ice cream was melting while we were talking.」
 「おっとと、そろそろ食べきらないとね」=「Whoops, it's about time to finish eating.」
 「ウチも、はよ食べな」=「Hurry up and eat too.」
@@ -803,7 +803,7 @@
 「ウチらって話合うやんなー？」=「We're gonna talk about this, right?」
 「確かに君となら話しやすいかも」=「It might be easier to talk to you.」
 「めっちゃ褒めてくれるやん」=「You're really praising me.」
-「本心だよ」=「I mean it.」
+「本心だよ」=[It was how I really felt.]
 「ウチもあんたと話すんは楽しいで」=「It's fun to talk to you too.」
 「それは光栄かな」=「That would be an honor.」
 「打てば響くってこういう事を言うんかな？」=「Is this what they say when you hit something, it resonates?」
@@ -907,7 +907,7 @@
 「あー、それもあるかもしれへんわ、今度食い倒れでもしに行くかー？」=「Ah, maybe that's part of it. Want to go eat some food next time?」
 「まーまー、考えといてーな」=「Now, now, think about it.」
 「あっ、おはよーシャワー借りたでー」=「Ah, good morning. I borrowed the shower.」
-「いい匂いだね」=「It smells good.」
+「いい匂いだね」=[Smells nice, huh?]
 「まず最初に言うのが匂いって変態やなー」=「The first thing you need to say is that smell's a pervert.」
 「それほどでもないよ」=「It's not that bad.」
 「褒めてないでー」=「Don't praise me!」
@@ -934,7 +934,7 @@
 「手……加わってるかぁ？」=「Are you... taking part in this?」
 「……素材そのままの味だね」=「...It tastes just like the ingredients.」
 「しかしここまで見入ってしまったし、これも芸術なのかもしれへんなぁ」=「Still, I've been staring at it this whole time, so maybe this is an art form.」
-「確かにそうかも」=「Yeah, that might be true.」
+「確かにそうかも」=[You've got a point there.]
 「ほな、次の展示品に行こか」=「Okay, let's go to the next exhibit.」
 「かーっ！ ガーターかぁ」=「Kahh! Garter, huh?」
 「そんな時もあるよね」=「There are times like that.」
@@ -1009,7 +1009,7 @@
 「お手並み拝見やな」=「Let's see what you can do.」
 （んん……なんか、下半身が熱いっていうか、気持ちいいような……）=(Mmm... My lower body feels kind of hot, or maybe it feels good...)
 「ちゅうう……♡ ちゅっ♡ ちゅう♡」=「Mwah... ♡ Mwah♡ Mmwah ♡」
-「……なるほど」=「...I see.」
+「……なるほど」=[....I see...]
 「あっ、起きたんやなー？ こっちは先に起きてたから相手してたでー」=「Ah, you're awake, aren't you? I woke up early, so I was dealing with you.」
 「助かるよ、続けてくれる？」=「Thanks. Can you keep going?」
 「もちろんええで♡」=「Of course it's fine! ♡」
@@ -1380,7 +1380,7 @@
 「かすうどんとかおすすめやで！」=「I recommend kasu udon!」
 「今度オススメのだしで作ったるわ」=「I'll make it with the soup I recommend next time.」
 「合わんくて残念やなぁ」=「It's too bad it doesn't fit.」
-「あ」=「Ah.」
+「あ」=[Ah.]
 「うん」=[Yeah.]
 「いや、阿吽の呼吸やないねん」=「No, it's not an a-un breath.」
 「あんたも祭りを楽しんでるみたいやな、結構結構」=「Looks like you're enjoying the festival too. That's pretty good.」
@@ -1727,7 +1727,7 @@
 「今はええかなー」=「I wonder if it's okay for now.」
 「身体を動かす時が来たようやな」=「Looks like it's time to get some exercise.」
 「ちょっとその気分ちゃうねん」=「That's a little embarrassing.」
-「……[Pあだ名]」=「...[Pあだ名].」
+「……[Pあだ名]」=[.......[Pあだ名].]
 「なに？ [Hあだ名]」=「What? [Hあだ名].」
 「ふふっ、あだ名で呼び合うのってええなー♡」=「Hehe, it's nice to call each other by nicknames. ♡」
 「はー……ウチもカッカしすぎたわ、もうええよ」=「Hahh... I was too cool, too. Geez.」
@@ -2181,12 +2181,12 @@
 「お風呂でエッチは……のぼせんように気を付けんとな？」=「Dirty in the bath... I'll have to be careful not to overdo it, okay?」
 「ホンマ！？ 二言は無しやで？」=「Really?! Don't go back on your word?」
 「えっ、ちょっ……なんでここにおるん！？」=「Huh? Wait... Why are you here?!」
-「ごめん……悪いとは思ったんだけど、つい見惚れちゃって……」=[Sorry... I did feel pretty bad but, I couldn't look away....]
-「その、さ……見てたらエッチしたくなっちゃったんだけど、これからどうかな？」=[Say, uhm... I kinda can't contain myself after seeing that, how about we have sex?]
+「ごめん……悪いとは思ったんだけど、つい見惚れちゃって……」=[Sorry... I do feel bad about it but, I just couldn't help but get mesmerized...]
+「その、さ……見てたらエッチしたくなっちゃったんだけど、これからどうかな？」=[And erhm, you see... watching you made me wanna do it, so how about you and I, you know?]
 「ホンマすけべやなぁ……」=「You really are a pervert...」
 「……ええで♡」=「...Yeah, ♡」
 「え、誰！？」=「Huh? Who are you!?」
-「いつもと違うエッチがしたいなと思って、俺が声をかけたんだ。ダメかな？」=[Someone I called. I want to try something different today. Could we?]
+「いつもと違うエッチがしたいなと思って、俺が声をかけたんだ。ダメかな？」=[I thought we could do something different today, you see. Could we?]
 「あんたって変態やなぁ……」=「You're such a pervert...」
 「まあ、受け入れ始めてるウチもかもしれへんけど」=「Well, maybe I'm just starting to accept it.」
 「ありがとう。満足してもらえるように頑張るね」=[Thanks. I'll do my best so that you enjoy it too.]
@@ -2202,7 +2202,7 @@
 「ウチらの事見てたん！？」=「Were you watching us?!」
 「ここでエッチって、あんたヤバいな？」=「It's dangerous to have sex here, isn't it?」
 「やっぱりそこにおったんやなぁ」=「So that's where you were after all.」
-「……見てたらエッチしたくなって……いいかな？」=[....I kinda wanna have sex after all that... could we?]
+「……見てたらエッチしたくなって……いいかな？」=[....Watching's made me feel like doing it... could we?]
 「楽しもか～」=「Fun too, huh?」
 「ウチも混ぜてくれへん？」=「Would you like to join us?」
 「ええっ、ホンマに！？」=「Whaaat? Really?!」

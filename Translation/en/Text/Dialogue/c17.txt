@@ -30,7 +30,7 @@
 「だよね。どれにしようかな……」=「Yeah. Which one should I choose...?」
 「食べたいと思ったものに必要な栄養素が入っていると聞いたことがありますわよ」=「I've heard it contains the nutrients necessary for what you want to eat.」
 「あら、奇遇ですわね。貴方もここにいらしたなんて」=「Oh, what a coincidence. I didn't know you were here.」
-「やあ。何してるの？」=「Hey. What are you doing?」
+「やあ。何してるの？」=[Hey. What'cha up to?]
 「何もしないをしていますの。貴方もですかしら？」=「I'm doing nothing. I wonder if you're doing the same?」
 「そんなところ。何もしないを目的にぶらぶらしてくるよ」=「Something like that. I'll wander around for the purpose of doing nothing.」
 「ええ、お気をつけて」=「Yes, be careful.」
@@ -371,7 +371,7 @@
 「そうですか……今のは忘れてくださいな」=「I see... Please forget about that.」
 （告白すると決めたけど、すごく緊張するな。でも、もう気持ちを伝えたい。もし、ふられた時は……その時、考える）=(I decided to confess, but I'm really nervous. But I want to tell her how I feel now. If she dumps me... I'll think about it then.)
 「とても綺麗ですわね。そう思うでしょう？」=「It's very beautiful. Don't you think so?」
-「……うん」=[...Yeah.]
+「……うん」=[........Yeah.]
 「あら、心ここにあらずといったご様子ですこと。何に気を取られているんですの？ 花火より綺麗なものでもありますかしら？」=「Oh, you don't seem to have a heart. What are you so preoccupied with? Is there something prettier than fireworks?」
 「……うん。ある」=「...Yeah. I do.」
 「あら、もしかして、私とか？」=「Oh, are you talking about me?」
@@ -420,7 +420,7 @@
 「何かあって、君が田んぼに落ちちゃったらって思うと……」=「When I think about what might happen if you fall into the fields...」
 「この辺りの道でしたら、私が慣れてますから大丈夫ですわよ。安心なさい」=「I'm used to the roads around here, so it's fine. Don't worry.」
 「本当に上手になりましたわね」=「You've really gotten good at this.」
-「ん？ 何が？」=「Hm? What do you mean?」
+「ん？ 何が？」=[Mm? What is?]
 「エスコートですわ。最初はエスコートのエの字もできなかったのに……感慨深くなりましたの」=「I'm escorting you. I couldn't even write 'E' at first... but now I'm moved.」
 「エスコートとか未経験だったから。ごめんね」=「I've never been escorted before. I'm sorry.」
 「謝ることではありませんわ。貴方はとても努力してくださったもの。今ではパーティに出ても問題ないほどですわよ？」=「There's no need to apologize. You've worked so hard. It's not a problem for you to attend the party now, you know?」
@@ -653,7 +653,7 @@
 「かまいませんわよ。なんでもお聞きなさい」=「I don't mind. Ask me anything.」
 「少し休憩しない？」=「Why don't we take a break?」
 「かまいませんわ」=「I don't mind.」
-「はい、どうぞ」=「Here you go.」
+「はい、どうぞ」=[Here you go.]
 「ありがとうございます」=「Thank you very much.」
 「聞き慣れない飲み物を注文してたけど、ハーブティーかな？」=「I ordered an unfamiliar drink. Is it herbal tea?」
 「ええ。ローズヒップハイビスカスティーですわ」=「Yes. Rose hip hibiscus tea.」
@@ -915,7 +915,7 @@
 「私、いいことを思いついたんですの」=「I came up with a good idea.」
 「ん？ どんなこと？」=「Hm? What do you mean?」
 「私がストライクを１つでも取ったら、なんでも言うことをきいてくださる？」=「If I take even one strike, will you do whatever I say?」
-「うん、いいよ」=[Sure, let's go.]
+「うん、いいよ」=[Yeah, sure.]
 「言いましたわね！？ 言質取りましたわよ！？ 必ず、なんでも言うことをきいていただきますわよ！？」=「Didn't I tell you!? I took your word for it! You'll definitely do whatever I say!」
 「そのためにも、ストライク取れるよう頑張ろう！」=「And for that, let's do our best to get a strike!」
 「ぐ……ぬ～！ やっぱり！ 私がまだ一度もストライクを取れていないから、そんなに余裕綽々でらっしゃるんでしょ！」=「Guh... Ngh! I knew it! You're so calm because I haven't taken a strike yet!」
@@ -970,7 +970,7 @@
 「ええ、呼び方を少し変えるだけで、ドキドキしますわね」=「Yes, just changing the way you call me makes my heart race.」
 「ここは常設展示室だから……いつも同じ作品が展示されているってことかな？」=「This is a permanent exhibition room, so... does that mean the same works are always on display?」
 「そういうところもありますけど、こちらは所蔵作品がわりと多いので、入れ替えがされていることもありますわよ」=「That's part of it, but there are quite a few of them in the collection, so there are times when they're replaced.」
-「よく知ってるね」=「I'm surprised you know.」
+「よく知ってるね」=[You know your stuff.]
 「この程度、常識ですわよ」=「This much is common sense.」
 「常設展示ということは、それ以外の展示もあるってこと？」=「If it's a permanent display, does that mean there are other exhibits as well?」
 「企画展というものがそうですわ。別の美術館から借りた作品などを、期間限定で展示しますの」=「It's called a 'planned exhibition'. We're going to display works borrowed from another museum for a limited time.」
@@ -1491,7 +1491,7 @@
 「別のお話になさい」=「Let's talk about something else.」
 「……貴方ですの。ふう……」=「...It's you. Phew...」
 「……そうですの」=「...I see.」
-「ふぅん……」=「Hmm...」
+「ふぅん……」=[Hmmm.....]
 「……あら……」=「...Oh...」
 「っ……我慢……できなくて……鎮めて欲しいのですが……」=「I can't... hold back... so I want you to calm down...」
 「……早く……なさって……」=「...Hurry... up...」
@@ -1585,7 +1585,7 @@
 「こんな所でウロウロなさらないで。さっさと消えなさい」=「Don't wander around in a place like this. Get lost already.」
 「告白されて、悪い気はしませんけど……ごめんあそばせ。お付き合いはできませんわ」=「I don't feel bad after being confessed to, but... I'm sorry. I can't go out with you.」
 「ねえ……[Pあだ名]」=「Hey... [Pあだ名].」
-「ん？ どうしたの？」=[Nn? What's up?]
+「ん？ どうしたの？」=[Mm? What's wrong?]
 「ふふっ。呼びたかっただけですわ」=「Hehe. I just wanted to call you.」
 「付き合う……彼女……私、今、貴方に男女交際を求められているのかしら？」=「I'm going out with her... Is she... asking me to go out with you right now?」
 「……うん、そう。俺の彼女になって！」=「...Yeah, that's right. Be my girlfriend!」
@@ -2150,7 +2150,7 @@
 「……貴方、不審者の気配を漂わせていますわよ？」=「...You have the presence of a suspicious person, don't you?」
 「皆さんに満足していただけるとよろしいのですけど……」=「I hope everyone is satisfied...」
 「知っていましたわ。貴方の視線……私のすべてに絡んできてましたもの……」=「I knew. Your gaze... has been intertwined with everything about me...」
-「……見てたらエッチしたくなって……いいかな？」=[....I kinda wanna have sex after all that... could we?]
+「……見てたらエッチしたくなって……いいかな？」=[....Watching's made me feel like doing it... could we?]
 「これから……貴方とエッチなことを……」=「I'm... going to have sex with you from now on...」
 「いらして……私も欲しいんですの……睦びますわよ……」=「Come here... I want it too... It'll be nice...」
 「プールの中で一つになるなんて……どんな感覚になるのですかしら……」=「I wonder what it feels like to be one in the pool...」
@@ -2159,14 +2159,14 @@
 「こんなところで一つになるなんて、なんてインモラルな……」=「To think we'd become one in a place like this... How immoral...」
 「また三人でしますのね……貴方という方は本当に物好きですわ」=「The three of us will do it together again... You really are strange.」
 「覗いてらしたなんて……そんな……いつから……」=「How long have you been... peeking...?」
-「ごめん……悪いとは思ったんだけど、つい見惚れちゃって……」=[Sorry... I did feel pretty bad but, I couldn't look away....]
-「その、さ……見てたらエッチしたくなっちゃったんだけど、これからどうかな？」=[Say, uhm... I kinda can't contain myself after seeing that, how about we have sex?]
+「ごめん……悪いとは思ったんだけど、つい見惚れちゃって……」=[Sorry... I do feel bad about it but, I just couldn't help but get mesmerized...]
+「その、さ……見てたらエッチしたくなっちゃったんだけど、これからどうかな？」=[And erhm, you see... watching you made me wanna do it, so how about you and I, you know?]
 「私の痴態を見て、昂ぶってしまわれたの……？」=「Did you get excited when you saw my foolishness...?」
 「……かまいませんわよ。私も昂ぶりを抑えられませんの……」=「...I don't mind. I can't hold back my excitement either...」
 「破天荒が過ぎますわよ？ ここでなんて……危険ですわ～……」=「You're going too far, you know? It's dangerous... here...」
 「なっ……！？ 何故、貴方がここにいらっしゃるの……？」=「Wha...!? Why are you here...?」
 「あの……そちらの殿方は？」=「Um... Who is that gentleman over there?」
-「いつもと違うエッチがしたいなと思って、俺が声をかけたんだ。ダメかな？」=[Someone I called. I want to try something different today. Could we?]
+「いつもと違うエッチがしたいなと思って、俺が声をかけたんだ。ダメかな？」=[I thought we could do something different today, you see. Could we?]
 「は……？ こちらの殿方も混ざる……？ 私達の睦びに？」=「Huh...? This gentleman will join us...? For our peace?」
 「貴方という人は、どこまでも破廉恥な……しかたありませんわね……貴方のお願いだからきくんですのよ？」=「You're so shameless... I can't help it... I'll do it because it's your request, you know?」
 「ありがとう。満足してもらえるように頑張るね」=[Thanks. I'll do my best so that you enjoy it too.]

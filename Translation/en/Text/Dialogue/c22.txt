@@ -78,7 +78,7 @@
 「わっ？ ……ちょっと、驚かせないでよ」=「Wah? ...Hey, don't scare me like that.」
 「そうね、そろそろ帰ろうと思ってたとこ。またね」=「Yeah, I was just about to head home. See you later.」
 「そっか。気を付けてね」=「I see. Be careful.」
-「楽しかったね」=「That was fun.」
+「楽しかったね」=[That was fun, huh?]
 「そうね！ 帰るのがもったいないくらい」=「Yeah! So much so that it would be a waste to go home.」
 「でも、あんまり遅くなってもなんだし、今日はお開きね」=「But I don't want to be too late, so I'll call it a day.」
 「今日はありがとう！ またね～っ♪」=「Thank you for today! See you later♪」
@@ -252,7 +252,7 @@
 「そんなの……あたしだって……」=「That's... even for me...」
 「ねえ……この後、すぐに帰っちゃう？」=「Hey... Wanna go home right after this?」
 「一つ言っておきたいんだけど……」=「There's one thing I want to say...」
-「なに？」=「What?」
+「なに？」=[What?]
 「もし君がモテるような環境になっても、俺と仲良くしてね？」=「Even if you're in an environment where you'll be popular, make sure you get along with me, okay?」
 「はぁ？ ……ふっふっふ～♪ まったくもう、しょうがないわね！」=「Huh? ...Hehehe~♪ Geez, you're hopeless!」
 「心配しなくても、ちゃーんと近くに居てあげるから安心しなさい♪」=「Don't worry, I'll be right there with you♪」
@@ -751,7 +751,7 @@
 「だから、たまに人のことおちょくってくるけど、ちゃんと聞いてくれるの嬉しいのよ」=「That's why, even though you tease me sometimes, I'm happy that you're listening to me.」
 「……ありがと♪ これからもたくさん話してくれると嬉しいかな！」=「...Thank you♪ I hope you'll continue to talk to me a lot from now on!」
 「そういえばアンタってモテるわよね」=「Come to think of it, you're popular, aren't you?」
-「そう？」=「Really?」
+「そう？」=[Huh.]
 「……なんか、素っ気ない感じが調子乗ってる顔に見えてむかつくわね……」=「...You look like you're getting carried away, but it's kind of annoying...」
 「そんなことないんだけど……それで？ モテてるとして、どうかした？」=「That's not true... So? Assuming you're popular, what's wrong?」
 「アタシって、男子にモテると思うかなって。あんたから見て」=「I thought you might think I was popular with the boys. From your perspective.」
@@ -794,7 +794,7 @@
 「気分転換にはちょうどいいでしょ」=「It's perfect for a change of pace.」
 「たしかに……じゃあ、一緒にやろうかな」=「You're right... Then let's do it together.」
 「それじゃ、最初からね！ アタシの真似するのよ？ ……いっちにー、さんっしー！」=「Okay, let's start from the beginning! Try to imitate me, okay? ...One, two, three!」
-「どうしたの？」=[Go for it.]
+「どうしたの？」=[What's wrong?]
 「この前、君になにか言おうと思ったの、なんだったかなって……全然思い出せなくて」=「I was thinking of saying something to you the other day, and I couldn't remember what it was...」
 「きっとアタシを褒めることだったんじゃない？ 大丈夫、いっぱい褒めてもらってるから！」=「I'm sure it was to praise me, wasn't it? Don't worry, they're praising me a lot!」
 「そう……かな？ ま、いっか。君が嬉しそうだし」=「Really...? Well, whatever. You look happy.」
@@ -832,7 +832,7 @@
 「さっそくエッチなことするの？」=「Are we going to have sex right away?」
 「もちろん。いいかな？」=「Of course. Can I?」
 「スケベね！ いいけどさぁ～♪」=「You're a pervert! Sure, but...♪」
-「おはよう」=「Good morning.」
+「おはよう」=[Morning.]
 「おはよ！ 授業、しっかり受けなさいよ？」=「Morning! Make sure you take your classes properly, okay?」
 「今日も貸し切りなんだ？ 前回ので味しめちゃったもんねー」=「It's reserved today, too? I tasted it last time, after all.」
 「恋人の水着、独り占めできるんだもん♪」=「I can keep my lover's swimsuit all to myself♪」
@@ -985,7 +985,7 @@
 「だ、大丈夫だよ！ そこまでじゃないから……良くなったら戻るよ。それじゃっ」=「I-It's okay! It's not that bad... I'll come back when I'm better. See you!」
 「アタシの行きたいところを優先してもらってたし、あんたに任せるわ」=「You prioritized where I wanted to go, so I'll leave it to you.」
 「なんだかんだ、下調べしてくれてるあんたの方が、楽しいトコ知ってるだろうし」=「For some reason, I'm sure you're the one who knows more about fun things than me, since you've been doing preliminary research.」
-「よろしくね♪」=「Nice to meet you♪」
+「よろしくね♪」=[I'm counting on you~♪]
 「うわ、会っちゃった……」=「Whoa, we met...」
 「もしかして……サボり？」=「Are you... slacking off?」
 「そそそ、そんなわけないでしょっ？ ていうか、あんたの方こそ……」=「O-O-Of course not! And you're the one...」
@@ -1384,7 +1384,7 @@
 「あんたってコーディネートのセンスに自信ある？」=「Are you confident in your sense of coordination?」
 正直ないね=Honestly, I don't.
 あんまりないよ=I don't have much.
-割とあるよ=There's a lot of them.
+割とあるよ=You'd be surprised
 「みんな自信ないものなんだ。それならちょっと安心……いや、何も言ってないけどね！」=「I don't have any confidence in myself. That's a bit of a relief... No, I didn't say anything!」
 「アタシ、結構ジャージが好きかもしれない」=「I think I like tracksuits a lot.」
 いいよね、ジャージ=Nice jersey, huh?
@@ -2118,17 +2118,17 @@
 「いいところなのにぃ……」=「It's such a nice place...」
 「アタシも盛り上げてあげるわ！」=「I'll make you happy too!」
 「あ、やっぱり見てた、おかげでいつもよりオナニーはかどっちゃったじゃない……♪」=「Ah, I knew it. Thanks to you, I was able to masturbate more than usual...♪」
-「……見てたらエッチしたくなって……いいかな？」=[....I kinda wanna have sex after all that... could we?]
+「……見てたらエッチしたくなって……いいかな？」=[....Watching's made me feel like doing it... could we?]
 「……ふっふっふ～♪ ナイスタイミングね！」=「...Hehehe♪ Nice timing!」
 「使ってあげる！ 早速準備するわよ！」=「I'll use it! Let's get ready right away!」
 「誰？ そいつ……」=「Who's that? That guy...」
-「いつもと違うエッチがしたいなと思って、俺が声をかけたんだ。ダメかな？」=[Someone I called. I want to try something different today. Could we?]
+「いつもと違うエッチがしたいなと思って、俺が声をかけたんだ。ダメかな？」=[I thought we could do something different today, you see. Could we?]
 「よく自分の恋人を他の男に触らせられるわね……」=「I'm surprised you let another man touch your own lover...」
 「……ま、いいわよ。あんたの変態せーへきに付き合ってあげる」=「...Well, whatever. I'll play along with your perverted semen.」
 「ありがとう。満足してもらえるように頑張るね」=[Thanks. I'll do my best so that you enjoy it too.]
 「あんた……いたのっ？」=「Were you... there?」
-「ごめん……悪いとは思ったんだけど、つい見惚れちゃって……」=[Sorry... I did feel pretty bad but, I couldn't look away....]
-「その、さ……見てたらエッチしたくなっちゃったんだけど、これからどうかな？」=[Say, uhm... I kinda can't contain myself after seeing that, how about we have sex?]
+「ごめん……悪いとは思ったんだけど、つい見惚れちゃって……」=[Sorry... I do feel bad about it but, I just couldn't help but get mesmerized...]
+「その、さ……見てたらエッチしたくなっちゃったんだけど、これからどうかな？」=[And erhm, you see... watching you made me wanna do it, so how about you and I, you know?]
 「机の上？ 不安定なとこでしたくないんだけど……気を付けてよ？」=「On the desk? I don't want it to be too unstable, but... be careful, okay?」
 「えー？ まぁ……アタシもいいよ」=「Huh? Well... I'm fine too.」
 「っちょ……なに覗いてんのよ！？」=「Hey... What are you peeking at!?」

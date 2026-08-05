@@ -116,7 +116,7 @@
 「私が貴方に食べさせる、というのはいかがでしょう」=「How about I feed you?」
 「そんなの、喜んでＯＫするよ」=「I'd be happy to accept that.」
 「本当ですか？ ありがとうございます。では、いきますね？」=「Really? Thank you very much. I'll be going, then.」
-「あーん」=「Ahhh.」
+「あーん」=[Aaahn.]
 「あーん……うん、美味しい！ 自分で食べるよりずっと美味しいよ」=「Ahhh... Yeah, it's good! It's way better than eating it myself.」
 「もう、私の方が照れてしまいます。それほど美味しいのですか？」=「Geez, I'm the one who's blushing. Is it that good?」
 「それはもう。お返しに俺が食べさせてあげてようか？ そうすればわかるよ」=「That's enough. Want me to feed you in return? Then you'll understand.」
@@ -582,7 +582,7 @@
 「よし、行くよ……それっ。出たのは……裏かな」=「Okay, let's go... That's it. What came out was... the back.」
 「ありがとうございます、これで心置きなくコーヒー牛乳にできます」=「Thank you very much. Now I can turn it into coffee milk without worrying about it.」
 「あの……よければ、ブランコに乗っていきませんか？」=「Umm... Would you like to ride the swing?」
-「うん、いいよ」=[Sure, let's go.]
+「うん、いいよ」=[Yeah, sure.]
 「このブランコ、全然変わりがなくて……まるでここだけ時が止まっているかのようです」=「This swing hasn't changed at all... It's as if time itself has stopped here.」
 「へぇ、思い出深い場所なのかな。よく乗ってたの？」=「Huh, I wonder if it's a memorable place. Did you ride it often?」
 「はい……幼い頃は今のようにゆっくり揺らしながら、飽きることなくいつまでも乗っていました」=「Yes... When I was young, I used to ride it as slowly as I do now, never getting tired of it.」
@@ -848,7 +848,7 @@
 「おはようございます。本日はよろしくお願い致しますね」=「Good morning. I look forward to working with you today.」
 「こちらこそよろしくね。待ち合わせも丁度良かったみたいだね」=「Nice to meet you too. Looks like our meeting was just right.」
 「はい、着いてすぐに貴方のことを見つけましたので。ですが、少しだけ緊張しています」=「Yes, I found you as soon as I arrived. However, I am a little nervous.」
-「そうなの？」=[You think?]
+「そうなの？」=[Really?]
 「やはり初めてのデートなので……何をどうしたら良いのかわからなくて、恐縮するばかりです……」=「This is our first date after all... I don't know what to do, so I'm just apologizing...」
 「まずは何も考えずに、楽しむことから始めたらどうかな？ デートだと思うから緊張するんだよ」=「Why don't you start by having fun without thinking about it? I think it's a date, so I'm nervous.」
 「それが難しいのです……どうすれば良いのでしょう？」=「That would be difficult... What should I do?」
@@ -1023,7 +1023,7 @@
 「あの、今度のお休みにはお祭りがあるのはご存知ですよね？」=「Um, you know there's going to be a festival on your next day off, right?」
 「そういえばそうだね。うーん、どうしようかな……」=「Come to think of it, you're right. Hmm, what should I do...」
 「……もしかして誰とも行く約束はされていないということでしょうか」=「...Could it be that you haven't agreed to go with anyone?」
-「うん、そうだね」=[Yeah, I know.]
+「うん、そうだね」=[Yeah.]
 「では、もし宜しければ私と一緒に回りませんか？」=「Then, if you don't mind, would you like to go around with me?」
 「それは願ったり叶ったりだよ。お願いしてもいいかな？」=「That's a wish and a wish. Can I ask you to do it?」
 「はい、もちろんです。お祭り、楽しみにしていますね」=「Yes, of course. I'll be looking forward to the festival.」
@@ -1503,7 +1503,7 @@
 調べる前に質問するかな=I wonder if I'll ask you a question before I investigate.
 大体後回しかな=I guess I'll put it off for the most part.
 「それが一番でしょうね。早めに疑問を解決できれば、理解に繋がりますものね」=「That's probably for the best. If we can solve the problem quickly, it'll lead to understanding.」
-「……[Pあだ名]」=「...A [Pあだ名].」
+「……[Pあだ名]」=[.......[Pあだ名].]
 「どうしたの？ [Hあだ名]」=「What's wrong? [Hあだ名].」
 「い、いえ……あだ名で呼んでみたくなっただけです」=「N-No... I just wanted to call you by your nickname.」
 「あ……貴方でしたか」=「Oh... It's you.」
@@ -2046,12 +2046,12 @@
 「お手洗いで、ですか？ 何だかマニアックです……」=「In the bathroom? That's kind of maniacal...」
 「な、なんてはしたない所を見られてしまって……」=「I-I was seen in such a shameful place...」
 「まぁ……覗いてらっしゃったの……ですか？」=「Well... were you... peeking?」
-「ごめん……悪いとは思ったんだけど、つい見惚れちゃって……」=[Sorry... I did feel pretty bad but, I couldn't look away....]
-「その、さ……見てたらエッチしたくなっちゃったんだけど、これからどうかな？」=[Say, uhm... I kinda can't contain myself after seeing that, how about we have sex?]
+「ごめん……悪いとは思ったんだけど、つい見惚れちゃって……」=[Sorry... I do feel bad about it but, I just couldn't help but get mesmerized...]
+「その、さ……見てたらエッチしたくなっちゃったんだけど、これからどうかな？」=[And erhm, you see... watching you made me wanna do it, so how about you and I, you know?]
 「そのように申されると……思っておりました」=「I thought... you would say that.」
 「はい……私も、オナニーでは足りないと思っておりましたので……」=「Yes... I also thought masturbating wasn't enough...」
 「あの、この方は誰でしょうか？ お、男の方ですよね……？」=「Um, who is this person? A-A man, right...?」
-「いつもと違うエッチがしたいなと思って、俺が声をかけたんだ。ダメかな？」=[Someone I called. I want to try something different today. Could we?]
+「いつもと違うエッチがしたいなと思って、俺が声をかけたんだ。ダメかな？」=[I thought we could do something different today, you see. Could we?]
 「か、彼氏である貴方意外とはエッチをするなんて、私には考えられないのですが……」=「A-As your boyfriend, I can't imagine having sex with you unexpectedly...」
 「愛する貴方の望みを……叶えないわけには、いきません……」=「There's no way... I won't grant the wish of the person I love...」
 「ありがとう。満足してもらえるように頑張るね」=[Thanks. I'll do my best so that you enjoy it too.]
@@ -2068,7 +2068,7 @@
 「まさか、この方とも？ それは、破廉恥過ぎます……」=「No way, with this person? That would be too shameless...」
 「……ですが、どこか期待している自分がいるのも事実です。……貴方の望みに、従います……」=「...However, it is also true that there is a part of me that has high hopes for you. ...I will obey your wishes...」
 「ああ、貴方が傍に来ると、余計に火照ってしまいます……」=「Ahh, when you're by my side, I get even hotter...」
-「……見てたらエッチしたくなって……いいかな？」=[....I kinda wanna have sex after all that... could we?]
+「……見てたらエッチしたくなって……いいかな？」=[....Watching's made me feel like doing it... could we?]
 「プールの中で致すのですか？ 貴方はよく思いつきますね」=「You're going to do it in the pool? I'm surprised you can think of something like that.」
 「貴方はとうにそのつもりなのですよね？ 本当に破廉恥なお方です」=「You've been planning to do that for a long time, haven't you? You really are a shameless person.」
 「薄々、貴方がそうおっしゃるのではないかと思っていました……」=「I thought you might say that...」

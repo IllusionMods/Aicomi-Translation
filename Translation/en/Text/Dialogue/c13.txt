@@ -519,7 +519,7 @@
 「ふふ、そうか。ならよかったのじゃ。お主といる時は遠慮なく頼めそうじゃな」=「Hehe, I see. That's good, then. It seems I can ask you to do it without holding back when I'm with you.」
 「別に期間限定メニューに限らず、俺の前では何でも気にせず注文してもいいよ」=「It's not just a limited-time menu. You can order anything in front of me without worrying about it.」
 「そうは言うが……さすがに、お主の前でカロリーが高いものは……」=「You say that, but... what's so high in calories in front of you...?」
-「ん？ 何か言った？」=「Hm? Did you say something?」
+「ん？ 何か言った？」=[Mm? Did you say something?]
 「な、何でもないのじゃ！」=「I-It's nothing!」
 「勉強する時、集中力を高める為にやってることってあるかな？」=「Is there anything you do to improve your concentration when you study?」
 「我はアロマを焚くことが多いの」=「We often burn aromas.」
@@ -550,7 +550,7 @@
 「いちごパフェの方も絶品じゃ！ やはり、いちごと生クリームの相性は抜群じゃのう」=「The strawberry parfait is also superb! As I thought, the cream paired perfectly with the strawberry.」
 「よかったら、チョコの方も食べてみる？」=「Would you like to try some chocolate too?」
 「良いのか？ では遠慮なくいただくのじゃ」=「Are you sure? Then feel free to take it.」
-「あ……」=「Ah...」
+「あ……」=[Ah....]
 「うむうむ……このチョコレート感溢れる味、たまらないのう！」=「Yes, yes... This chocolate-flavored flavor is irresistible!」
 「君に『あーん』ってしようとしてたのに、すくって食べちゃうなんて……こうなったら仕方ない、君に『あーん』ってしてもらおう」=「I was trying to say 'Ahhh' to you, but you scooped it up and ate it... There's no helping it. I'll have you say 'ahhh.'」
 「なにが仕方ないのか全然わからんが……『あーん』をしてほしいなら構わんぞ」=「I don't get what you're trying to say, but... if you want me to say 'Ahhh', then fine.」
@@ -1270,7 +1270,7 @@
 「恋愛事で、主導権は握りたい方？」=「Do you want to take the initiative in matters of love?」
 「あまり考えたことないが……どちらかというとリードしてほしいの」=「I've never really thought about it, but... if anything, I want you to take the lead.」
 「ないかの……じゃから、しっかり頼むぞ」=「I don't think so... So I'm counting on you.」
-「初恋っていつ？」=「When is your first love?」
+「初恋っていつ？」=[When did you first fall in love?]
 「う～ん、いつじゃろうな……もしかしたら、お主が初恋の相手かもしれんの。くすくす」=「Hmm, I wonder when... Maybe you're my first love. *giggle*」
 「自分が恋愛体質だと思ったりある？」=「Do you ever think of yourself as a romantic type?」
 「それはないかの……じゃが、今は素敵な彼氏がおるから、変わっていくことはあるかもの……くすくす」=「I don't think so... But I have a wonderful boyfriend now, so I wonder if things will ever change... *giggle*」
@@ -2037,15 +2037,15 @@
 「プールでするのか？ なんじゃか、とてもすごいことになりそうな予感がするのじゃ」=「You're going to do it in the pool? I have a feeling something amazing is going to happen.」
 「普段勉強している机でするのか？ 何とも破廉恥な気持ちになってしまうの……」=「Do you do it at the desk you usually study at? It makes me feel shameless...」
 「おわっ……お主、ここで何を……まさか……見ておったのか？」=「Whoa... What are you doing here...? Don't tell me... you saw it?」
-「ごめん……悪いとは思ったんだけど、つい見惚れちゃって……」=[Sorry... I did feel pretty bad but, I couldn't look away....]
-「その、さ……見てたらエッチしたくなっちゃったんだけど、これからどうかな？」=[Say, uhm... I kinda can't contain myself after seeing that, how about we have sex?]
+「ごめん……悪いとは思ったんだけど、つい見惚れちゃって……」=[Sorry... I do feel bad about it but, I just couldn't help but get mesmerized...]
+「その、さ……見てたらエッチしたくなっちゃったんだけど、これからどうかな？」=[And erhm, you see... watching you made me wanna do it, so how about you and I, you know?]
 「なんとも積極的なやつじゃの……よほど興奮しておるのじゃな」=「What an assertive guy... He must be very excited.」
 「くすっ、よいぞ。共に気持ちよくなろうではないか」=「Teehee. Very well. Let's feel good together.」
 「な、なぬっ……ここでか？ お主は本当に大胆なのじゃ……」=「Wh-Wha... Here? You really are bold...」
 「お、ようやく出てきおったの……ふふ、どうしたのじゃ？」=「Oh, it's finally coming out... Hehe, what's wrong?」
-「……見てたらエッチしたくなって……いいかな？」=[....I kinda wanna have sex after all that... could we?]
+「……見てたらエッチしたくなって……いいかな？」=[....Watching's made me feel like doing it... could we?]
 「んん？ なんでここに他の人がおるのじゃ？」=「Hmm? Why are there other people here?」
-「いつもと違うエッチがしたいなと思って、俺が声をかけたんだ。ダメかな？」=[Someone I called. I want to try something different today. Could we?]
+「いつもと違うエッチがしたいなと思って、俺が声をかけたんだ。ダメかな？」=[I thought we could do something different today, you see. Could we?]
 「えっ……お、お主……本気で言っておるのか？ 他の男を交えてしたいと……」=「Huh...? Y-You... Are you serious? You want to join another man...」
 「うぅ……その目は本気なのじゃな……なら、わかった……恋人の頼みは、断れぬ……」=「Ugh... Those eyes are serious... Then I understand... I can't refuse a request from my lover...」
 「ありがとう。満足してもらえるように頑張るね」=[Thanks. I'll do my best so that you enjoy it too.]

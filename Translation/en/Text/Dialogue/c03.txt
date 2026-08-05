@@ -9,7 +9,7 @@
 「お祭りも花火も終わっちゃったね」=「The festival and the fireworks are over.」
 「楽しかったからちょっと寂しいけど、そろそろ帰らなくちゃ」=「It was fun, so it's a little lonely, but I have to go home soon.」
 「そうだね、遅くなり過ぎてもいけないし。じゃあ、また」=「Yeah, we can't be too late. See you later.」
-「うん。それじゃあ、またね」=「Okay. See you later, then.」
+「うん。それじゃあ、またね」=[Yeah. Well then, see you later.]
 「君の話はいつも面白くて楽しいね。もっとたくさん、話したくなっちゃうよ」=「Your stories are always fun and interesting. It makes me want to talk about them more.」
 「最初の頃は何を話したらいいんだろうって考えてたんだけどなあ」=「At first, I was wondering what we should talk about.」
 「慣れない内は、話す内容にも迷っちゃうよね」=「When you're not used to it, you don't know what to say.」
@@ -465,7 +465,7 @@
 「そっか。そういうことなら、さっきの言葉は素直に受け止めておこうかな」=「I see. In that case, I guess I'll just accept what you said earlier.」
 「うん、そうしてよ。君が居てくれて良かったって、本心から思ってるから」=「Yeah, do that. I'm really glad you're here.」
 「でもさ、うちも君が一緒で良かったって思ってるんだよ」=「But I'm glad you're with me.」
-「そうなの？」=[You think?]
+「そうなの？」=[Really?]
 「だって、同じようなお祭りと花火で目新しさはなかったからさ……」=「I mean, the same festival and fireworks didn't have anything new to them...」
 「ああ、なるほど。いつものことで、普通になってたんだね」=「Ah, I see. So that's how it's always been.」
 「でも今日は君と一緒だったから、今までより新鮮で楽しい気持ちになれたよ」=「But because I was with you today, I was able to feel more fresh and fun than ever before.」
@@ -810,7 +810,7 @@
 「うん、うちはそう思ったよー。君も飲んでみたら感想教えてよ」=「Yeah, that's what I thought. Tell me what you think when you try it.」
 「わかった。近いうちに飲むと思う」=「Okay. I think I'll drink it soon.」
 「こういうのって、自分の感覚以外の感想も聞きたくなるよね」=「This kind of thing makes me want to hear your impressions other than my own.」
-「花火、終わったね」=「Looks like the fireworks are over.」
+「花火、終わったね」=[The fireworks are all over, huh?]
 「うん。なんだかあっという間に終わっちゃった」=「Yeah. It ended pretty quickly for some reason.」
 「楽しい時間ってすぐに過ぎていくよね」=「Fun times pass quickly, don't they?」
 「ねえ……まだ帰りたくないよ……」=「Hey... I don't want to go home yet...」
@@ -914,7 +914,7 @@
 「うん、知ってるよ」=「Yeah, I know.」
 「そっかー。楽しめるといいね」=「I see. I hope you enjoy it.」
 「これ以上は遅くなりすぎるから……そろそろ帰ろう」=「It's going to be too late... so let's go home.」
-「……うん。そうだね」=「...Yeah. You're right.」
+「……うん。そうだね」=[....Yeah. You're right.]
 「おはよう。なんだか、朝から眠そうだねえ」=「Good morning. You look kinda sleepy this morning.」
 「ああ、おはよう。見つけた動画が面白くてつい遅くなって……まだ眠いよ」=「Yeah, good morning. The video I found was so interesting that I ended up getting late... I'm still sleepy.」
 「授業中に眠気のピークがきそうなやつだけど、寝ちゃったらだめだよ」=「It looks like you'll be at the peak of your drowsiness during class, but don't fall asleep.」
@@ -1470,7 +1470,7 @@
 「一緒だね！ 身体を思いっきり動かすと、気持ちいいよねー」=「It's the same! It feels good to move your body as much as you can.」
 「フルマラソンに挑戦しようか考えてるんだ」=「I'm thinking about trying a full marathon.」
 頑張ってね！=Good luck!
-それはすごいね=That's amazing.
+それはすごいね=That's amazing
 大変そう……=Sounds like a lot of work...
 「君が応援してくれるならやってみようかな」=「If you're cheering me on, maybe I'll give it a try.」
 「スポーツ観戦は現地に行くタイプ？」=「Are you the type to go to the field to watch sports?」
@@ -1800,7 +1800,7 @@
 「あんまり話したい気分じゃないから、手短にしてね」=「I don't really feel like talking, so make it quick.」
 「いいよー。どこに行くつもりなの？」=「Sure. Where do you think you're going?」
 「あー……うん」=「Ah... Yeah.」
-「ふぅん……」=「Hmm...」
+「ふぅん……」=[Hmmm.....]
 「へぇ……」=「Huh...」
 「どうしたの、何かあったー？」=「What's wrong? Did something happen?」
 「うち、君とエッチしたいな……」=「I want to have sex with you...」
@@ -2074,7 +2074,7 @@
 「うん……うちも、君とエッチしたい」=「Yeah... I want to have sex with you too.」
 「あー。なんか変なことするつもりでしょ」=「Ah. You're going to do something weird, aren't you?」
 「ねえ、この人って誰なの？」=「Hey, who is this person?」
-「いつもと違うエッチがしたいなと思って、俺が声をかけたんだ。ダメかな？」=[Someone I called. I want to try something different today. Could we?]
+「いつもと違うエッチがしたいなと思って、俺が声をかけたんだ。ダメかな？」=[I thought we could do something different today, you see. Could we?]
 「え……じゃあ、この人も入れて三人でエッチするってこと？ 本当に？」=「Huh...? So the three of us are going to have sex together, including this person? Really?」
 「んん……でも君がしてみたいっていうなら、仕方ないかな。それに、うちも興味ないわけじゃないし」=「Hmm... But if you want to try it, I guess it can't be helped. Besides, it's not like I'm not interested.」
 「ありがとう。満足してもらえるように頑張るね」=[Thanks. I'll do my best so that you enjoy it too.]
@@ -2093,8 +2093,8 @@
 「ええ、また三人でしたいの？ 君って本当にさあ……でも、そんな君のことがうちは好きなんだから、仕方ないか」=「Yes, do you want to do it with the three of us again? You really are... But I love you, so I guess it can't be helped.」
 「三人でしたいって、君はすっごくエッチだね……ふふ、いいよ」=「You said it was just the three of us, but you're really perverted... Hehe, it's okay.」
 「ひゃぁ……もしかして、見てたの……？」=「Hyah... Were you watching...?」
-「ごめん……悪いとは思ったんだけど、つい見惚れちゃって……」=[Sorry... I did feel pretty bad but, I couldn't look away....]
-「その、さ……見てたらエッチしたくなっちゃったんだけど、これからどうかな？」=[Say, uhm... I kinda can't contain myself after seeing that, how about we have sex?]
+「ごめん……悪いとは思ったんだけど、つい見惚れちゃって……」=[Sorry... I do feel bad about it but, I just couldn't help but get mesmerized...]
+「その、さ……見てたらエッチしたくなっちゃったんだけど、これからどうかな？」=[And erhm, you see... watching you made me wanna do it, so how about you and I, you know?]
 「うちのオナニー見て、興奮しちゃったんだ……」=「Looking at my masturbation got me excited...」
 「いいよ……？ うちもそういう気分になってたから」=「It's okay... I was feeling the same way.」
 「……うちのオナニーで、そこまで興奮したんだね」=「...I didn't know masturbating at home could get you that excited.」
@@ -2109,7 +2109,7 @@
 「あの、うちも混ぜてくれないかな……見てたら一緒にしたくなっちゃって……」=「Umm, could you let me join you...? Watching you made me want to do it with you...」
 「こ、こんなところで……？ ええ……だ、大丈夫かなあ」=「I-In a place like this...? Yes... I-I wonder if I'll be okay.」
 「んふふ……もっと近くで見たくなったの？」=「Hehehe... Did you want to see it up close?」
-「……見てたらエッチしたくなって……いいかな？」=[....I kinda wanna have sex after all that... could we?]
+「……見てたらエッチしたくなって……いいかな？」=[....Watching's made me feel like doing it... could we?]
 「あのね、これでいいのかなってちょっと不安になっちゃうくらい気持ちよかったよ」=「You know, it felt so good that I was a little worried if this was okay.」
 「う、うちとそういうこと、したいんだ……ふぅん。まあいいよ……」=「I-I want to do that with you... Hmm. Well, whatever...」
 「こ、これヤバイよ。すっごいドキドキして、興奮しちゃった……」=「Th-This is bad. My heart's beating so fast, I'm getting excited...」

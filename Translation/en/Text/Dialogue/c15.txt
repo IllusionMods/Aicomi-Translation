@@ -16,7 +16,7 @@
 「口を塞ぐ気！？」=「Are you trying to cover your mouth!?」
 「嫌ならキザなことを言わないことね？」=「If you don't like it, then please do not say such pretentious things.」
 「んー……どれにしようかなぁ……」=「Hmm... Which should I choose...?」
-「えいっ」=「Eigh!」
+「えいっ」=[Ei--!]
 「冷たっ！？」=「Cold!?」
 「ふふ、良い反応ね」=「Hehe, that's a good reaction.」
 「なんだ、君か……びっくりしたぁ……」=「Oh, it's you... That surprised me...」
@@ -29,7 +29,7 @@
 「君とか？」=「Like you?」
 「私はその時の気分によるわね」=「It depends on how I feel then.」
 「出来るだけ来てもらえるように頑張るよ。またよろしくね」=「I'll do my best to get you to come. See you later.」
-「プールで一緒に泳がない？」=「Why don't we swim in the pool together?」
+「プールで一緒に泳がない？」=[Wanna take a swim together?]
 「暑かったしいいわよ」=「It was hot, so it's fine.」
 「それじゃあ着替えてくるわね」=「I'll go get changed, then.」
 「プールはただ浮かんでいるだけでも、楽しいわよね」=「It's fun just to float in the pool.」
@@ -49,7 +49,7 @@
 「わかったよ！」=「Got it!」
 「……バカなんだから」=「...You're an idiot.」
 「貴方と見る花火も捨てたものではないわね」=「The fireworks I see with you aren't abandoned either.」
-「また一緒に見てくれる？」=「Will you watch with me again?」
+「また一緒に見てくれる？」=[Say, will you come here with me again?]
 「貴方次第じゃないかしら」=「Isn't that up to you?」
 「焼きそばをいただけるかしら？」=「Could I have some yakisoba?」
 「ここの代金は俺が払うよ」=「I'll pay for this place.」
@@ -86,7 +86,7 @@
 「さあ？ どうかしら」=「Who knows? I don't know.」
 「まあ、隣にいるのも嫌だったら言ってね」=「Well, if you don't want to be next to me, just let me know.」
 「だったらとっくのとうに帰ってるわ」=「In that case, I'd have gone home a long time ago.」
-「それならよかった」=「That's good to hear.」
+「それならよかった」=[Glad to hear that.]
 「……綺麗な花火ね」=「...Those fireworks are beautiful.」
 「特別な花火って感じがして、いいよね」=「It feels like special fireworks, so it's nice.」
 「花火というのは、いつだって特別でしょう？」=「Fireworks are always special, aren't they?」
@@ -189,7 +189,7 @@
 「君の言う通りかもね」=「You might be right.」
 「じゃあ、もし俺達の趣味とかが似てきたりしたら、逆に合わなくなるのかな？」=「Then, if our tastes start to resemble each other, won't that just make it worse?」
 「その可能性もあるかもしれないわね。でも、今のところ心配する必要はないでしょ」=「That might be the case. But there's no need to worry right now.」
-「どうして？」=「Why?」
+「どうして？」=[Why?]
 「だってお互い、自然体なのだから」=「Because we're both acting natural.」
 「ここで何をしているの？」=「What are you doing here?」
 「ああ、ここで待っているといいものが見られるのよ」=「Yeah. If you wait here, you'll see something good.」
@@ -244,7 +244,7 @@
 「前にコーギーの話をしたから？」=「Because we talked about Corgi before?」
 「そうそう、本で読んでから動画見たらすごくよくってさ」=「Yeah, that's right. When I read it in a book and watched a video, it was really good.」
 「分かるわ。私も動画で色々な犬を見たりしてるもの」=「I get it. I've seen a lot of different dogs in videos too.」
-「例えば？」=「For example?」
+「例えば？」=[Like how?]
 「最近はハスキーにはまっているわ」=「I've been getting into the husky lately.」
 「まだ一緒にいたいな……エッチしない？」=「I still want to be with you... Wanna have sex?」
 「随分と浮かれているみたいね？ でもまあ、構わないわ」=「Looks like you're pretty excited, huh? But, well, I don't mind.」
@@ -337,7 +337,7 @@
 「クサいセリフを言うからよ」=「It's because you said such a stinking line.」
 「これとこれ、あとこれも頂けるかしら」=「Could I have this, this, and this as well?」
 「料金はこれで」=「That's the fee.」
-「あら、奇遇ね」=「Oh, what a coincidence.」
+「あら、奇遇ね」=[Oh, what a coincidence.]
 「俺も何か食べたりしようかなって思ってたんだよ」=「I was thinking of eating something too.」
 「流れで貢いでくれるのはポイント高いわよ」=「It's worth a lot of points if you pay me with the flow.」
 「ポイントを稼げて嬉しいよ」=「I'm happy to earn points.」
@@ -393,7 +393,7 @@
 「そ。分かり切ってた事だけどね」=「Yeah. It was obvious, though.」
 「もしかしてバレバレだった？」=「Could it have been obvious?」
 「そりゃ、どう扱ってもあんなに話しかけてくるなら、そうでしょう？」=「Well, no matter how you treat it, if you talk to me like that, isn't that right?」
-「そうかも……」=「Maybe...」
+「そうかも……」=[Might be....]
 「じゃあ、これからは私のパートナーだから。あまり恥ずかしい真似はしないでね」=「Then we'll be partners from now on. Don't do anything too embarrassing.」
 「気を付けるよ」=「I'll be careful.」
 「まあ……貴方って変な所があるから、期待はほどほどにしといてあげる」=「Well... You've got a weird side to you, so I'll keep your expectations in moderation.」
@@ -431,7 +431,7 @@
 「ちょっと頭が高いんじゃない？」=「Aren't you a little smart?」
 「え、下げた方がいい？」=「Huh? Should I lower it?」
 「もっと下げてみて」=「Try lowering it more.」
-「こう？」=「Like this?」
+「こう？」=[Like this?]
 「いいわね、貴方。悪くないわ」=「How nice of you. It's not bad.」
 「今日も蛍を見に来ているんだ」=「I'm here to see fireflies again today.」
 「まあね、貴方もでしょう？」=「Yeah, you too, right?」
@@ -479,7 +479,7 @@
 「まあ、分からなくもないわね。でも布団を叩くのは楽しいと思わない？」=「Well, I guess I get it. But don't you think hitting the futon is fun?」
 「え、そうかな、腕とか疲れるなって思っちゃうんだけど」=「Huh? You think so? I don't want to get tired of your arms and stuff.」
 「いい音が鳴るのよ。それに、干した後の布団で寝るのって心地いいのよ」=「It makes a nice sound. Besides, it's nice to sleep in a futon after drying it.」
-「それは確かに」=「That's true.」
+「それは確かに」=[True, you've got a point there.]
 「他に叩いたり出来ればいいのだけれど」=「I hope I can hit something else.」
 「……俺は叩かないでね？」=「...Don't hit me, okay?」
 「どうかしら、このブランドのチョーカー、結構いいと思わない？」=「I don't know. Don't you think this brand of choker is pretty good?」
@@ -516,7 +516,7 @@
 「まずは見つける所からだけど、その時は手伝ってくれる？」=「Let's start by finding her. Will you help me out when that time comes?」
 「もちろん」=「Of course.」
 「いい返事ね。頼りにさせてもらうわ」=「That's a good answer. I'll be counting on you.」
-「あれ、何してるの？」=[Huh, what are you doing?]
+「あれ、何してるの？」=[Huh, what're you up to?]
 「清掃のボランティアよ。ほら、貴方も手伝うといいわ」=「I'm volunteering to clean. Here, you should help too.」
 「そうだね、手伝わせてもらおうかな」=「Yeah, I think I'll help.」
 「いい心がけだわ。辺り一帯をすごく綺麗にしてしまいましょう」=「That's a good attitude. Let's clean up the whole area.」
@@ -579,7 +579,7 @@
 「……構わないわ」=「...I don't mind.」
 「本当に！？」=[Really?!]
 「ただし、貴方はこれから私に逆らえないけど、いいわよね？」=「But you won't be able to disobey me from now on. Is that okay?」
-「望むところだよ」=「That's exactly what I want.」
+「望むところだよ」=[I'll take that bet.]
 「へえ、良い顔をするじゃない」=「Wow, you're making a good face.」
 「決める時は決める男なんだ」=「He's the kind of guy who decides when to make a decision.」
 「ふふ、面白い子は嫌いじゃないわ」=「Hehe, I don't hate funny girls.」
@@ -683,7 +683,7 @@
 「貴方……正気？」=「Are you... sane?」
 「真剣に、そう呼んで欲しいと思ってる」=「I seriously want you to call me that.」
 「しょうがないわね……[Pあだ名]」=「Oh well... [Pあだ名].」
-「ありがとう、[Hあだ名]」=[Thanks, [Hあだ名].]
+「ありがとう、[Hあだ名]」=[Thanks, xyz.]
 「調子に乗らないでくれる？」=「Could you not get carried away?」
 「ごめんなさい……」=[I'm sorry....]
 「まあ、案外悪くないからたまには呼んであげるわ……そっちも呼んでいいわよ」=「Well, it's not that bad, so I'll call you once in a while... You can call me that too.」
@@ -761,7 +761,7 @@
 「まあ、今はこっちの星空を眺めていようよ」=「Well, let's just stare at this starry sky for now.」
 「……ええ。この景色を楽しむ余白は生まれたかもしれないわね」=「...Yes. I may have created a room to enjoy this scenery.」
 「それは何よりかな」=「I'm glad to hear that.」
-「何してるの？」=[What'cha doing?]
+「何してるの？」=[What're you doing?]
 「お風呂上がりでのんびりとしてるのよ」=「I'm taking it easy after getting out of the bath.」
 「ここの銭湯っていいよね」=「This bathhouse is nice.」
 「わかるわ。日々の疲れが取れるのよね」=「I get it. You can relieve your fatigue from day-to-day.」
@@ -799,7 +799,7 @@
 「また来ようね」=「Let's come again.」
 「その時の気分によっては来てあげてもいいけれど……この後はどうするの？」=「I can come depending on how you feel at the time, but... what are you going to do after this?」
 「いいこと思いついたのだけれど」=「I just had a good idea.」
-「なに？」=「What?」
+「なに？」=[What?]
 「貴方が私の代わりに家事をしてくれれば全て解決するんじゃないかしら」=「If you do the housework in my place, everything will be resolved.」
 「……俺が大変なんだけど」=「...It's hard for me.」
 「ふぅん。私の執事になれる機会を逃すのね？」=「Hmm. You'll miss your chance to become my butler, won't you?」
@@ -808,7 +808,7 @@
 「そういうのもあるかもしれないわね。田舎の数少ない利点だわ」=「That might be part of it. It's one of the few advantages in the countryside.」
 「俺的には空気も美味しいし、いっぱい良い所があると思うけど」=「For me, the air is delicious, and I think there's a lot of good things about it.」
 「ま、私も今はそんなに悪くはないと思っているわよ」=「Well, I don't think it's that bad right now.」
-「そうなの？」=[You think?]
+「そうなの？」=[Really?]
 「誰かさんのおかげで退屈しなくなったしね……ほら、花火を見ましょ」=「Thanks to a certain someone, I won't get bored anymore... Come on, let's watch the fireworks.」
 「今は君を見ていたいかな」=「I think I want to be watching you right now.」
 「うるさい坊やがいるわね」=「There's a noisy boy here.」
@@ -824,7 +824,7 @@
 「例えばこの本とかはどうかしら？」=「How about this book, for example?」
 「おお、なんか難しそうだね……」=「Ooh, that sounds kinda hard...」
 「私にはこのくらい簡単なんだけれどね」=「It's this easy for me, though.」
-「一緒に課題しない？」=「Wanna do homework together?」
+「一緒に課題しない？」=[Wanna do homework together?]
 「まあ、進んでない子と勉強するのも自分のスキルアップになるかしら」=「Well, I guess studying with a girl who hasn't made any progress will improve my skills.」
 「さて、どこから手をつけようかしら」=「Now then, where should I start?」
 「どの課題をするか迷ってるの？」=「You're not sure which assignment to do?」
@@ -916,7 +916,7 @@
 「ま、私はいずれ欲しいものを全部手に入れるつもりよ」=「Well, I plan to eventually get everything I want.」
 「さすがだ……カッコいいなぁ……」=「Wow... You're so cool...」
 「貴方も、欲しい物をなんでも買えるくらいの男になりなさい？」=「Become a man who can buy anything he wants, you know?」
-「善処するよ」=「I'll do my best.」
+「善処するよ」=[I'll do the best I can.]
 「今はこのウインドウショッピングを楽しみましょうか」=「Let's enjoy this window shopping for now.」
 「そうだね。お、あれとか面白そう」=「Yeah. Oh, that sounds interesting.」
 「期間限定みたいね」=「Looks like it's only for a limited time.」
@@ -975,7 +975,7 @@
 「痛いのはちょっと……」=「It hurts a little...」
 「将来手痛くなるのは自分自身よ？」=「You're the one who's going to suffer in the future, you know?」
 「今度からは真面目に出るよ……」=「I'll take it seriously next time...」
-「わかればよろしい」=「As long as you understand.」
+「わかればよろしい」=[Glad you understand.]
 「貴方の絶叫は何度聞いても心地いいわ」=「Your screams are comforting no matter how many times I hear them.」
 「喉がすごい事になってるけどね」=「My throat's gotten really big, though.」
 「確かに少しガラガラね？ 飴でも欲しい？」=「Yeah, it's a little rough, isn't it? Want some candy?」
@@ -1028,7 +1028,7 @@
 「加点方式とは限らないわよ？」=「There's no guarantee it'll be a scoring system, you know?」
 「減点されないように気を付けるよ」=「I'll be careful not to lose any points.」
 「それじゃあ、行きましょうか」=「Well then, shall we go?」
-「……おはよう」=[.....Morning.]
+「……おはよう」=[....Morning.]
 「ああ、おはよう！ いい朝だね」=「Oh, good morning! What a nice morning.」
 「貴方って朝から暑苦しいわね……」=「You've been so sweltering all morning...」
 「あら、サボりかしら」=「Oh, are you slacking off?」
@@ -1074,7 +1074,7 @@
 「へえ？ 寂しそうな顔も見たかったけど、まあいいわ」=「Huh? I wanted to see your lonely face, but whatever.」
 「じゃあ……こんな感じ？」=「So... like this?」
 「わざとらしいわね、減点」=「That's a pretty deliberate deduction.」
-「ええっ！？」=「Ehhh!?」
+「ええっ！？」=[Eeeh--!?]
 「さてと、どこに行きましょうか？」=「Now then, where should we go?」
 「グループ学習らしく、ひとまず意見を出し合いましょう。まずは貴方からね」=「Let's start by giving our opinions to each other, like a group study session. We'll start with you.」
 「俺は、こういう見方ができると思うんだけど、どうかな？」=「I think I can look at it this way. What do you think?」
@@ -1296,7 +1296,7 @@
 「ふぁぁ……おや？ 手紙だ……」=「Fwah... Oh? It's a letter...」
 『寝ている間に、私の証をつけておいたわ』=“While I was sleeping, I put on my proof.”
 『いい夢、見れたかしら？ 先に帰らせてもらうわね』=“Did you have a good dream? I’ll be going home first.”
-「そう……」=「I see...」
+「そう……」=[I see....]
 「ここは立ち入り禁止。止めてくれる私がいてよかったわね？」=「This place is off-limits. Isn't it good that I'm here to stop you?」
 「一緒に勉強するわよ」=「Let's study together.」
 「スパルタに指導してあげる」=「I'll teach you to be a Spartan.」
@@ -1598,7 +1598,7 @@
 「わかった、頑張るよ」=「Okay, I'll do my best.」
 「いい子ね」=「You're a good girl.」
 「全部解けたらご褒美とかは……」=「If I solve all of them, I won't get a reward...」
-「考えといてあげるわ」=「I'll think about it.」
+「考えといてあげるわ」=[I'll think about it~.]
 「飴玉一つくらいは上げてもよさそうね」=「Looks like I can give you at least one piece of candy.」
 「さて、また気が向いたら一緒に勉強してあげるわ」=「Now then, if you feel like it, I'll study with you again.」
 「いいわ。貴方にエスコートさせてあげる」=「Fine. I'll let you escort me.」
@@ -1892,7 +1892,7 @@
 「豚に真珠だと思ってたわ」=「I thought it was a pig and a pearl.」
 「ひどい言われよう……」=「You're being awful...」
 「これでも褒めてるのよ？」=「I'm praising you, you know?」
-「本当？」=「Really?」
+「本当？」=[You mean it?]
 「ふふ、どうかしらね？」=「Hehe, what do you think?」
 「まあ、悪くない時間だったわ」=「Well, it wasn't a bad time.」
 「また一緒に食べてもいいけれど……ま、その時の気分次第ね」=「We can eat together again, but... well, it depends on how you feel then.」
@@ -2122,22 +2122,22 @@
 「……まあ、構わないけれど？」=「...Well, I don't mind.」
 「ずっと見ていたの？」=「Were you watching the whole time?」
 「どうしてここに、貴方以外のオスがいるのかしら」=「Why is there a male other than you here?」
-「いつもと違うエッチがしたいなと思って、俺が声をかけたんだ。ダメかな？」=[Someone I called. I want to try something different today. Could we?]
+「いつもと違うエッチがしたいなと思って、俺が声をかけたんだ。ダメかな？」=[I thought we could do something different today, you see. Could we?]
 「……貴方、そういう性癖もあったのね？」=「...You have a fetish for that, don't you?」
 「寛大な私に感謝しなさい、普通ならすぐ縁を切られてもおかしくないことよ」=「You should be grateful to me for my generosity. Under normal circumstances, it wouldn't be strange for you to cut ties with me right away.」
 「ありがとう。満足してもらえるように頑張るね」=[Thanks. I'll do my best so that you enjoy it too.]
 「普段勉強しているところでシたがるなんて、倒錯的ね？」=「It's perverse of you to want to do it when you're studying normally, isn't it?」
 「水の中でエッチをするの？ 変わった趣向ね」=「You're going to have sex in the water? That's a strange idea.」
 「ふぅん、このタイミングで出てくるのね？」=「Hmm, so this is the timing?」
-「……見てたらエッチしたくなって……いいかな？」=[....I kinda wanna have sex after all that... could we?]
+「……見てたらエッチしたくなって……いいかな？」=[....Watching's made me feel like doing it... could we?]
 「貴方って、節操がないわね？」=「You're unruly, aren't you?」
 「ま、いいけれど」=「Well, whatever.」
 「いいわ。早く来なさい？」=「Okay. Hurry up and come.」
 「なぜ貴方がここにいるのかしら？」=「Why are you here?」
 「また三人でシタいのね？ 仕方がないから調教してあげる」=「The three of you are so stubborn again, aren't you? I can't help it, so I'll train you.」
 「あら、覗いていたの」=「Oh, you were peeking?」
-「ごめん……悪いとは思ったんだけど、つい見惚れちゃって……」=[Sorry... I did feel pretty bad but, I couldn't look away....]
-「その、さ……見てたらエッチしたくなっちゃったんだけど、これからどうかな？」=[Say, uhm... I kinda can't contain myself after seeing that, how about we have sex?]
+「ごめん……悪いとは思ったんだけど、つい見惚れちゃって……」=[Sorry... I do feel bad about it but, I just couldn't help but get mesmerized...]
+「その、さ……見てたらエッチしたくなっちゃったんだけど、これからどうかな？」=[And erhm, you see... watching you made me wanna do it, so how about you and I, you know?]
 「へえ……私の欲求を満たしてくれるのかしら？」=「Huh... Will you be able to satisfy my desires?」
 「……いいわよ、たくさん奉仕しなさい？」=「...Fine, service me a lot, okay?」
 「貴方って本当に変態ね」=「You really are a pervert.」

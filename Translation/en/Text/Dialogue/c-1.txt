@@ -238,7 +238,7 @@
 「うーん……もっと他の話題はないのかしら？」=「Hmm... I wonder if there's anything else to talk about?」
 「素敵な時間を過ごせたわ。それじゃ、今の内に移動しちゃう？」=「We had a great time. Shall we move on while we can?」
 「あら、キミもお祭りに？」=「Oh, you're at the festival too?」
-「どうしたの？」=[Go for it.]
+「どうしたの？」=[What's wrong?]
 「ええ、いいわよ。時間はちゃんと空けてたし」=「Yeah, it's fine. I set time aside.」
 「いいわよ、なんでもどうぞ」=「Go ahead, anything you like.」
 「都会とここじゃ、いろいろ勝手が違うでしょ？ 何か困ってない？」=「The city and here are pretty different, right? Isn't there something troubling you?」
@@ -312,7 +312,7 @@
 「都会で教師しようとは思わなかったの？」=「Didn't you want to teach in the city?」
 「思わなくもないけど、都会よりも村の生活のほうが性に合ってるわ」=「It's not like I don't think so, but village life suits me better than in the city.」
 「んー……他の話題に変えてくれると嬉しいわね」=「Hmm... I'd be happy if we could change the subject.」
-「そう……」=「I see...」
+「そう……」=[I see....]
 「ここに来て良かったと思ってる？」=「Do you think coming here was a good idea?」
 正直わからないよ=Honestly, I don't know.
 「ふふ、そう思えてるなら心配なさそうね」=「Hehe, if you feel that way, no need to worry.」

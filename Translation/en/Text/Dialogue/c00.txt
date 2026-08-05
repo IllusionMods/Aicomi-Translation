@@ -1489,7 +1489,7 @@
 「たまに私と君が仲よすぎって冷やかされるでしょう……アレ、嫌じゃない？」=「Sometimes you'll tease me for being too close to you... Don't you hate that?」
 「気にしてないよ。仲がいいの事実だし」=「I don't mind. It's true that we're close.」
 「あはっ、そうだよね♪ 私も気にしないことにしよっと」=「Aha, you're right♪ I'll try not to worry about it too much.」
-「二人で何か食べに行かない？」=「Why don't we go eat something together?」
+「二人で何か食べに行かない？」=[Wanna go get something to eat?]
 「えへへ、もう嬉しすぎて……幸せ太りしないか心配だよ」=「Ehehe, I'm so happy now... I worry I'll get fatter.」
 「私と食べたくないとかじゃないよね……お腹減ってなかっただけだよね……」=「It's not that you don't want to eat with me... You're just not hungry...」
 「デ、デート！？ それってその、私達恋人同士とかじゃないけど……いいのかな？」=「A-A date!? That's, umm, not like we're lovers or anything... Is that okay?」
@@ -2101,15 +2101,15 @@
 「い、悪戯なんてしないよ？ ただ気持ちよくしてあげるだけ」=「I-I'm not playing a prank on you. I'm just going to make you feel good.」
 「ふーん……気持ちよくって所が引っかかるけど……いいよ、とりあえずやってみて」=「Hmm... The part about how good it feels is bugging me, but... it's fine. Just give it a try.」
 「えっえっ、まさか覗いてたの？」=「Eh, eh, you were peeking?」
-「ごめん……悪いとは思ったんだけど、つい見惚れちゃって……」=[Sorry... I did feel pretty bad but, I couldn't look away....]
-「その、さ……見てたらエッチしたくなっちゃったんだけど、これからどうかな？」=[Say, uhm... I kinda can't contain myself after seeing that, how about we have sex?]
+「ごめん……悪いとは思ったんだけど、つい見惚れちゃって……」=[Sorry... I do feel bad about it but, I just couldn't help but get mesmerized...]
+「その、さ……見てたらエッチしたくなっちゃったんだけど、これからどうかな？」=[And erhm, you see... watching you made me wanna do it, so how about you and I, you know?]
 「まぁそうだよねぇ……見てたらそういう気持ちになっちゃうよねぇ」=「Yeah, you're right... I can't help but feel that way when I look at you.」
 「いいよ？ せっかくだし、一緒に気持ちよくなろ♪」=「It's okay, right? Since you're here, let's feel good together♪」
 「あのねぇ……よかったら私も混ぜて欲しいんだけど……嫌かな？」=「Hey... If you don't mind, I'd like to join you... Do you not like it?」
 「へっ、エッチ？ そっかぁ、君も覗きながらそういう気分に……」=「D-Dirty? I see, so that's how you feel while you're peeking...」
 「分かった、いいよ……一応その、私のせいってところもちょっとはあるし……」=「Okay, it's fine... It's kind of my fault...」
 「ねぇ……この男の人は誰？ なんかその、ちょっと雰囲気が……」=「Hey... Who's this guy? He's kinda, um, kinda...」
-「いつもと違うエッチがしたいなと思って、俺が声をかけたんだ。ダメかな？」=[Someone I called. I want to try something different today. Could we?]
+「いつもと違うエッチがしたいなと思って、俺が声をかけたんだ。ダメかな？」=[I thought we could do something different today, you see. Could we?]
 「わぁ……つまり私一人で二人を相手にってことだよね……なんか、凄いことになっちゃいそう……」=「Wow... In other words, I'm going to have to deal with both of them by myself... This is going to be amazing...」
 「でも、いいよ……もう二人ともおっきくなってるし……がっかりさせちゃうのは可哀想だから……」=「But it's okay... They're both already big... I feel bad for disappointing them...」
 「ありがとう。満足してもらえるように頑張るね」=[Thanks. I'll do my best so that you enjoy it too.]
@@ -2126,7 +2126,7 @@
 「見つかったら大変だからね……君は周りをちゃんと見てて……私はなるべく声を出さないようにするから」=「It'd be bad if they found us... You keep an eye on your surroundings... I'll try to keep my voice down as much as possible.」
 「ありがと～！ 二人の邪魔にはならないようにするから」=「Thank you~! I won't get in your way.」
 「あは、覗いてるの分かってたよ～。実は私も、見せつけて楽しんじゃってたんだぁ……」=「Aha, I knew you were peeking. Actually, I was having fun showing it off too...」
-「……見てたらエッチしたくなって……いいかな？」=[....I kinda wanna have sex after all that... could we?]
+「……見てたらエッチしたくなって……いいかな？」=[....Watching's made me feel like doing it... could we?]
 「用を足すってエッチな意味じゃないと思うんだけど……なんかもう、変な気分になっちゃってる」=「I don't think I meant it in a dirty way, but... I'm already starting to feel weird.」
 「たぶん誘ってくれるのを待ってるね……あんまり焦らしても可哀想だし、私は別にいいよ……」=「She'll probably be waiting for you to invite her... I don't want to rush her too much, so I'm fine with it...」
 「でも一番大変になるのは君だと思うから……ほんとに声をかけるかはお任せしちゃう」=「But I think you're the one who's going to have the hardest time... so I'll leave it to you to decide if you really want to talk to me.」
