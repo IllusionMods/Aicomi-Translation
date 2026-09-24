@@ -56,7 +56,7 @@ internal static class ReleaseTool
                     translationName = m.Groups[2].Value;
                 }
 
-                var translationDir = Path.Combine(root.FullName, "translation");
+                var translationDir = Path.Combine(root.FullName, "Translation");
                 if (!Directory.Exists(translationDir))
                 {
                     ShowInvalidArgsError();
